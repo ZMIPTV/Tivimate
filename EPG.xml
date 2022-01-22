@@ -345,6 +345,10 @@
     <display-name lang="es">Crimen   Investigacion</display-name>
     <url>http://www.movistarplus.es</url>
   </channel>
+  <channel id="ES: CRIMEN+ INVESTIGACION">
+    <display-name lang="es">Crimen   Investigacion</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
   <channel id="DreamWorks HD">
     <display-name lang="es">DreamWorks HD</display-name>
     <icon src="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" />
@@ -809,11 +813,26 @@
     <icon src="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" />
     <url>http://www.movistarplus.es</url>
   </channel>
+  <channel id="ES:ODISEA">
+    <display-name lang="es">ODISEA</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" />
+    <url>http://www.movistarplus.es</url>
+  </channel>
   <channel id="odisea.es">
     <display-name lang="es">Odisea FHD</display-name>
     <url>http://www.movistarplus.es</url>
   </channel>
   <channel id="NAT GEO HD">
+    <display-name lang="es">NAT GEO HD</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" />
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="ES: NAT GEO">
+    <display-name lang="es">NAT GEO HD</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" />
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="ES: NAT GEO FHD">
     <display-name lang="es">NAT GEO HD</display-name>
     <icon src="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" />
     <url>http://www.movistarplus.es</url>
@@ -827,6 +846,16 @@
     <url>http://www.movistarplus.es</url>
   </channel>
   <channel id="NAT GEO WILD HD">
+    <display-name lang="es">NG WILD HD</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" />
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="ES: NAT GEO WILD">
+    <display-name lang="es">NG WILD HD</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" />
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="ES: NAT GEO WILD FHD">
     <display-name lang="es">NG WILD HD</display-name>
     <icon src="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" />
     <url>http://www.movistarplus.es</url>
