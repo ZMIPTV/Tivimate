@@ -3,92 +3,41 @@
 
 -----------------documentales-------
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/National_Geographic_Logo_2016.png" tvg-id="NationalGeographic.es" ,NAT GEO
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-es.png?raw=true" tvg-id="NAT GEO" ,NAT GEO
 
 http://plus.linkott.com:80/50198715913792/97304261488292/30075
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_fr_hd.jpg" tvg-id="NationalGeographic.es" ,NAT GEO FHD
+#EXTINF:-1 group-title="Documentales" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_fr_hd.jpg" tvg-id="NAT GEO" ,NAT GEO FHD
 
 http://plus.linkott.com:80/50198715913792/97304261488292/30073
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/800px-Nat_Geo_Wild_logo.png" tvg-id="NatGeoWild.es" ,NAT GEO WILD
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" tvg-id="NAT GEO WILD" ,NAT GEO WILD
 
 http://plus.linkott.com:80/50198715913792/97304261488292/30074
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="http://www.topstb.info/logo/FRANCE/NGCWILDHD.png" tvg-id="NatGeoWild.es" ,NAT GEO WILD FHD
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" tvg-id="NAT GEO WILD" ,NAT GEO WILD FHD
 
 http://plus.linkott.com:80/50198715913792/97304261488292/30072
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/Caza-y-Pesca-Logotipo-2016.png/revision/latest?cb=20161008171111" tvg-id="CazaPesca.es" ,ES: CAZA Y PESCA
-
-http://plus.linkott.com:80/50198715913792/97304261488292/30178
-
-#EXTINF:-1 group-title="Documentales" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/Caza-y-Pesca-Logotipo-2016.png/revision/latest?cb=20161008171111" tvg-id="CazaPesca.es" ,ES: CAZA Y PESCA FULLHD
-
-http://plus.linkott.com:80/50198715913792/97304261488292/30177
-
-#EXTINF:-1 group-title="Documentales" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_iberalia.jpg" tvg-id="IberaliaTV.es" ,ES: Iberalia
-
-http://plus.linkott.com:80/50198715913792/97304261488292/30139
-
-#EXTINF:-1 group-title="Documentales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Historia_Logo_2015.png" tvg-id="HISTORIA" ,Historia
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" tvg-id="HISTORIA" ,Historia
 
 http://plus.linkott.com:80/50198715913792/97304261488292/30143
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/1280px-DKiss.svg.png" tvg-id="DKISS.es" ,ES: DKISS
-
-http://plus.linkott.com:80/50198715913792/97304261488292/30159
-
-#EXTINF:-1 group-title="Documentales" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2019/07/dmax-vector-logo.png" tvg-id="Dmax.es" ,ES: DMAX
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2019/07/dmax-vector-logo.png" tvg-id="Discovery MAX" ,ES: DMAX
 
 http://plus.linkott.com:80/50198715913792/97304261488292/30158
-
-#EXTINF:-1 group-title="Documentales" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/decasa.jpg" tvg-id="CanalDecasa.es" ,ES: CANAL DECASA HD
-
-http://plus.linkott.com:80/50198715913792/97304261488292/30166
 
 #EXTINF:-1 group-title="Documentales" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png" tvg-id="DiscoveryChannel.es" ,ES: DISCOVERY CHANNEL
 
 http://plus.linkott.com:80/50198715913792/97304261488292/30165
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Neox_2011_2.svg/1280px-Neox_2011_2.svg.png" tvg-id="Neox.es" ,ES: NEOX
-
-http://plus.linkott.com:80/50198715913792/97304261488292/30071
-
-#EXTINF:-1 group-title="Documentales" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/FdF_logo.png/revision/latest?cb=20110703083821" tvg-id="FactoriaFiccion.es" ,ES: FDF
-
-http://plus.linkott.com:80/50198715913792/97304261488292/30149
-
-#EXTINF:-1 group-title="Documentales" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/06/Divinity_2012.png/revision/latest?cb=20180117171741" tvg-id="Divinity.es" ,ES: DIVINITY
-
-http://plus.linkott.com:80/50198715913792/97304261488292/30160
-
-#EXTINF:-1 group-title="Documentales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Energy_2012.png" tvg-id="Energy.es" ,ES: ENERGY
-
-http://plus.linkott.com:80/50198715913792/97304261488292/30157
-
-#EXTINF:-1 group-title="Documentales" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_cocina.jpg" tvg-id="CanalCocina.es" ,ES: CANAL COCINA
-
-http://plus.linkott.com:80/50198715913792/97304261488292/30173
-
-#EXTINF:-1 group-title="Documentales" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/the_blaze_tv_us.jpg" tvg-id="Blaze.es" ,ES: BLAZE
-
-http://plus.linkott.com:80/50198715913792/97304261488292/30183
-
-#EXTINF:-1 group-title="Documentales" tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_logo_500_-1_758c.png" tvg-id="BeMad.es" ,ES: BE MAD FHD
-
-http://plus.linkott.com:80/50198715913792/97304261488292/30184
-
-#EXTINF:-1 group-title="Documentales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/MEGA_logo.png" tvg-id="Mega.es" ,ES: MEGA
-
-http://plus.linkott.com:80/50198715913792/97304261488292/68946
 
 
 
 
 --------------------telenovelas
 
-#EXTINF:-1 group-title="|EU| ESPAÑA CANALES" tvg-id="TeleNovelas.mx" ,ES: TELENOVELAS
+#EXTINF:-1 group-title="Telenovelas" tvg-id="TeleNovelas.mx" ,ES: TELENOVELAS
 http://plus.linkott.com:80/50198715913792/97304261488292/101601
 
 
