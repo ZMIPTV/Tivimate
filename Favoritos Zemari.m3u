@@ -3,30 +3,19 @@
 
 -----------------documentales-------
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="https://b1.pngbarn.com/png/850/727/world-flags-spain-icon-png-clip-art-thumbnail.png" ,---------- CULTURA ESPANA ----------
-http://plus.linkott.com:80/50198715913792/97304261488292/90101
-
-#EXTINF:-1 group-title="Documentales" tvg-logo="http://getlogo.net/wp-content/uploads/2019/08/canal-viajar-logo-vector.png" tvg-id="Viajar.es" ,ES: Viajar
-
-http://plus.linkott.com:80/50198715913792/97304261488292/30048
-
-#EXTINF:-1 group-title="Documentales" tvg-logo="http://getlogo.net/wp-content/uploads/2019/08/canal-viajar-logo-vector.png" tvg-id="Viajar.es" ,ES: VIAJAR FULLHD
-
-http://plus.linkott.com:80/50198715913792/97304261488292/30047
-
-#EXTINF:-1 group-title="Documentales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/National_Geographic_Logo_2016.png" tvg-id="NationalGeographic.es" ,ES: NAT GEO
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/National_Geographic_Logo_2016.png" tvg-id="NationalGeographic.es" ,NAT GEO
 
 http://plus.linkott.com:80/50198715913792/97304261488292/30075
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_fr_hd.jpg" tvg-id="NationalGeographic.es" ,ES: NAT GEO FHD
+#EXTINF:-1 group-title="Documentales" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_fr_hd.jpg" tvg-id="NationalGeographic.es" ,NAT GEO FHD
 
 http://plus.linkott.com:80/50198715913792/97304261488292/30073
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/800px-Nat_Geo_Wild_logo.png" tvg-id="NatGeoWild.es" ,ES: NAT GEO WILD
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/800px-Nat_Geo_Wild_logo.png" tvg-id="NatGeoWild.es" ,NAT GEO WILD
 
 http://plus.linkott.com:80/50198715913792/97304261488292/30074
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="http://www.topstb.info/logo/FRANCE/NGCWILDHD.png" tvg-id="NatGeoWild.es" ,ES: NAT GEO WILD FHD
+#EXTINF:-1 group-title="Documentales" tvg-logo="http://www.topstb.info/logo/FRANCE/NGCWILDHD.png" tvg-id="NatGeoWild.es" ,NAT GEO WILD FHD
 
 http://plus.linkott.com:80/50198715913792/97304261488292/30072
 
@@ -42,7 +31,7 @@ http://plus.linkott.com:80/50198715913792/97304261488292/30177
 
 http://plus.linkott.com:80/50198715913792/97304261488292/30139
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Historia_Logo_2015.png" tvg-id="Historia.es" ,ES: HISTORIA
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Historia_Logo_2015.png" tvg-id="HISTORIA" ,Historia
 
 http://plus.linkott.com:80/50198715913792/97304261488292/30143
 
