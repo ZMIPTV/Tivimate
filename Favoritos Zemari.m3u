@@ -7,7 +7,7 @@
 
 http://plus.linkott.com:80/50198715913792/97304261488292/30075
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_fr_hd.jpg" tvg-id="NAT GEO" ,NAT GEO FHD
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" tvg-id="NAT GEO" ,NAT GEO FHD
 
 http://plus.linkott.com:80/50198715913792/97304261488292/30073
 
@@ -37,7 +37,7 @@ http://plus.linkott.com:80/50198715913792/97304261488292/30165
 
 --------------------telenovelas
 
-#EXTINF:-1 group-title="Telenovelas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tln.png" tvg-id="TeleNovelas.mx" ,tln
+#EXTINF:-1 group-title="Telenovelas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tln.png?raw=true" tvg-id="TeleNovelas.mx" ,tln
 http://plus.linkott.com:80/50198715913792/97304261488292/101601
 
 
