@@ -37,7 +37,7 @@ http://plus.linkott.com:80/50198715913792/97304261488292/30165
 
 --------------------telenovelas
 
-#EXTINF:-1 group-title="Telenovelas" tvg-id="TeleNovelas.mx" ,ES: TELENOVELAS
+#EXTINF:-1 group-title="Telenovelas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tln.png" tvg-id="TeleNovelas.mx" ,tln
 http://plus.linkott.com:80/50198715913792/97304261488292/101601
 
 
