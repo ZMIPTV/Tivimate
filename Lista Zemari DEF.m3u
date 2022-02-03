@@ -19,3 +19,9 @@ http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/861
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/63
 #EXTINF:-1 tvg-name="Discovery Channel USA" tvg-id="56905" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true",Discovery Channel USA
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/1
+#EXTINF:-1 tvg-name="Discovery Channel LatinoAmerica" tvg-id="25788" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true",Discovery Channel LatinoAmerica
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/263
+#EXTINF:-1 tvg-name="Discovery Channel LatinoAmerica" tvg-id="25788" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true",Discovery Channel LatinoAmerica
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/195
+#EXTINF:-1 tvg-name="Discovery Civilization Latino America" tvg-id="id" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Discovery%20Civilization.br.png?raw=true",Discovery Civilization Latino America
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/10665
