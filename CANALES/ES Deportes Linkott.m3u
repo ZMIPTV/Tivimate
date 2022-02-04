@@ -23,7 +23,7 @@ http://plus.linkott.com:80/50198715913792/97304261488292/180283
 http://plus.linkott.com:80/50198715913792/97304261488292/30119
 #EXTINF:-1 tvg-name="N/A" tvg-id="LALIGATV BAR" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true",Laliga
 http://plus.linkott.com:80/50198715913792/97304261488292/103304
-#EXTINF:-1 tvg-name="M.EUROSPORT HEVC" tvg-id="M.EUROSPORT HEVC" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true",Eurosport
+#EXTINF:-1 tvg-name="M.EUROSPORT HEVC" tvg-id="EUROSPORT1HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true",Eurosport
 http://plus.linkott.com:80/50198715913792/97304261488292/180279
 #EXTINF:-1 tvg-name="N/A" tvg-id="EUROSPORT1HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true",Eurosport
 http://plus.linkott.com:80/50198715913792/97304261488292/103169
