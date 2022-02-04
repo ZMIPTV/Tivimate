@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="A001" tvg-id="HISTORIA" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true",Historia
+http://plus.linkott.com:80/50198715913792/97304261488292/30143
+#EXTINF:-1 tvg-name="A010" tvg-id="NAT GEO" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true",Nat Geo
+http://plus.linkott.com:80/50198715913792/97304261488292/30073
+#EXTINF:-1 tvg-name="A011" tvg-id="NAT GEO" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-es.png?raw=true",Nat Geo
+http://plus.linkott.com:80/50198715913792/97304261488292/30075
+#EXTINF:-1 tvg-name="A020" tvg-id="NAT GEO WILD" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true",Nat Geo Wild
+http://plus.linkott.com:80/50198715913792/97304261488292/30072
+#EXTINF:-1 tvg-name="A021" tvg-id="NAT GEO WILD" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true",Nat Geo Wild
+http://plus.linkott.com:80/50198715913792/97304261488292/30074
+#EXTINF:-1 tvg-name="A030" tvg-id="DISCOVERY" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/ZMIPTV/Tivimate/main/Logos/discovery-channel-es.png?raw=true",Discovery Channel
+http://plus.linkott.com:80/50198715913792/97304261488292/30165
+#EXTINF:-1 tvg-name="A031" tvg-id="Discovery MAX" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dmax-es.png?raw=true",DMAX
+http://plus.linkott.com:80/50198715913792/97304261488292/30158
+#EXTINF:-1 tvg-name="B001" tvg-id="70669" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true",History Latino America
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/10080
+#EXTINF:-1 tvg-name="B001A" tvg-id="70669" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true",History Latino America
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/98
+#EXTINF:-1 tvg-name="B010" tvg-id="88533" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true",Nat Geo Latino America
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/97
+#EXTINF:-1 tvg-name="B010A" tvg-id="88533" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true",Nat Geo Latino America
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/9734
+#EXTINF:-1 tvg-name="B020" tvg-id="66491" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true",Nat Geo Wild Latino America
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/18
+#EXTINF:-1 tvg-name="B021" tvg-id="72449" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/nat-geo-mundo-us.png?raw=true",Nat Geo Mundo
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/10637
+#EXTINF:-1 tvg-name="B030" tvg-id="25788" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true",Discovery Channel LatinoAmerica
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/195
+#EXTINF:-1 tvg-name="B030A" tvg-id="25788" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true",Discovery Channel LatinoAmerica
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/263
+#EXTINF:-1 tvg-name="B035" tvg-id="66488" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryWorld.br.png?raw=true",Discovery World
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/290
+#EXTINF:-1 tvg-name="B036" tvg-id="65940" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTheater.mx.png?raw=true",Discovery Theater
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/13
+#EXTINF:-1 tvg-name="B037" tvg-id="46610" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-science-icon-shade-us.png?raw=true",Discovery Science LatinoAmerica
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/9683
+#EXTINF:-1 tvg-name="B038" tvg-id="46608" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true",Discovery Turbo LatinoAmerica
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/6574
+#EXTINF:-1 tvg-name="B040" tvg-id="InvestigationDiscovery.us" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true",ID Discovery Latino America
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/861
+#EXTINF:-1 tvg-name="B040" tvg-id="25793" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true",ID Discovery Latino America
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/63
+#EXTINF:-1 tvg-name="B050" tvg-id="DiscoveryCivilizationLatinAmerica.pa" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/HGTV.png?raw=true",HGTV Latino America
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/10665
+#EXTINF:-1 tvg-name="C001" tvg-id="57708" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/history-channel-us.png?raw=true",History
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/15
+#EXTINF:-1 tvg-name="C030" tvg-id="56905" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true",Discovery Channel USA
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/1
+#EXTINF:-1 tvg-name="C040" tvg-id="65342" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true",ID Discovery US
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/807
+#EXTINF:-1 tvg-name="N/A" tvg-id="60b4c06717da110007ee1af6" group-title="Telenovelas" tvg-logo="https://images.pluto.tv/channels/60b4c06717da110007ee1af6/colorLogoPNG.png",Pluto TV Telenovelas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="N/A" tvg-id="TeleNovelas.mx" group-title="Telenovelas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tln.png?raw=true",tln
+http://plus.linkott.com:80/50198715913792/97304261488292/101601
+#EXTINF:-1 tvg-name="P001d" tvg-id="60dd6b1da79e4d0007309455" group-title="Documentales" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png",Love Nature
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="P002d" tvg-id="5f1acba0d1f6340007db8843" group-title="Documentales" tvg-logo="https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png",Los nuevos detectives
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acba0d1f6340007db8843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="P003d" tvg-id="5f1acbed25948a0007ffbe65" group-title="Documentales" tvg-logo="https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/colorLogoPNG.png",Los archivos del FBI
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acbed25948a0007ffbe65/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="P004d" tvg-id="5f984f4a09e92d0007d74647" group-title="Documentales" tvg-logo="https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG.png",Archivos Forenses
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="P005d" tvg-id="602ba1cfb386d30007aecbbe" group-title="Documentales" tvg-logo="https://images.pluto.tv/channels/602ba1cfb386d30007aecbbe/colorLogoPNG.png",Pluto TV Investiga
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602ba1cfb386d30007aecbbe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="P006d" tvg-id="60ed5fb9c4716d0007d180c5" group-title="Documentales" tvg-logo="https://images.pluto.tv/channels/60ed5fb9c4716d0007d180c5/colorLogoPNG.png",Cazador de Homicidas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60ed5fb9c4716d0007d180c5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-name="P007d" tvg-id="60e45687313c5f0007bc8e94" group-title="Documentales" tvg-logo="https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png",El encantador de perros
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e45687313c5f0007bc8e94/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
