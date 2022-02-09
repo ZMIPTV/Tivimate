@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Teledeporte" tvg-id="Teledeporte.es" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tdp-es.png?raw=true",Teledeporte FullHD
+http://plus.linkott.com:80/50513041283809/97304261488292/180272
+
+#EXTINF:-1 tvg-name="Teledeporte" tvg-id="Teledeporte.es" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tdp-es.png?raw=true",Teledeporte SD
+http://plus.linkott.com:80/50513041283809/97304261488292/101602

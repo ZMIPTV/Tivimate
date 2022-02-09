@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="N/A" tvg-id="MovistarComedia.es" group-title="Películas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-comedia-es.png?raw=true",M. Comedia FullHD
+http://plus.linkott.com:80/50513041283809/97304261488292/103164
+#EXTINF:-1 tvg-name="N/A" tvg-id="MovistarComedia.es" group-title="Películas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-comedia-es.png?raw=true",M. Comedia FullHD
+http://plus.linkott.com:80/50513041283809/97304261488292/180291
+#EXTINF:-1 tvg-name="N/A" tvg-id="MovistarComedia.es" group-title="Películas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-comedia-es.png?raw=true",M. Comedia FullHD
+http://plus.linkott.com:80/50513041283809/97304261488292/30103
+#EXTINF:-1 tvg-name="N/A" tvg-id="MovistarComedia.es" group-title="Películas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-comedia-es.png?raw=true",M. Comedia HD
+http://plus.linkott.com:80/50513041283809/97304261488292/30104
+
+

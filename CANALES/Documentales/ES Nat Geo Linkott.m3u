@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="A010" tvg-id="NAT GEO" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true",Nat Geo FullHD
+http://plus.linkott.com:80/50513041283809/97304261488292/30073
+#EXTINF:-1 tvg-name="A011" tvg-id="NAT GEO" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-es.png?raw=true",Nat Geo SD
+http://plus.linkott.com:80/50513041283809/97304261488292/30075
