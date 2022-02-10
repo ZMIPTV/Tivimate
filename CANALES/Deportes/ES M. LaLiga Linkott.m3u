@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-name="N/A" tvg-id="M. LaLiga CCD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true",LaLiga FullHD
 http://plus.linkott.com:80/50513041283809/97304261488292/149070
 #EXTINF:-1 tvg-name="N/A" tvg-id="M. LaLiga CCD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true",LaLiga FullHD
@@ -23,3 +24,5 @@ http://plus.linkott.com:80/50513041283809/97304261488292/180280
 http://plus.linkott.com:80/50513041283809/97304261488292/103171
 #EXTINF:-1 tvg-name="N/A" tvg-id="M. LaLiga" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true",* Laliga
 http://plus.linkott.com:80/50513041283809/97304261488292/30212
+
+
