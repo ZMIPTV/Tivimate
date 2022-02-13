@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Animal Planet Latino América" tvg-id="18649" group-title="Documentales" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/animal.planet.ca.png?raw=true",Animal Planet Latino América
-http://45.179.140.242:8000/play/a0i9
 #EXTINF:-1 tvg-name="Animal Planet Latino América" tvg-id="18649" group-title="Documentales" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/animal.planet.ca.png?raw=true",Animal Planet Latino América FullHD
 http://181.176.148.142:8000/play/a012
+#EXTINF:-1 tvg-name="Animal Planet Latino América" tvg-id="18649" group-title="Documentales" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/animal.planet.ca.png?raw=true",Animal Planet Latino América SD
+http://45.179.140.242:8000/play/a0i9
 #EXTINF:-1 tvg-name="Animal Planet Latino América" tvg-id="18649" group-title="Documentales" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/animal.planet.ca.png?raw=true",Animal Planet Latino América SD
 http://181.78.22.214:8000/play/a00v
 #EXTINF:-1 tvg-name="Animal Planet Latino América" tvg-id="18649" group-title="Documentales" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/animal.planet.ca.png?raw=true",Animal Planet Latino América SD

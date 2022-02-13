@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="M. Deportes" tvg-id="MovistarDeportes.es" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-deportes-es.png?raw=true",M. Deportes
+#EXTINF:-1 tvg-name="M. Deportes" tvg-id="MovistarDeportes.es" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-deportes-es.png?raw=true",M. Deportes FullHD
 http://plus.linkott.com:80/50513041283809/97304261488292/30016
-#EXTINF:-1 tvg-name="M. Deportes" tvg-id="MovistarDeportes.es" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-deportes-es.png?raw=true",M. Deportes
-http://plus.linkott.com:80/50513041283809/97304261488292/30114
-#EXTINF:-1 tvg-name="M. Deportes" tvg-id="MovistarDeportes.es" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-deportes-es.png?raw=true",M. Deportes
-http://plus.linkott.com:80/50513041283809/97304261488292/30102
-#EXTINF:-1 tvg-name="M. Deportes" tvg-id="MovistarDeportes.es" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-deportes-es.png?raw=true",M. Deportes
+#EXTINF:-1 tvg-name="M. Deportes" tvg-id="MovistarDeportes.es" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-deportes-es.png?raw=true",M. Deportes FullHD
 http://plus.linkott.com:80/50513041283809/97304261488292/180275
-#EXTINF:-1 tvg-name="M. Deportes" tvg-id="MovistarDeportes.es" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-deportes-es.png?raw=true",M. Deportes
+#EXTINF:-1 tvg-name="M. Deportes" tvg-id="MovistarDeportes.es" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-deportes-es.png?raw=true",M. Deportes FullHD
 http://plus.linkott.com:80/50513041283809/97304261488292/103172
+#EXTINF:-1 tvg-name="M. Deportes" tvg-id="MovistarDeportes.es" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-deportes-es.png?raw=true",M. Deportes SD
+http://plus.linkott.com:80/50513041283809/97304261488292/30114
+#EXTINF:-1 tvg-name="M. Deportes" tvg-id="MovistarDeportes.es" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-deportes-es.png?raw=true",M. Deportes*
+http://plus.linkott.com:80/50513041283809/97304261488292/30102
 
