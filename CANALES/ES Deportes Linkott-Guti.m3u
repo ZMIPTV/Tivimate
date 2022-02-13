@@ -1,33 +1,76 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Name" tvg-id="M. LaLiga" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true",* LaLiga FullHD
-http://plus.linkott.com:80/50766795442021/18528828456785/180280
-#EXTINF:-1 tvg-name="N/A" tvg-id="M. LaLiga" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true",LaLiga FullHD
+#EXTINF:-1 tvg-name="DAZN 1" tvg-id="DAZN 1" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true",DAZN 1 FullHD
+http://plus.linkott.com:80/50766795442021/18528828456785/149073
+#EXTINF:-1 tvg-name="DAZN 1" tvg-id="DAZN 1" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true",DAZN 1 FullHD
+http://plus.linkott.com:80/50766795442021/18528828456785/149072
+#EXTINF:-1 tvg-name="DAZN 1" tvg-id="DAZN 1" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true",DAZN 1 FullHD
+http://plus.linkott.com:80/50766795442021/18528828456785/149068
+#EXTINF:-1 tvg-name="DAZN 1" tvg-id="DAZN 1" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true",DAZN 1 FullHD
+http://plus.linkott.com:80/50766795442021/18528828456785/149067
+#EXTINF:-1 tvg-name="DAZN 1" tvg-id="DAZN 1" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true",DAZN 1 FullHD
+http://plus.linkott.com:80/50766795442021/18528828456785/149066
+#EXTINF:-1 tvg-name="DAZN 1" tvg-id="DAZN 1" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true",DAZN 1 FullHD
+http://plus.linkott.com:80/50766795442021/18528828456785/149065
+#EXTINF:-1 tvg-name="DAZN 1" tvg-id="DAZN 1" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true",DAZN 1 FullHD
+http://plus.linkott.com:80/50766795442021/18528828456785/180270
+#EXTINF:-1 tvg-name="DAZN 1" tvg-id="DAZN 1" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true",DAZN 1 FullHD
+http://plus.linkott.com:80/50766795442021/18528828456785/86823
+
+#EXTINF:-1 tvg-name="DAZN 2" tvg-id="DAZN 2" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-2-es.png?raw=true",DAZN 2 FullHD
+http://plus.linkott.com:80/50766795442021/18528828456785/86822
+
+#EXTINF:-1 tvg-name="EUROSPORT HEVC" tvg-id="EUROSPORT1HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true",Eurosport FullHD
+http://plus.linkott.com:80/50766795442021/18528828456785/180279
+#EXTINF:-1 tvg-name="EUROSPORT SD" tvg-id="EUROSPORT1HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true",Eurosport SD
+http://plus.linkott.com:80/50766795442021/18528828456785/30153
+#EXTINF:-1 tvg-name="EUROSPORT" tvg-id="EUROSPORT1HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true",Eurosport HD*
+http://plus.linkott.com:80/50766795442021/18528828456785/103169
+
+#EXTINF:-1 tvg-name="N/A" tvg-id="EUROSPORT2HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-2-es.png?raw=true",Eurosport 2 SD
+http://plus.linkott.com:80/50766795442021/18528828456785/30154
+
+#EXTINF:-1 tvg-name="Gol TV" tvg-id="gol" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/gol-es.png?raw=true",Gol TV SD
+http://plus.linkott.com:80/50766795442021/18528828456785/30144
+
+#EXTINF:-1 tvg-name="M. Deportes" tvg-id="MovistarDeportes.es" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-deportes-es.png?raw=true",M. Deportes
+http://plus.linkott.com:80/50198715913792/97304261488292/30016
+#EXTINF:-1 tvg-name="M. Deportes" tvg-id="MovistarDeportes.es" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-deportes-es.png?raw=true",M. Deportes
+http://plus.linkott.com:80/50198715913792/97304261488292/30114
+#EXTINF:-1 tvg-name="M. Deportes" tvg-id="MovistarDeportes.es" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-deportes-es.png?raw=true",M. Deportes
+http://plus.linkott.com:80/50198715913792/97304261488292/30102
+#EXTINF:-1 tvg-name="M. Deportes" tvg-id="MovistarDeportes.es" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-deportes-es.png?raw=true",M. Deportes
+http://plus.linkott.com:80/50198715913792/97304261488292/180275
+#EXTINF:-1 tvg-name="M. Deportes" tvg-id="MovistarDeportes.es" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-deportes-es.png?raw=true",M. Deportes
+http://plus.linkott.com:80/50198715913792/97304261488292/103172
+
+#EXTINF:-1 tvg-name="N/A" tvg-id="M. LaLiga CCD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true",LaLiga FullHD
 http://plus.linkott.com:80/50766795442021/18528828456785/149070
-#EXTINF:-1 tvg-name="N/A" tvg-id="M. LaLiga" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true",LaLiga FullHD
+#EXTINF:-1 tvg-name="N/A" tvg-id="M. LaLiga CCD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true",LaLiga FullHD
 http://plus.linkott.com:80/50766795442021/18528828456785/30029
-#EXTINF:-1 tvg-name="N/A" tvg-id="M. LaLiga" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true",LaLiga FullHD
+#EXTINF:-1 tvg-name="N/A" tvg-id="M. LaLiga CCD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true",LaLiga FullHD
 http://plus.linkott.com:80/50766795442021/18528828456785/30202
-#EXTINF:-1 tvg-name="N/A" tvg-id="M. LaLiga" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true",* LaLiga FullHD
-http://plus.linkott.com:80/50766795442021/18528828456785/103171
+#EXTINF:-1 tvg-name="N/A" tvg-id="M. LaLiga" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true",Laliga HD
+http://plus.linkott.com:80/50766795442021/18528828456785/30024
+#EXTINF:-1 tvg-name="N/A" tvg-id="M. LaLiga" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true",Laliga HD
+http://plus.linkott.com:80/50766795442021/18528828456785/103306
+#EXTINF:-1 tvg-name="N/A" tvg-id="M. LaLiga" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true",Laliga HD
+http://plus.linkott.com:80/50766795442021/18528828456785/180283
+#EXTINF:-1 tvg-name="N/A" tvg-id="M. LaLiga" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true",Laliga FullHD
+http://plus.linkott.com:80/50766795442021/18528828456785/149070
 #EXTINF:-1 tvg-name="N/A" tvg-id="M. LaLiga" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true",Laliga
 http://plus.linkott.com:80/50766795442021/18528828456785/103244
-#EXTINF:-1 tvg-name="N/A" tvg-id="M. LaLiga" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true",* Laliga
-http://plus.linkott.com:80/50766795442021/18528828456785/103305
-#EXTINF:-1 tvg-name="N/A" tvg-id="LALIGATV BAR" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true",Laliga HD
-http://plus.linkott.com:80/50766795442021/18528828456785/30024
-#EXTINF:-1 tvg-name="N/A" tvg-id="LALIGATV BAR" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true",Laliga HD
-http://plus.linkott.com:80/50766795442021/18528828456785/103306
-#EXTINF:-1 tvg-name="N/A" tvg-id="LALIGATV BAR" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true",Laliga HD
-http://plus.linkott.com:80/50766795442021/18528828456785/180283
-#EXTINF:-1 tvg-name="N/A" tvg-id="LALIGATV BAR" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true",Laliga HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="LaLigaTV BAR" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true",LaLigaTV BAR HD
 http://plus.linkott.com:80/50766795442021/18528828456785/30119
-#EXTINF:-1 tvg-name="N/A" tvg-id="LALIGATV BAR" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true",Laliga
-http://plus.linkott.com:80/50766795442021/18528828456785/103304
-#EXTINF:-1 tvg-name="M.EUROSPORT HEVC" tvg-id="EUROSPORT1HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true",Eurosport HD
-http://plus.linkott.com:80/50766795442021/18528828456785/180279
-#EXTINF:-1 tvg-name="N/A" tvg-id="EUROSPORT1HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true",Eurosport HD
-http://plus.linkott.com:80/50766795442021/18528828456785/103169
-#EXTINF:-1 tvg-name="N/A" tvg-id="EUROSPORT1HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true",Eurosport
-http://plus.linkott.com:80/50766795442021/18528828456785/30153
-#EXTINF:-1 tvg-name="N/A" tvg-id="EUROSPORT2HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-2-es.png?raw=true",Eurosport 2
-http://plus.linkott.com:80/50766795442021/18528828456785/30154
+#EXTINF:-1 tvg-name="Name" tvg-id="M. LaLiga" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true",* LaLiga FullHD
+http://plus.linkott.com:80/50766795442021/18528828456785/180280
+#EXTINF:-1 tvg-name="N/A" tvg-id="M. LaLiga" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true",* LaLiga FullHD
+http://plus.linkott.com:80/50766795442021/18528828456785/103171
+#EXTINF:-1 tvg-name="N/A" tvg-id="M. LaLiga" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true",* Laliga
+http://plus.linkott.com:80/50766795442021/18528828456785/30212
+
+#EXTINF:-1 tvg-name="Teledeporte" tvg-id="TELEDEPORTE FHD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tdp-es.png?raw=true",Teledeporte FullHD
+http://plus.linkott.com:80/50766795442021/18528828456785/180272
+
+#EXTINF:-1 tvg-name="Teledeporte" tvg-id="TELEDEPORTE" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tdp-es.png?raw=true",Teledeporte SD
+http://plus.linkott.com:80/50766795442021/18528828456785/101602
+
