@@ -1,4 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="DAZN 2" tvg-id="DAZN 2" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-2-es.png?raw=true",DAZN 2 FullHD
 http://plus.linkott.com:80/50513041283809/97304261488292/86822
+#EXTINF:-1 tvg-name="DAZN 2" tvg-id="DAZN 2" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-2-es.png?raw=true",DAZN 2 FullHD
+http://plus.linkott.com:80/50513041283809/97304261488292/180270
 
