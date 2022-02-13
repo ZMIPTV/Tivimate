@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="N/A" tvg-id="a00y" group-title="Telenovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LogoNTyLR.svg/320px-LogoNTyLR.svg.png",RCN Novelas SD
+http://45.179.140.242:8000/play/a0jf
+#EXTINF:-1 tvg-name="N/A" tvg-id="a00y" group-title="Telenovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LogoNTyLR.svg/320px-LogoNTyLR.svg.png",RCN Novelas SD
+http://181.78.22.214:8000/play/a012
+#EXTINF:-1 tvg-name="N/A" tvg-id="a00y" group-title="Telenovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LogoNTyLR.svg/320px-LogoNTyLR.svg.png",RCN Novelas SD
+http://190.187.200.69:8000/play/a01n
+#EXTINF:-1 tvg-name="N/A" tvg-id="a00y" group-title="Telenovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LogoNTyLR.svg/320px-LogoNTyLR.svg.png",RCN Novelas SD
+http://200.24.159.179:8500/play/a03k
+
+

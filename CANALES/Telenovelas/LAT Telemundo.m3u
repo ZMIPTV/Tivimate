@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="N/A" tvg-id="" group-title="Telenovelas" tvg-logo="https://media.tvalacarta.info/canales/256x256/telemundo.png",telemundo
+http://45.179.140.242:8000/play/a0il
+#EXTINF:-1 tvg-name="N/A" tvg-id="" group-title="Telenovelas" tvg-logo="https://media.tvalacarta.info/canales/256x256/telemundo.png",telemundo SD
+http://181.78.22.214:8000/play/a01t
+#EXTINF:-1 tvg-name="N/A" tvg-id="" group-title="Telenovelas" tvg-logo="https://media.tvalacarta.info/canales/256x256/telemundo.png",telemundo SD
+http://190.187.200.69:8000/play/a01m
+#EXTINF:-1 tvg-name="N/A" tvg-id="" group-title="Telenovelas" tvg-logo="https://media.tvalacarta.info/canales/256x256/telemundo.png",telemundo SD
+http://200.24.159.179:8500/play/a01p
+
+
+
