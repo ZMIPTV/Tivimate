@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sundance TV" tvg-id="SundanceTV.es" group-title="Peliculas" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/SundanceTV.es.png?raw=true",Sundance TV SD+
+#EXTINF:-1 tvg-name="Sundance TV" tvg-id="sundance.es" group-title="Peliculas" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/SundanceTV.es.png?raw=true",Sundance TV SD+
 http://plus.linkott.com:80/50513041283809/97304261488292/30061
 
 
