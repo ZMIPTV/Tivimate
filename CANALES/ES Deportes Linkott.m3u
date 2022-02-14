@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Barça TV SD+" tvg-id="BARCA TV" group-title="Deportes" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/BarcaTV.es.png?raw=true",Barça TV
+http://plus.linkott.com:80/50513041283809/97304261488292/30185
+
+
 #EXTINF:-1 tvg-name="DAZN 1" tvg-id="DAZN 1" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true",DAZN 1 FullHD
 http://plus.linkott.com:80/50513041283809/97304261488292/180271
 #EXTINF:-1 tvg-name="DAZN 1" tvg-id="DAZN 1" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true",DAZN 1 FullHD
@@ -78,11 +82,28 @@ http://plus.linkott.com:80/50513041283809/97304261488292/103174
 http://plus.linkott.com:80/50513041283809/97304261488292/30130
 
 
-#EXTINF:-1 tvg-name="Teledeporte" tvg-id="Teledeporte.es" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tdp-es.png?raw=true",Teledeporte FullHD
-http://plus.linkott.com:80/50513041283809/97304261488292/180272
+#EXTINF:-1 tvg-name="Real Madrid TV SD+" tvg-id="R. MADRID TV" group-title="Deportes" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/RealMadridTV.es.png?raw=true",Real Madrid TV
+http://plus.linkott.com:80/50513041283809/97304261488292/30053
+#EXTINF:-1 tvg-name="Real Madrid TV SD+" tvg-id="R. MADRID TV" group-title="Deportes" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/RealMadridTV.es.png?raw=true",Real Madrid TV
+http://plus.linkott.com:80/50513041283809/97304261488292/30064
+
 
 #EXTINF:-1 tvg-name="Teledeporte" tvg-id="Teledeporte.es" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tdp-es.png?raw=true",Teledeporte FullHD
+http://plus.linkott.com:80/50513041283809/97304261488292/180272
+#EXTINF:-1 tvg-name="Teledeporte" tvg-id="Teledeporte.es" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tdp-es.png?raw=true",Teledeporte FullHD
 http://plus.linkott.com:80/50513041283809/97304261488292/101602
+
+
+#EXTINF:-1 tvg-name="#Vamos FullHD" tvg-id="#VAMOS" group-title="Deportes" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/Vamos.es.png?raw=true",#Vamos
+http://plus.linkott.com:80/50513041283809/97304261488292/180276
+#EXTINF:-1 tvg-name="#Vamos FullHD" tvg-id="vamos.es" group-title="Deportes" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/Vamos.es.png?raw=true",#Vamos
+http://plus.linkott.com:80/50513041283809/97304261488292/103173
+#EXTINF:-1 tvg-name="#Vamos FullHD" tvg-id="vamos.es" group-title="Deportes" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/Vamos.es.png?raw=true",#Vamos
+http://plus.linkott.com:80/50513041283809/97304261488292/30007
+#EXTINF:-1 tvg-name="#Vamos FullHD" tvg-id="vamos.es" group-title="Deportes" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/Vamos.es.png?raw=true",#Vamos
+http://plus.linkott.com:80/50513041283809/97304261488292/30087
+#EXTINF:-1 tvg-name="#Vamos HD" tvg-id="#VAMOS HD" group-title="Deportes" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/Vamos.es.png?raw=true",#Vamos
+http://plus.linkott.com:80/50513041283809/97304261488292/30108
 
 
 #EXTINF:-1 tvg-name="beIN Sports USA" tvg-id="beinsports.us" group-title="Deportes" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/1290.png",beIN Sports USA HD

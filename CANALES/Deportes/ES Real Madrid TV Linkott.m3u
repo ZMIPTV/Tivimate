@@ -1,0 +1,9 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Real Madrid TV SD+" tvg-id="R. MADRID TV" group-title="Deportes" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/RealMadridTV.es.png?raw=true",Real Madrid TV
+http://plus.linkott.com:80/50513041283809/97304261488292/30053
+
+#EXTINF:-1 tvg-name="Real Madrid TV SD+" tvg-id="R. MADRID TV" group-title="Deportes" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/RealMadridTV.es.png?raw=true",Real Madrid TV
+http://plus.linkott.com:80/50513041283809/97304261488292/30064
+
+

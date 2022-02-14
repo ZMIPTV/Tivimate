@@ -1,0 +1,5 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Barça TV SD+" tvg-id="BARCA TV" group-title="Deportes" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/BarcaTV.es.png?raw=true",Barça TV
+http://plus.linkott.com:80/50513041283809/97304261488292/30185
+
