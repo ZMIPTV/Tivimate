@@ -1,4 +1,11 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-name="AMC" tvg-id="AMC.es" group-title="Peliculas" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/AMC.es.png?raw=true",AMC FullHD
+http://plus.linkott.com:80/50513041283809/97304261488292/30193
+#EXTINF:-1 tvg-name="AMC" tvg-id="AMC.es" group-title="Peliculas" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/AMC.es.png?raw=true",AMC HD
+http://plus.linkott.com:80/50513041283809/97304261488292/30194
+
+
 #EXTINF:-1 tvg-name="N/A" tvg-id="Calle13.es" group-title="Peliculas" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/calle-13-es.png?raw=true",CALLE 13 FullHD
 http://plus.linkott.com:80/50513041283809/97304261488292/30181
 #EXTINF:-1 tvg-name="N/A" tvg-id="Calle13.es" group-title="Peliculas" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/calle-13-es.png?raw=true",CALLE 13 HD
