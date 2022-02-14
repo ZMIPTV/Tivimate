@@ -94,7 +94,7 @@ http://plus.linkott.com:80/50513041283809/97304261488292/180272
 http://plus.linkott.com:80/50513041283809/97304261488292/101602
 
 
-#EXTINF:-1 tvg-name="#Vamos FullHD" tvg-id="#VAMOS" group-title="Deportes" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/Vamos.es.png?raw=true",#Vamos
+#EXTINF:-1 tvg-name="#Vamos FullHD" tvg-id="vamos.es" group-title="Deportes" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/Vamos.es.png?raw=true",#Vamos
 http://plus.linkott.com:80/50513041283809/97304261488292/180276
 #EXTINF:-1 tvg-name="#Vamos FullHD" tvg-id="vamos.es" group-title="Deportes" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/Vamos.es.png?raw=true",#Vamos
 http://plus.linkott.com:80/50513041283809/97304261488292/103173
@@ -102,7 +102,7 @@ http://plus.linkott.com:80/50513041283809/97304261488292/103173
 http://plus.linkott.com:80/50513041283809/97304261488292/30007
 #EXTINF:-1 tvg-name="#Vamos FullHD" tvg-id="vamos.es" group-title="Deportes" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/Vamos.es.png?raw=true",#Vamos
 http://plus.linkott.com:80/50513041283809/97304261488292/30087
-#EXTINF:-1 tvg-name="#Vamos HD" tvg-id="#VAMOS HD" group-title="Deportes" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/Vamos.es.png?raw=true",#Vamos
+#EXTINF:-1 tvg-name="#Vamos HD" tvg-id="vamos.es" group-title="Deportes" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/Vamos.es.png?raw=true",#Vamos
 http://plus.linkott.com:80/50513041283809/97304261488292/30108
 
 
