@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Paramount Channel" tvg-id="ParamountChannel.es" group-title="Películas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/paramount-network-es.png?raw=true",Paramount Channel SD+
+#EXTINF:-1 tvg-name="Paramount Channel" tvg-id="ParamountChannel.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/paramount-network-es.png?raw=true",Paramount Channel SD+
 http://plus.linkott.com:80/50513041283809/97304261488292/30065
 
 
