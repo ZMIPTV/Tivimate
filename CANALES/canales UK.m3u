@@ -1,83 +1,74 @@
 #EXTM3U
-#EXTINF:0,4seven
+
+#EXTINF:-1 tvg-name="4seven SD+" tvg-id="4seven.uk" group-title="UK" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/4seven.uk.png?raw=true",4seven
 http://45.153.35.224:8000/play/a01n
-#EXTINF:0,BT EX1 HD
-http://45.153.35.224:8000/play/a004
-#EXTINF:0,BT Sport 2 HD
-http://45.153.35.224:8000/play/a007
-#EXTINF:0,BT Sport 3 HD
-http://45.153.35.224:8000/play/a005
-#EXTINF:0,BTSpt//ESPNHD
-http://45.153.35.224:8000/play/a008
-#EXTINF:0,Bloomberg HD
+#EXTINF:-1 tvg-name="Bloomberg FullHD" tvg-id="Bloomberg.HD.uk" group-title="UK" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/bloomberg.uk.png%20.png?raw=true",Bloomberg
 http://45.153.35.224:8000/play/a00y
-#EXTINF:0,CNBC HD
+#EXTINF:-1 tvg-name="CNBC FullHD" tvg-id="CNBC.uk" group-title="UK" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/cnbc.uk.png?raw=true",CNBC
 http://45.153.35.224:8000/play/a00b
-#EXTINF:0,COLORS HD
-http://45.153.35.224:8000/play/a00h
-#EXTINF:0,Channel 4 HD
+#EXTINF:-1 tvg-name="Channel 4 FullHD" tvg-id="Channel.4.HD.uk" group-title="UK" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/channel.4.uk.png?raw=true",Channel 4
 http://45.153.35.224:8000/play/a01m
-#EXTINF:0,DAYSTAR HD
+#EXTINF:-1 tvg-name="Daystar FullHD" tvg-id="DAYSTAR.HD.uk" group-title="UK" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/daystar.network.us.png?raw=true",Daystar
 http://45.153.35.224:8000/play/a00v
-#EXTINF:0,FRANCE 24 HD
+#EXTINF:-1 tvg-name="FRANCE 24 FullHD" tvg-id="FRANCE.24.HD.uk" group-title="UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/france/france-24-fr.png?raw=true",FRANCE 24
 http://45.153.35.224:8000/play/a00w
-#EXTINF:0,FreeSports HD
+#EXTINF:-1 tvg-name="FreeSports FullHD" tvg-id="FreeSports.HD.uk" group-title="UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/free-sports-uk.png?raw=true",FreeSports
 http://45.153.35.224:8000/play/a00r
-#EXTINF:0,ITV HD
+#EXTINF:-1 tvg-name="ITV FullHD" tvg-id="ITV.HD.uk" group-title="UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/itv-uk.png?raw=true",ITV
 http://45.153.35.224:8000/play/a00n
-#EXTINF:0,ITV HD ANG WEST
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK" tvg-logo="",ITV HD ANG WEST
 http://45.153.35.224:8000/play/a01f
-#EXTINF:0,ITV HD C EAST
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK" tvg-logo="",ITV HD C EAST
 http://45.153.35.224:8000/play/a015
-#EXTINF:0,ITV HD C East
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK" tvg-logo="",ITV HD C East
 http://45.153.35.224:8000/play/a01g
-#EXTINF:0,ITV HD GRAN
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK" tvg-logo="",ITV HD GRAN
 http://45.153.35.224:8000/play/a012
-#EXTINF:0,ITV HD MED NOR
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK" tvg-logo="",ITV HD MED NOR
 http://45.153.35.224:8000/play/a01c
-#EXTINF:0,ITV HD MED SOUTH
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK" tvg-logo="",ITV HD MED SOUTH
 http://45.153.35.224:8000/play/a01b
-#EXTINF:0,ITV HD TYNE
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK" tvg-logo="",ITV HD TYNE
 http://45.153.35.224:8000/play/a013
-#EXTINF:0,ITV HD WEST C W
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK" tvg-logo="",ITV HD WEST C W
 http://45.153.35.224:8000/play/a014
-#EXTINF:0,ITV Wales HD
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK" tvg-logo="",ITV Wales HD
 http://45.153.35.224:8000/play/a011
-#EXTINF:0,ITV1 HD
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK" tvg-logo="",ITV1 HD
 http://45.153.35.224:8000/play/a00c
-#EXTINF:0,ITV2 HD
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK" tvg-logo="",ITV2 HD
 http://45.153.35.224:8000/play/a010
-#EXTINF:0,ITV3 HD
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK" tvg-logo="",ITV3 HD
 http://45.153.35.224:8000/play/a01e
-#EXTINF:0,ITV4 HD
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK" tvg-logo="",ITV4 HD
 http://45.153.35.224:8000/play/a019
-#EXTINF:0,LaLigaTV HD
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK" tvg-logo="",LaLigaTV HD
 http://45.153.35.224:8000/play/a00u
-#EXTINF:0,Pick
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK" tvg-logo="",Pick
 http://45.153.35.224:8000/play/a00j
-#EXTINF:0,Pick+1
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK" tvg-logo="",Pick+1
 http://45.153.35.224:8000/play/a00k
-#EXTINF:0,QUEST HD
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK" tvg-logo="",QUEST HD
 http://45.153.35.224:8000/play/a00s
-#EXTINF:0,Racing TV HD
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK" tvg-logo="",Racing TV HD
 http://45.153.35.224:8000/play/a00f
-#EXTINF:0,S4C HD
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK" tvg-logo="",S4C HD
 http://45.153.35.224:8000/play/a00p
-#EXTINF:0,STV HD
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK" tvg-logo="",STV HD
 http://45.153.35.224:8000/play/a017
-#EXTINF:0,Sky News
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK" tvg-logo="",Sky News
 http://45.153.35.224:8000/play/a00l
-#EXTINF:0,Smithsonian HD
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK" tvg-logo="",Smithsonian HD
 http://45.153.35.224:8000/play/a00e
-#EXTINF:0,TJC HD
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK" tvg-logo="",TJC HD
 http://45.153.35.224:8000/play/a00x
-#EXTINF:0,TLC HD
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK" tvg-logo="",TLC HD
 http://45.153.35.224:8000/play/a00q
-#EXTINF:0,TRT World HD
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK" tvg-logo="",TRT World HD
 http://45.153.35.224:8000/play/a00g
-#EXTINF:0,UTV HD
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK" tvg-logo="",UTV HD
 http://45.153.35.224:8000/play/a018
-#EXTINF:0,WION HD
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK" tvg-logo="",WION HD
 http://45.153.35.224:8000/play/a01j
-#EXTINF:0,mta-muslim tv
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UK" tvg-logo="",mta-muslim tv
 http://45.153.35.224:8000/play/a01k
