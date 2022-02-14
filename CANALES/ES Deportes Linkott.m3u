@@ -35,11 +35,11 @@ http://plus.linkott.com:80/50513041283809/97304261488292/30114
 http://plus.linkott.com:80/50513041283809/97304261488292/30102
 
 
-#EXTINF:-1 tvg-name="Movistar F1" tvg-id="MovistarFormula1.es" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-formula-1-es.png?raw=true",Movistar F1 FullHD
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="DAZN F1 HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-formula-1-es.png?raw=true",DAZN F1 FullHD
 http://plus.linkott.com:80/50513041283809/97304261488292/30013
-#EXTINF:-1 tvg-name="Movistar F1" tvg-id="MovistarFormula1.es" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-formula-1-es.png?raw=true",Movistar F1 FullHD
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="DAZN F1 HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-formula-1-es.png?raw=true",DAZN F1 FullHD
 http://plus.linkott.com:80/50513041283809/97304261488292/30112
-#EXTINF:-1 tvg-name="Movistar F1" tvg-id="MovistarFormula1.es" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-formula-1-es.png?raw=true",Movistar F1 FullHD
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="DAZN F1 HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-formula-1-es.png?raw=true",DAZN F1 FullHD
 http://plus.linkott.com:80/50513041283809/97304261488292/30096
 
 #EXTINF:-1 tvg-name="N/A" tvg-id="M. LaLiga" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true",LaLiga FullHD
@@ -70,7 +70,7 @@ http://plus.linkott.com:80/50513041283809/97304261488292/30119
 http://plus.linkott.com:80/50513041283809/97304261488292/103306
 
 
-#EXTINF:-1 tvg-name="N/A" tvg-id="M.LCAMPEON1 FHD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true",Liga de Campeones FullHD
+#EXTINF:-1 tvg-name="N/A" tvg-id="movistarcampeones.es" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true",Liga de Campeones FullHD
 http://plus.linkott.com:80/50513041283809/97304261488292/180277
 #EXTINF:-1 tvg-name="N/A" tvg-id="movistarcampeones.es" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true",Liga de Campeones FullHD
 http://plus.linkott.com:80/50513041283809/97304261488292/103174
