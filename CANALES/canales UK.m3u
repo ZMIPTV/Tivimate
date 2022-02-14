@@ -4,7 +4,7 @@
 http://45.153.35.224:8000/play/a01n
 #EXTINF:-1 tvg-name="Bloomberg FullHD" tvg-id="Bloomberg.HD.uk" group-title="UK News" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/bloomberg.uk.png%20.png?raw=true",Bloomberg
 http://45.153.35.224:8000/play/a00y
-#EXTINF:-1 tvg-name="CNBC FullHD" tvg-id="CNBC.uk" group-title="UK" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/cnbc.uk.png?raw=true",CNBC
+#EXTINF:-1 tvg-name="CNBC FullHD" tvg-id="CNBC.uk" group-title="UK News" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/cnbc.uk.png?raw=true",CNBC
 http://45.153.35.224:8000/play/a00b
 #EXTINF:-1 tvg-name="Channel 4 FullHD" tvg-id="Channel.4.HD.uk" group-title="UK" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/channel.4.uk.png?raw=true",Channel 4
 http://45.153.35.224:8000/play/a01m
