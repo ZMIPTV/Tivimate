@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-name="4seven SD+" tvg-id="4seven.uk" group-title="UK" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/4seven.uk.png?raw=true",4seven
 http://45.153.35.224:8000/play/a01n
-#EXTINF:-1 tvg-name="Bloomberg FullHD" tvg-id="Bloomberg.HD.uk" group-title="UK" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/bloomberg.uk.png%20.png?raw=true",Bloomberg
+#EXTINF:-1 tvg-name="Bloomberg FullHD" tvg-id="Bloomberg.HD.uk" group-title="UK News" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/bloomberg.uk.png%20.png?raw=true",Bloomberg
 http://45.153.35.224:8000/play/a00y
 #EXTINF:-1 tvg-name="CNBC FullHD" tvg-id="CNBC.uk" group-title="UK" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/cnbc.uk.png?raw=true",CNBC
 http://45.153.35.224:8000/play/a00b
@@ -10,35 +10,35 @@ http://45.153.35.224:8000/play/a00b
 http://45.153.35.224:8000/play/a01m
 #EXTINF:-1 tvg-name="Daystar FullHD" tvg-id="DAYSTAR.HD.uk" group-title="UK" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/daystar.network.us.png?raw=true",Daystar
 http://45.153.35.224:8000/play/a00v
-#EXTINF:-1 tvg-name="FRANCE 24 FullHD" tvg-id="FRANCE.24.HD.uk" group-title="UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/france/france-24-fr.png?raw=true",FRANCE 24
+#EXTINF:-1 tvg-name="FRANCE 24 FullHD" tvg-id="FRANCE.24.HD.uk" group-title="UK News" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/france/france-24-fr.png?raw=true",FRANCE 24
 http://45.153.35.224:8000/play/a00w
-#EXTINF:-1 tvg-name="FreeSports FullHD" tvg-id="FreeSports.HD.uk" group-title="UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/free-sports-uk.png?raw=true",FreeSports
+#EXTINF:-1 tvg-name="FreeSports FullHD" tvg-id="FreeSports.HD.uk" group-title="UK Sports" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/free-sports-uk.png?raw=true",FreeSports
 http://45.153.35.224:8000/play/a00r
 #EXTINF:-1 tvg-name="ITV FullHD" tvg-id="ITV.HD.uk" group-title="UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/itv-uk.png?raw=true",ITV
 http://45.153.35.224:8000/play/a00n
 #EXTINF:-1 tvg-name="ITV FullHD" tvg-id="ITV.HD.uk" group-title="UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/itv-uk.png?raw=true",ITV
 http://45.153.35.224:8000/play/a00c
-#EXTINF:-1 tvg-name="ITV Anglia West FullHD" tvg-id="" group-title="UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/itv-uk.png?raw=true",ITV Anglia West
+#EXTINF:-1 tvg-name="ITV Anglia West FullHD" tvg-id="ITV.HD.uk" group-title="UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/itv-uk.png?raw=true",ITV Anglia West
 http://45.153.35.224:8000/play/a01f
-#EXTINF:-1 tvg-name="ITV C East FullHD" tvg-id="" group-title="UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/itv-uk.png?raw=true",ITV C East
+#EXTINF:-1 tvg-name="ITV C East FullHD" tvg-id="ITV.HD.uk" group-title="UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/itv-uk.png?raw=true",ITV C East
 http://45.153.35.224:8000/play/a01g
-#EXTINF:-1 tvg-name="ITV Med South FullHD" tvg-id="" group-title="UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/itv-uk.png?raw=true",ITV Med South
+#EXTINF:-1 tvg-name="ITV Med South FullHD" tvg-id="ITV.HD.uk" group-title="UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/itv-uk.png?raw=true",ITV Med South
 http://45.153.35.224:8000/play/a01b
 #EXTINF:-1 tvg-name="Pick SD+" tvg-id="Pick.uk" group-title="UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/pick-uk.png?raw=true",Pick
 http://45.153.35.224:8000/play/a00j
 #EXTINF:-1 tvg-name="Pick +1 SD+" tvg-id="Pick+1.uk" group-title="UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/pick-plus-uk.png?raw=true",Pick +1
 http://45.153.35.224:8000/play/a00k
-#EXTINF:-1 tvg-name="QUEST FullHD" tvg-id="QUEST.uk" group-title="UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/quest-uk.png?raw=true",QUEST
+#EXTINF:-1 tvg-name="QUEST FullHD" tvg-id="QUEST.uk" group-title="UK Documentaries" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/quest-uk.png?raw=true",QUEST
 http://45.153.35.224:8000/play/a00s
 #EXTINF:-1 tvg-name="S4C HD" tvg-id="S4C.uk" group-title="UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/s4c-uk.png?raw=true",S4C
 http://45.153.35.224:8000/play/a00p
 #EXTINF:-1 tvg-name="STV FullHD" tvg-id="CHSTV.uk" group-title="UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/stv-uk.png?raw=true",STV
 http://45.153.35.224:8000/play/a017
-#EXTINF:-1 tvg-name="Sky News SD+" tvg-id="Sky.News.HD.uk" group-title="UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-news-uk.png?raw=true",Sky News
+#EXTINF:-1 tvg-name="Sky News SD+" tvg-id="Sky.News.HD.uk" group-title="UK News" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-news-uk.png?raw=true",Sky News
 http://45.153.35.224:8000/play/a00l
 #EXTINF:-1 tvg-name="Smithsonian Channel FullHD" tvg-id="Smithsonian.HD.uk" group-title="UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/smithsonian-channel-uk.png?raw=true",Smithsonian Channel
 http://45.153.35.224:8000/play/a00e
-#EXTINF:-1 tvg-name="TRT World FullHD" tvg-id="TRT.World.HD.uk" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/320px-TRT_World.svg.png",TRT World
+#EXTINF:-1 tvg-name="TRT World FullHD" tvg-id="TRT.World.HD.uk" group-title="UK News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/320px-TRT_World.svg.png",TRT World
 http://45.153.35.224:8000/play/a00g
 #EXTINF:-1 tvg-name="Utv FullHD" tvg-id="" group-title="UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/u-tv-uk.png?raw=true",Utv
 http://45.153.35.224:8000/play/a018
