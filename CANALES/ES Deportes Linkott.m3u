@@ -70,11 +70,11 @@ http://plus.linkott.com:80/50513041283809/97304261488292/30119
 http://plus.linkott.com:80/50513041283809/97304261488292/103306
 
 
-#EXTINF:-1 tvg-name="N/A" tvg-id="M.LCAMPEONES HD#" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true",Liga de Campeones FullHD
+#EXTINF:-1 tvg-name="N/A" tvg-id="M.LCAMPEON1 FHD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true",Liga de Campeones FullHD
 http://plus.linkott.com:80/50513041283809/97304261488292/180277
-#EXTINF:-1 tvg-name="N/A" tvg-id="M.LCAMPEONES" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true",Liga de Campeones FullHD
+#EXTINF:-1 tvg-name="N/A" tvg-id="movistarcampeones.es" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true",Liga de Campeones FullHD
 http://plus.linkott.com:80/50513041283809/97304261488292/103174
-#EXTINF:-1 tvg-name="N/A" tvg-id="M.LCAMPEONES FHD#" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true",Liga de Campeones HD
+#EXTINF:-1 tvg-name="N/A" tvg-id="movistarcampeones.es" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true",Liga de Campeones HD
 http://plus.linkott.com:80/50513041283809/97304261488292/30130
 
 
