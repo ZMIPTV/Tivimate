@@ -35,11 +35,11 @@ http://plus.linkott.com:80/50513041283809/97304261488292/30114
 http://plus.linkott.com:80/50513041283809/97304261488292/30102
 
 
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="DAZN F1 HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-formula-1-es.png?raw=true",DAZN F1 FullHD
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="DAZN F1 HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-f1-es.png?raw=true",DAZN F1 FullHD
 http://plus.linkott.com:80/50513041283809/97304261488292/30013
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="DAZN F1 HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-formula-1-es.png?raw=true",DAZN F1 FullHD
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="DAZN F1 HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-f1-es.png?raw=true",DAZN F1 FullHD
 http://plus.linkott.com:80/50513041283809/97304261488292/30112
-#EXTINF:-1 tvg-name="DAZN F1" tvg-id="DAZN F1 HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-formula-1-es.png?raw=true",DAZN F1 FullHD
+#EXTINF:-1 tvg-name="DAZN F1" tvg-id="DAZN F1 HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-f1-es.png?raw=true",DAZN F1 FullHD
 http://plus.linkott.com:80/50513041283809/97304261488292/30096
 
 #EXTINF:-1 tvg-name="N/A" tvg-id="M. LaLiga" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true",LaLiga FullHD
@@ -85,10 +85,9 @@ http://plus.linkott.com:80/50513041283809/97304261488292/180272
 http://plus.linkott.com:80/50513041283809/97304261488292/101602
 
 
-#EXTINF:-1 tvg-name="beIN Sports USA" tvg-id="Teledeporte.es" group-title="Deportes" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/1290.png",beIN Sports USA HD
+#EXTINF:-1 tvg-name="beIN Sports USA" tvg-id="beinsports.us" group-title="Deportes" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/1290.png",beIN Sports USA HD
 http://ipflix.click:8080/ToNi6319/txdw3p5mii/682942
-
-#EXTINF:-1 tvg-name="beIN Sports USA" tvg-id="BEIN2HD.beIN.Sports.En.Español.HD(ñ).us" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/320px-BeIN_Sports_En_Espa%C3%B1ol.png",beIN Sports en Español USA HD
+#EXTINF:-1 tvg-name="beIN Sports en Español USA" tvg-id="beinsportespanol.us" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/320px-BeIN_Sports_En_Espa%C3%B1ol.png",beIN Sports en Español USA HD
 http://ipflix.click:8080/ToNi6319/txdw3p5mii/678747
 
 
