@@ -2,9 +2,5 @@
 
 #EXTINF:-1 tvg-name="History 2 Latino America FullHD" tvg-id="HISTORY.2.HD.(H2.HD).pe" group-title="Documentales" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/H2.us.png?raw=true",History 2 Latino América
 http://45.225.93.154:4000/play/a0e4
-#EXTINF:-1 tvg-name="History 2 Latino America FullHD" tvg-id="HISTORY.2.(H2).co" group-title="Documentales" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/H2.us.png?raw=true",History 2 Latino América
-http://45.225.93.154:4000/play/a0e4
-#EXTINF:-1 tvg-name="History 2 Latino America FullHD" tvg-id="History.2.(H2.HD).co" group-title="Documentales" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/H2.us.png?raw=true",History 2 Latino América
-http://45.225.93.154:4000/play/a0e4
 
 
