@@ -4,7 +4,7 @@
 http://45.225.93.154:4000/play/a0e1
 #EXTINF:-1 tvg-name="Discovery Channel LatinoAmerica SD" tvg-id="Discovery.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true",Discovery Channel LatinoAmerica
 http://181.176.148.142:8000/play/a013
-#EXTINF:-1 tvg-name="Discovery Channel LatinoAmerica SD" tvg-id="25788" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true",Discovery Channel LatinoAmerica
+#EXTINF:-1 tvg-name="Discovery Channel LatinoAmerica SD" tvg-id="" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true",Discovery Channel LatinoAmerica
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/195
 #EXTINF:-1 tvg-name="Discovery Channel LatinoAmerica SD" tvg-id="Discovery.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true",Discovery Channel LatinoAmerica 
 http://45.179.140.242:8000/play/a0i8
