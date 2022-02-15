@@ -1,6 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="B037" tvg-id="46610" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-science-icon-shade-us.png?raw=true",Discovery Science LatinoAmérica SD
+
+#EXTINF:-1 tvg-name="Discovery Science Latino America SD" tvg-id="46610" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-science-icon-shade-us.png?raw=true",Discovery Science Latino America
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/9683
+#EXTINF:-1 tvg-name="Discovery Science Latino America SD" tvg-id="Discovery.Science.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-science-icon-shade-us.png?raw=true",Discovery Science Latino America
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/9683
+#EXTINF:-1 tvg-name="Discovery Science Latino America SD" tvg-id="DISCOVERY.SCIENCE.(Discovery.Science).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-science-icon-shade-us.png?raw=true",Discovery Science Latino America
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/9683
+#EXTINF:-1 tvg-name="Discovery Science Latino America SD" tvg-id="DISCOVERY.SCIENCE.(Disc.Science).pe" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-science-icon-shade-us.png?raw=true",Discovery Science Latino America
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/9683
+
 
 
 

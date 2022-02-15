@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-name="Discovery World FullHD" tvg-id="66488" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryWorld.br.png?raw=true",Discovery World
 http://45.225.93.154:4000/play/a05b
-#EXTINF:-1 tvg-name="Discovery World FullHD" tvg-id="66488" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryWorld.br.png?raw=true",Discovery World
+#EXTINF:-1 tvg-name="Discovery World FullHD" tvg-id="DISCOVERY.WORLD.HD.(Disc.WorldHD).pe" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryWorld.br.png?raw=true",Discovery World
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/290
+#EXTINF:-1 tvg-name="Discovery World FullHD" tvg-id="DISCOVERY.WORLD.HD.(Discovery.World.HD).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryWorld.br.png?raw=true",Discovery World
+http://45.225.93.154:4000/play/a05b
 
