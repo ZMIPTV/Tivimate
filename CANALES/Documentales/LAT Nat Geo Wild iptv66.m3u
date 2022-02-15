@@ -1,5 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="B020" tvg-id="66491" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true",Nat Geo Wild Latino América SD
+
+#EXTINF:-1 tvg-name="Nat Geo Wild Latino América FullHD" tvg-id="66491" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true",Nat Geo Wild Latino América
+http://45.225.93.154:4000/play/a0an
+#EXTINF:-1 tvg-name="Nat Geo Wild Latino América SD" tvg-id="66491" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true",Nat Geo Wild Latino América
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/18
 
 

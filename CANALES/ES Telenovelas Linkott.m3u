@@ -1,0 +1,47 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="N/A" tvg-id="60b4c06717da110007ee1af6" group-title="Telenovelas" tvg-logo="https://images.pluto.tv/channels/60b4c06717da110007ee1af6/colorLogoPNG.png",Pluto TV Telenovelas HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-name="Canal Estrellas" tvg-id="Canal.de.las.Estrellas.es" group-title="Telenovelas" tvg-logo="https://img2.freepng.es/20180630/vxh/kisspng-las-estrellas-televisa-television-channel-logo-las-5b371bda0c0037.7141536615303382660492.jpg",Canal Estrellas SD
+http://45.179.140.242:8000/play/a0ij
+#EXTINF:-1 tvg-name="Canal Estrellas" tvg-id="Canal.de.las.Estrellas.es" group-title="Telenovelas" tvg-logo="https://img2.freepng.es/20180630/vxh/kisspng-las-estrellas-televisa-television-channel-logo-las-5b371bda0c0037.7141536615303382660492.jpg",Canal Estrellas SD
+http://190.187.200.69:8000/play/a01j
+#EXTINF:-1 tvg-name="Canal Estrellas" tvg-id="16461" group-title="Telenovelas" tvg-logo="https://img2.freepng.es/20180630/vxh/kisspng-las-estrellas-televisa-television-channel-logo-las-5b371bda0c0037.7141536615303382660492.jpg",Canal Estrellas SD
+http://200.24.159.179:8500/play/a01m
+
+
+#EXTINF:-1 tvg-name="Caracol TV" tvg-id="Caracol.cl" group-title="Telenovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png/219px-Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png",Caracol TV
+http://45.179.140.242:8000/play/a0j1
+
+#EXTINF:-1 tvg-name="Pasiones FullHD" tvg-id="PASIONES.(Pasiones).co" group-title="Telenovelas" tvg-logo="https://media.tvalacarta.info/canales/256x256/telemundo.png",Pasiones
+http://45.225.93.154:4000/play/pasioneshd
+
+
+#EXTINF:-1 tvg-name="N/A" tvg-id="RCN.Novelas.(RCNNOV)..ec" group-title="Telenovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LogoNTyLR.svg/320px-LogoNTyLR.svg.png",RCN Novelas SD
+http://45.179.140.242:8000/play/a0jf
+#EXTINF:-1 tvg-name="N/A" tvg-id="a00y" group-title="Telenovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LogoNTyLR.svg/320px-LogoNTyLR.svg.png",RCN Novelas SD
+http://181.78.22.214:8000/play/a012
+#EXTINF:-1 tvg-name="N/A" tvg-id="a00y" group-title="Telenovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LogoNTyLR.svg/320px-LogoNTyLR.svg.png",RCN Novelas SD
+http://190.187.200.69:8000/play/a01n
+#EXTINF:-1 tvg-name="N/A" tvg-id="a00y" group-title="Telenovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LogoNTyLR.svg/320px-LogoNTyLR.svg.png",RCN Novelas SD
+http://200.24.159.179:8500/play/a03k
+
+
+#EXTINF:-1 tvg-name="N/A" tvg-id="Telemundo.(WRDQ-DT3).Orlando,.FL.us" group-title="Telenovelas" tvg-logo="https://media.tvalacarta.info/canales/256x256/telemundo.png",telemundo
+http://45.179.140.242:8000/play/a0il
+#EXTINF:-1 tvg-name="N/A" tvg-id="Telemundo.(KJNK-DT2).Minneapolis,.MN.us" group-title="Telenovelas" tvg-logo="https://media.tvalacarta.info/canales/256x256/telemundo.png",telemundo SD
+http://181.78.22.214:8000/play/a01t
+#EXTINF:-1 tvg-name="N/A" tvg-id="Telemundo.(KVEA).Los.Angeles,.CA.us" group-title="Telenovelas" tvg-logo="https://media.tvalacarta.info/canales/256x256/telemundo.png",telemundo SD
+http://190.187.200.69:8000/play/a01m
+#EXTINF:-1 tvg-name="N/A" tvg-id="Telemundo.(WDNI-INDY).Indianapolis,.IN.us" group-title="Telenovelas" tvg-logo="https://media.tvalacarta.info/canales/256x256/telemundo.png",telemundo SD
+http://200.24.159.179:8500/play/a01p
+
+
+#EXTINF:-1 tvg-name="N/A" tvg-id="TeleNovelas.mx" group-title="Telenovelas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tln.png?raw=true",tln SD
+http://plus.linkott.com:80/50513041283809/97304261488292/101601
+#EXTINF:-1 tvg-name="N/A" tvg-id="TLNovelas.ng" group-title="Telenovelas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tln.png?raw=true",tln SD
+http://181.176.148.142:8000/play/a00e
+
+
