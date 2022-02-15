@@ -2,15 +2,15 @@
 
 #EXTINF:-1 tvg-name="B010A" tvg-id="Nat Geo Latino América FullHD" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true",Nat Geo Latino América
 http://45.225.93.154:4000/play/a05a
-#EXTINF:-1 tvg-name="B010A" tvg-id="Nat Geo Latino América FullHD" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true",Nat Geo Latino América
+#EXTINF:-1 tvg-name="Nat Geo Latino América SD" tvg-id="NAT.GEO.(Nat.Geo).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true",Nat Geo Latino América
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/9734
-#EXTINF:-1 tvg-name="B010" tvg-id="Nat Geo Latino América SD" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true",Nat Geo Latino América
+#EXTINF:-1 tvg-name="Nat Geo Latino América SD" tvg-id="NAT.GEO.HD.(Nat.Geo.HD).pe" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true",Nat Geo Latino América
 http://181.78.22.214:8000/play/a003
-#EXTINF:-1 tvg-name="B010" tvg-id="Nat Geo Latino América SD" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true",Nat Geo Latino América
+#EXTINF:-1 tvg-name="Nat Geo Latino América SD" tvg-id="NAT.GEO.HD.(Nat.Geo.HD).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true",Nat Geo Latino América
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/97
-#EXTINF:-1 tvg-name="B010" tvg-id="Nat Geo Latino América SD" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true",Nat Geo Latino América
+#EXTINF:-1 tvg-name="Nat Geo Latino América SD" tvg-id="Nat Geo Latino América SD" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true",Nat Geo Latino América
 http://45.179.140.242:8000/play/a0h2
-#EXTINF:-1 tvg-name="B010" tvg-id="Nat Geo Latino América SD" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true",Nat Geo Latino América
+#EXTINF:-1 tvg-name="Nat Geo Latino América SD" tvg-id="Nat Geo Latino América SD" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true",Nat Geo Latino América
 http://190.187.200.69:8000/play/a00b
 
 
