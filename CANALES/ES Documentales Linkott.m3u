@@ -152,7 +152,7 @@ http://45.225.93.154:4000/play/a0an
 #EXTINF:-1 tvg-name="Nat Geo Wild Latino América SD" tvg-id="66491" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true",Nat Geo Wild Latino América
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/18
 
-#EXTINF:-1 tvg-name="Sun Channel FullHD" tvg-id="Sun.Channel.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true",Sun Channel
+#EXTINF:-1 tvg-name="Sun Channel FullHD" tvg-id="Sun.Channel.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/sun-Channel.png?raw=true",Sun Channel
 http://45.225.93.154:4000/play/a0aj
 
 #EXTINF:-1 tvg-name="C030" tvg-id="56905" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true",Discovery Channel USA FullHD
