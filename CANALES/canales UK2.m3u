@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:30,5usa
+http://213.7.193.54:4000/play/5usa/index.m3u8
+#EXTINF:0,bbc1
+http://213.7.193.54:4000/play/bbc1/index.m3u8
+#EXTINF:0,bein
+http://213.7.193.54:4000/play/a002/index.m3u8
+#EXTINF:22,channel 3
+http://213.7.193.54:4000/play/a004/index.m3u8
+#EXTINF:30,channel4
+http://213.7.193.54:4000/play/channel4/index.m3u8
+#EXTINF:0,cytavision2
+http://213.7.193.54:4000/play/a005/index.m3u8
+#EXTINF:30,itv1
+http://213.7.193.54:4000/play/itv1/index.m3u8
