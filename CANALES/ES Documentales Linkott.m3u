@@ -121,7 +121,7 @@ http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/98
 
 #EXTINF:-1 tvg-name="History 2 Latino America 1080" tvg-id="HISTORY.2.HD.(H2.HD).pe" group-title="Documentales" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/H2.us.png?raw=true",History 2 Latino América [COLOR green][B]1080[/COLOR][/B]
 http://45.225.93.154:4000/play/a0e4
-#EXTINF:-1 tvg-name="History 2 Latino America 1080" tvg-id="HISTORY.2.HD.(H2.HD).pe" group-title="Documentales" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/H2.us.png?raw=true",History 2 Latino América [COLOR orange][B]1080[/COLOR][/B]
+#EXTINF:-1 tvg-name="History 2 Latino America 1080" tvg-id="HISTORY.2.HD.(H2.HD).pe" group-title="Documentales" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/H2.us.png?raw=true",History 2 Latino América [COLOR orange][B]1080[/B][/COLOR]
 http://38.131.11.9:1080/play/a0dd
 
 
