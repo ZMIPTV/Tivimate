@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="B038" tvg-id="46608" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true",Discovery Turbo LatinoAmérica SD
+#EXTINF:-1 tvg-name="Discovery Turbo Latino America SD" tvg-id="Discovery.Turbo.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true",Discovery Turbo Latino America
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/6574
-#EXTINF:-1 tvg-name="B038" tvg-id="46608" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true",Discovery Turbo LatinoAmérica SD
+#EXTINF:-1 tvg-name="Discovery Turbo Latino America SD" tvg-id="Discovery.Turbo.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true",Discovery Turbo Latino America
 http://45.179.140.242:8000/play/a0hi
-#EXTINF:-1 tvg-name="B038" tvg-id="DISCOVERY.TURBO.(Disc.Turbo).pe" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true",Discovery Turbo LatinoAmérica SD
+#EXTINF:-1 tvg-name="Discovery Turbo Latino America SD" tvg-id="Discovery.Turbo.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true",Discovery Turbo Latino America
 http://181.176.148.142:8000/play/a015
-#EXTINF:-1 tvg-name="B038" tvg-id="Discovery.Turbo.(Discovery.Turbo).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true",Discovery Turbo LatinoAmérica SD
+#EXTINF:-1 tvg-name="Discovery Turbo Latino America SD" tvg-id="Discovery.Turbo.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true",Discovery Turbo Latino America
 http://181.78.22.214:8000/play/a01r
-#EXTINF:-1 tvg-name="B038" tvg-id="Discovery.Turbo.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true",Discovery Turbo LatinoAmérica SD
+#EXTINF:-1 tvg-name="Discovery Turbo Latino America SD" tvg-id="Discovery.Turbo.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true",Discovery Turbo Latino America
 http://190.187.200.69:8000/play/a027
-#EXTINF:-1 tvg-name="B038" tvg-id="46608" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true",Discovery Turbo LatinoAmérica SD
+#EXTINF:-1 tvg-name="Discovery Turbo Latino America SD" tvg-id="Discovery.Turbo.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true",Discovery Turbo LatinoAmerica SD
 http://200.24.159.179:8500/play/a039
 
 

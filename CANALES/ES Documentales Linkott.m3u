@@ -47,73 +47,61 @@ http://190.187.200.69:8000/play/a019
 http://45.225.93.154:4000/play/a0e1
 #EXTINF:-1 tvg-name="Discovery Channel LatinoAmerica SD" tvg-id="Discovery.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true",Discovery Channel LatinoAmerica
 http://181.176.148.142:8000/play/a013
-#EXTINF:-1 tvg-name="Discovery Channel LatinoAmerica SD" tvg-id="" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true",Discovery Channel LatinoAmerica
-http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/195
 #EXTINF:-1 tvg-name="Discovery Channel LatinoAmerica SD" tvg-id="Discovery.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true",Discovery Channel LatinoAmerica 
 http://45.179.140.242:8000/play/a0i8
 #EXTINF:-1 tvg-name="Discovery Channel LatinoAmerica SD" tvg-id="Discovery.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true",Discovery Channel LatinoAmerica
 http://181.78.22.214:8000/play/a00u
 #EXTINF:-1 tvg-name="Discovery Channel LatinoAmerica SD" tvg-id="Discovery.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true",Discovery Channel LatinoAmerica
 http://190.187.200.69:8000/play/a018
-#EXTINF:-1 tvg-name="Discovery Channel LatinoAmerica SD*" tvg-id="Discovery.Channel.(Discovery.HD).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true",Discovery Channel LatinoAmerica SD*
+#EXTINF:-1 tvg-name="Discovery Channel LatinoAmerica SD" tvg-id="25788" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true",Discovery Channel LatinoAmerica
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/195
+#EXTINF:-1 tvg-name="Discovery Channel LatinoAmerica SD*" tvg-id="25788" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true",Discovery Channel LatinoAmerica SD*
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/263
 
 
-#EXTINF:-1 tvg-name="Discovery Science Latino America SD" tvg-id="46610" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-science-icon-shade-us.png?raw=true",Discovery Science Latino America
+#EXTINF:-1 tvg-name="Discovery Science Latino America SD" tvg-id="Discovery.Science.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-science-icon-shade-us.png?raw=true",Discovery Science Latino America
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/9683
 #EXTINF:-1 tvg-name="Discovery Science Latino America SD" tvg-id="Discovery.Science.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-science-icon-shade-us.png?raw=true",Discovery Science Latino America
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/9683
-#EXTINF:-1 tvg-name="Discovery Science Latino America SD" tvg-id="DISCOVERY.SCIENCE.(Discovery.Science).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-science-icon-shade-us.png?raw=true",Discovery Science Latino America
+#EXTINF:-1 tvg-name="Discovery Science Latino America SD" tvg-id="Discovery.Science.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-science-icon-shade-us.png?raw=true",Discovery Science Latino America
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/9683
-#EXTINF:-1 tvg-name="Discovery Science Latino America SD" tvg-id="DISCOVERY.SCIENCE.(Disc.Science).pe" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-science-icon-shade-us.png?raw=true",Discovery Science Latino America
+#EXTINF:-1 tvg-name="Discovery Science Latino America SD" tvg-id="Discovery.Science.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-science-icon-shade-us.png?raw=true",Discovery Science Latino America
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/9683
 
 
-#EXTINF:-1 tvg-name="Discovery Theater FullHD" tvg-id="65940" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTheater.mx.png?raw=true",Discovery Theater
+#EXTINF:-1 tvg-name="Discovery Theater FullHD" tvg-id="Discovery.Theater.(Theater).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTheater.mx.png?raw=true",Discovery Theater
 http://45.225.93.154:4000/play/a0am
 #EXTINF:-1 tvg-name="Discovery Theater FullHD" tvg-id="Discovery.Theater.(Theater).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTheater.mx.png?raw=true",Discovery Theater
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/13
-#EXTINF:-1 tvg-name="Discovery Theater FullHD" tvg-id="DISCOVERY.HD.THEATER.(Disc.TheaterHD).pe" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTheater.mx.png?raw=true",Discovery Theater
-http://45.225.93.154:4000/play/a0am
-#EXTINF:-1 tvg-name="Discovery Theater FullHD" tvg-id="Discovery.Theater.(Theater).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTheater.mx.png?raw=true",Discovery Theater
-http://45.225.93.154:4000/play/a0am
-#EXTINF:-1 tvg-name="Discovery Theater FullHD" tvg-id="DISCOVERY.HD.THEATER.(D..Theater).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTheater.mx.png?raw=true",Discovery Theater
-http://45.225.93.154:4000/play/a0am
 
 
-#EXTINF:-1 tvg-name="B038" tvg-id="46608" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true",Discovery Turbo LatinoAmerica SD
+#EXTINF:-1 tvg-name="Discovery Turbo Latino America SD" tvg-id="Discovery.Turbo.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true",Discovery Turbo Latino America
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/6574
-#EXTINF:-1 tvg-name="B038" tvg-id="46608" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true",Discovery Turbo LatinoAmerica SD
+#EXTINF:-1 tvg-name="Discovery Turbo Latino America SD" tvg-id="Discovery.Turbo.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true",Discovery Turbo Latino America
 http://45.179.140.242:8000/play/a0hi
-#EXTINF:-1 tvg-name="B038" tvg-id="DISCOVERY.TURBO.(Disc.Turbo).pe" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true",Discovery Turbo LatinoAmerica SD
+#EXTINF:-1 tvg-name="Discovery Turbo Latino America SD" tvg-id="Discovery.Turbo.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true",Discovery Turbo Latino America
 http://181.176.148.142:8000/play/a015
-#EXTINF:-1 tvg-name="B038" tvg-id="Discovery.Turbo.(Discovery.Turbo).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true",Discovery Turbo LatinoAmerica SD
+#EXTINF:-1 tvg-name="Discovery Turbo Latino America SD" tvg-id="Discovery.Turbo.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true",Discovery Turbo Latino America
 http://181.78.22.214:8000/play/a01r
-#EXTINF:-1 tvg-name="B038" tvg-id="Discovery.Turbo.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true",Discovery Turbo LatinoAmerica SD
+#EXTINF:-1 tvg-name="Discovery Turbo Latino America SD" tvg-id="Discovery.Turbo.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true",Discovery Turbo Latino America
 http://190.187.200.69:8000/play/a027
-#EXTINF:-1 tvg-name="B038" tvg-id="46608" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true",Discovery Turbo LatinoAmerica SD
+#EXTINF:-1 tvg-name="Discovery Turbo Latino America SD" tvg-id="Discovery.Turbo.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true",Discovery Turbo LatinoAmerica SD
 http://200.24.159.179:8500/play/a039
 
 
 
-#EXTINF:-1 tvg-name="Discovery World FullHD" tvg-id="66488" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryWorld.br.png?raw=true",Discovery World
+#EXTINF:-1 tvg-name="Discovery World 1080" tvg-id="DISCOVERY.WORLD.HD.(Discovery.World.HD).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryWorld.br.png?raw=true",Discovery World
 http://45.225.93.154:4000/play/a05b
-#EXTINF:-1 tvg-name="Discovery World FullHD" tvg-id="DISCOVERY.WORLD.HD.(Disc.WorldHD).pe" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryWorld.br.png?raw=true",Discovery World
+#EXTINF:-1 tvg-name="Discovery World 1080" tvg-id="DISCOVERY.WORLD.HD.(Discovery.World.HD).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryWorld.br.png?raw=true",Discovery World
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/290
-#EXTINF:-1 tvg-name="Discovery World FullHD" tvg-id="DISCOVERY.WORLD.HD.(Discovery.World.HD).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryWorld.br.png?raw=true",Discovery World
-http://45.225.93.154:4000/play/a05b
 
 
 #EXTINF:-1 tvg-name="HGTV Latino America SD" tvg-id="Hgtv.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/HGTV.png?raw=true",HGTV Latino America
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/10665
 
 
-#EXTINF:-1 tvg-name="History Latino America FullHD" tvg-id="70669" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true",History Latino America
-http://45.225.93.154:4000/play/a06b
 #EXTINF:-1 tvg-name="History Latino America FullHD" tvg-id="HISTORY.CHANNEL.(History).pe" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true",History Latino America
-http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/10080
-#EXTINF:-1 tvg-name="History Latino America SD" tvg-id="HISTORY.CHANNEL.HD.(HistoryHD).pe" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true",History Latino America
-http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/98
+http://45.225.93.154:4000/play/a06b
 #EXTINF:-1 tvg-name="History Latino America SD" tvg-id="History.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true",History Latino America
 http://181.176.148.142:8000/play/a01p
 #EXTINF:-1 tvg-name="History Latino America SD" tvg-id="History.Channel.(History.Col.IPTV).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true",History Latino America
@@ -122,6 +110,10 @@ http://181.78.22.214:8000/play/a004
 http://190.187.200.69:8000/play/a00c
 #EXTINF:-1 tvg-name="History Latino America *" tvg-id="HISTORY.CHANNEL.HD.(History.HD).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true",History Latino America*
 http://45.179.140.242:8000/play/a0ju
+#EXTINF:-1 tvg-name="History Latino America FullHD" tvg-id="70669" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true",History Latino America
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/10080
+#EXTINF:-1 tvg-name="History Latino America SD" tvg-id="70669" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true",History Latino America
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/98
 
 
 
@@ -134,15 +126,15 @@ http://45.225.93.154:4000/play/a0e4
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/861
 #EXTINF:-1 tvg-name="ID Discovery Latino America SD" tvg-id="ID.-.Investigation.Discovery.(Invest.DiscoveryHD).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true",ID Discovery Latino America
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/63
-#EXTINF:-1 tvg-name="ID Discovery Latino America SD*" tvg-id="ID.HD.-.INVESTIGATION.DISCOVERY.HD.(Invest.DiscoveryHD).pe" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true",ID Discovery Latino America
+#EXTINF:-1 tvg-name="ID Discovery Latino America SD*" tvg-id="ID.-.Investigation.Discovery.(Invest.DiscoveryHD).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true",ID Discovery Latino America
 http://45.179.140.242:8000/play/a0jg
-#EXTINF:-1 tvg-name="ID Discovery Latino America HD" tvg-id="25793" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true",ID Discovery Latino America
+#EXTINF:-1 tvg-name="ID Discovery Latino America HD" tvg-id="ID.-.Investigation.Discovery.(Invest.DiscoveryHD).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true",ID Discovery Latino America
 http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
-#EXTINF:-1 tvg-name="ID Discovery Latino America SD+" tvg-id="25793" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true",ID Discovery Latino America
+#EXTINF:-1 tvg-name="ID Discovery Latino America SD+" tvg-id="ID.-.Investigation.Discovery.(Invest.DiscoveryHD).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true",ID Discovery Latino America
 http://181.176.148.142:8000/play/a014
-#EXTINF:-1 tvg-name="ID Discovery Latino America HD**" tvg-id="25793" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true",ID Discovery Latino America
+#EXTINF:-1 tvg-name="ID Discovery Latino America HD**" tvg-id="ID.-.Investigation.Discovery.(Invest.DiscoveryHD).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true",ID Discovery Latino America
 http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
-#EXTINF:-1 tvg-name="ID Discovery Latino America SD" tvg-id="25793" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true",ID Discovery Latino America
+#EXTINF:-1 tvg-name="ID Discovery Latino America SD" tvg-id="ID.-.Investigation.Discovery.(Invest.DiscoveryHD).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true",ID Discovery Latino America
 http://181.78.22.214:8000/play/a013
 
 
