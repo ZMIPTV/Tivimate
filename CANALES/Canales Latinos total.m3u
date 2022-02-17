@@ -8,7 +8,8 @@ http://181.78.22.214:8000/play/a00t
 http://45.225.93.154:8000/play/a01z
 #EXTINF:0,Canal 24 Horas 1080
 http://45.225.93.154:4000/play/a07d
-
+#EXTINF:0,Canal 24 Horas 1080
+http://38.131.11.9:1080/play/a0e0
 #EXTINF:0,AE Mundo 480
 http://45.225.93.154:8000/play/a02c
 #EXTINF:0,AE Mundo 480
@@ -19,6 +20,8 @@ http://181.78.22.214:8000/play/a011
 http://200.24.159.179:8500/play/a01i
 
 
+#EXTINF:0,AXN 
+http://38.131.11.9:1080/play/a0bk
 #EXTINF:0,AXN 480
 http://45.225.93.154:8000/play/a039
 #EXTINF:0,AXN 1080
@@ -51,6 +54,10 @@ http://45.179.140.242:8000/play/a0i6
 http://181.78.22.214:8000/play/a00h
 #EXTINF:0,CNN Espanol 480
 http://200.24.159.179:8500/play/a00n
+#EXTINF:-1,CNN Chile
+http://38.131.11.9:1080/play/a00z
+#EXTINF:-1,CNN Espanol
+http://38.131.11.9:1080/play/a004
 
 
 #EXTINF:0,Canal de las Estrellas 480
@@ -59,6 +66,8 @@ http://45.225.93.154:8000/play/a02g
 http://200.24.159.179:8500/play/a01m
 #EXTINF:0,Canal de las Estrellas 480
 http://190.187.200.69:8000/play/a01j
+#EXTINF:0,Canal de las Estrellas 480
+http://38.131.11.9:1080/play/a032
 
 
 #EXTINF:0,Discovery Channel 480
@@ -93,6 +102,8 @@ http://181.78.22.214:8000/play/a013
 
 #EXTINF:0,Discovery H&H 1080
 http://45.225.93.154:4000/play/a0al
+#EXTINF:-1,Home and Health
+http://38.131.11.9:1080/play/a01d
 
 
 #EXTINF:0,Discovery Kids 480
@@ -103,6 +114,8 @@ http://45.225.93.154:4000/play/a0ak
 http://181.78.22.214:8000/play/a00g
 #EXTINF:0,Discovery Kids 480
 http://200.24.159.179:8500/play/a00m
+#EXTINF:-1,Discovery Kids
+http://38.131.11.9:1080/play/a003
 
 
 #EXTINF:0,Nat Geo 480

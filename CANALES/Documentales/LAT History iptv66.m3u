@@ -1,14 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="History Latino America FullHD" tvg-id="HISTORY.CHANNEL.(History).pe" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true",History Latino America
+#EXTINF:-1 tvg-name="History Latino America 1080" tvg-id="HISTORY.CHANNEL.(History).pe" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true",History Latino America
 http://45.225.93.154:4000/play/a06b
-#EXTINF:-1 tvg-name="History Latino America SD" tvg-id="History.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true",History Latino America
+#EXTINF:-1 tvg-name="History Latino America 480" tvg-id="History.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true",History Latino America
 http://181.176.148.142:8000/play/a01p
-#EXTINF:-1 tvg-name="History Latino America SD" tvg-id="History.Channel.(History.Col.IPTV).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true",History Latino America
+#EXTINF:-1 tvg-name="History Latino America 480" tvg-id="History.Channel.(History.Col.IPTV).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true",History Latino America
 http://181.78.22.214:8000/play/a004
-#EXTINF:-1 tvg-name="History Latino America SD" tvg-id="HISTORY.CHANNEL.(History.Channel).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true",History Latino America
+#EXTINF:-1 tvg-name="History Latino America 480" tvg-id="HISTORY.CHANNEL.(History.Channel).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true",History Latino America
 http://190.187.200.69:8000/play/a00c
-#EXTINF:-1 tvg-name="History Latino America *" tvg-id="HISTORY.CHANNEL.HD.(History.HD).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true",History Latino America*
+#EXTINF:-1 tvg-name="History Latino America 480" tvg-id="HISTORY.CHANNEL.(History.Channel).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true",History Latino America
+http://38.131.11.9:1080/play/a00r
+#EXTINF:-1 tvg-name="History Latino America 480*" tvg-id="HISTORY.CHANNEL.HD.(History.HD).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true",History Latino America*
 http://45.179.140.242:8000/play/a0ju
 #EXTINF:-1 tvg-name="History Latino America FullHD" tvg-id="70669" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true",History Latino America
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/10080

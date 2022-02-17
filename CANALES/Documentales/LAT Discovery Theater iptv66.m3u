@@ -1,8 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Discovery Theater FullHD" tvg-id="Discovery.Theater.(Theater).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTheater.mx.png?raw=true",Discovery Theater
+#EXTINF:-1 tvg-name="Discovery Theater 1080" tvg-id="Discovery.Theater.(Theater).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTheater.mx.png?raw=true",Discovery Theater
 http://45.225.93.154:4000/play/a0am
-#EXTINF:-1 tvg-name="Discovery Theater FullHD" tvg-id="Discovery.Theater.(Theater).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTheater.mx.png?raw=true",Discovery Theater
+#EXTINF:-1 tvg-name="Discovery Theater 1080" tvg-id="Discovery.Theater.(Theater).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTheater.mx.png?raw=true",Discovery Theater
+http://38.131.11.9:1080/play/a0dv
+#EXTINF:-1 tvg-name="Discovery Theater 1080" tvg-id="Discovery.Theater.(Theater).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTheater.mx.png?raw=true",Discovery Theater
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/13
 
 

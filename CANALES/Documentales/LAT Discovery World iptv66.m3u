@@ -1,6 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="Discovery World 1080" tvg-id="DISCOVERY.WORLD.HD.(Discovery.World.HD).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryWorld.br.png?raw=true",Discovery World
+http://38.131.11.9:1080/play/a0dw
+#EXTINF:-1 tvg-name="Discovery World 1080" tvg-id="DISCOVERY.WORLD.HD.(Discovery.World.HD).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryWorld.br.png?raw=true",Discovery World
 http://45.225.93.154:4000/play/a05b
 #EXTINF:-1 tvg-name="Discovery World 1080" tvg-id="DISCOVERY.WORLD.HD.(Discovery.World.HD).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryWorld.br.png?raw=true",Discovery World
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/290
