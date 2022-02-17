@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="M. Clasicos 1080" tvg-id="M. CLÁSICOS HD" group-title="Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png",M. Clasicos
+http://149.62.183.208:8000/play/a04b/index.m3u8
+

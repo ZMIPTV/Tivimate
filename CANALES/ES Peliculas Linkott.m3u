@@ -1,47 +1,70 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="AMC" tvg-id="AMC FHD" group-title="Peliculas" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/AMC.es.png?raw=true",AMC FullHD
+#EXTINF:-1 tvg-name="1080" tvg-id="AMC FHD" group-title="Peliculas" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/AMC.es.png?raw=true",AMC
 http://plus.linkott.com:80/50513041283809/97304261488292/30193
-#EXTINF:-1 tvg-name="AMC" tvg-id="amc.es" group-title="Peliculas" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/AMC.es.png?raw=true",AMC HD
+#EXTINF:-1 tvg-name="1080" tvg-id="AMC FHD" group-title="Peliculas" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/AMC.es.png?raw=true",AMC
+http://149.62.183.208:8000/play/a01u/index.m3u8
+#EXTINF:-1 tvg-name="720" tvg-id="amc.es" group-title="Peliculas" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/AMC.es.png?raw=true",AMC
 http://plus.linkott.com:80/50513041283809/97304261488292/30194
 
 
-#EXTINF:-1 tvg-name="N/A" tvg-id="Calle13.es" group-title="Peliculas" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/calle-13-es.png?raw=true",CALLE 13 FullHD
+
+#EXTINF:-1 tvg-name="Calle 13 1080" tvg-id="Calle13.es" group-title="Peliculas" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/calle-13-es.png?raw=true",Calle 13
 http://plus.linkott.com:80/50513041283809/97304261488292/30181
-#EXTINF:-1 tvg-name="N/A" tvg-id="Calle13.es" group-title="Peliculas" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/calle-13-es.png?raw=true",CALLE 13 HD
+#EXTINF:-1 tvg-name="Calle 13 720" tvg-id="Calle13.es" group-title="Peliculas" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/calle-13-es.png?raw=true",CALLE 13
 http://plus.linkott.com:80/50513041283809/97304261488292/30198
-#EXTINF:-1 tvg-name="N/A" tvg-id="Calle13.es" group-title="Peliculas" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/calle-13-es.png?raw=true",CALLE 13 SD
+#EXTINF:-1 tvg-name="Calle 13 1080" tvg-id="Calle13.es" group-title="Peliculas" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/calle-13-es.png?raw=true",Calle 13
+http://149.62.183.208:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-name="Calle 13 480" tvg-id="Calle13.es" group-title="Peliculas" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/calle-13-es.png?raw=true",CALLE 13
 http://plus.linkott.com:80/50513041283809/97304261488292/30049
-#EXTINF:-1 tvg-name="N/A" tvg-id="Calle13.es" group-title="Peliculas" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/calle-13-es.png?raw=true",CALLE 13 SD
+#EXTINF:-1 tvg-name="Calle 13 480" tvg-id="Calle13.es" group-title="Peliculas" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/calle-13-es.png?raw=true",CALLE 13
 http://plus.linkott.com:80/50513041283809/97304261488292/30182
 
 
-#EXTINF:-1 tvg-name="N/A" tvg-id="Hollywood.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true",Canal Hollywood FullHD
+
+#EXTINF:-1 tvg-name="Canal Hollywood 1080" tvg-id="Hollywood.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true",Canal Hollywood
 http://plus.linkott.com:80/50513041283809/97304261488292/180287
-#EXTINF:-1 tvg-name="N/A" tvg-id="Hollywood.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true",Canal Hollywood FullHD
+#EXTINF:-1 tvg-name="Canal Hollywood 1080" tvg-id="Hollywood.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true",Canal Hollywood
 http://plus.linkott.com:80/50513041283809/97304261488292/103168
-#EXTINF:-1 tvg-name="N/A" tvg-id="Hollywood.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true",Canal Hollywood HD
+#EXTINF:-1 tvg-name="Canal Hollywood 1080" tvg-id="Hollywood.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true",Canal Hollywood
+http://149.62.183.208:8000/play/a01a/index.m3u8
+#EXTINF:-1 tvg-name="Canal Hollywood 720" tvg-id="Hollywood.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true",Canal Hollywood
 http://plus.linkott.com:80/50513041283809/97304261488292/30140
-#EXTINF:-1 tvg-name="N/A" tvg-id="Hollywood.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true",Canal Hollywood HD
+#EXTINF:-1 tvg-name="Canal Hollywood 720" tvg-id="Hollywood.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true",Canal Hollywood
 http://plus.linkott.com:80/50513041283809/97304261488292/30200
+#EXTINF:-1 tvg-name="Canal Hollywood 576" tvg-id="Hollywood.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true",Canal Hollywood
+http://149.62.183.208:8000/play/a02f/index.m3u8
 
 
-#EXTINF:-1 tvg-name="N/A" tvg-id="MovistarAccion.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-accion-es.png?raw=true",M. Acción FullHD
+
+#EXTINF:-1 tvg-name="M. Accion 1080" tvg-id="MovistarAccion.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-accion-es.png?raw=true",M. Accion
+http://149.62.183.208:8000/play/a017/index.m3u8
+#EXTINF:-1 tvg-name="M. Accion 1080" tvg-id="MovistarAccion.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-accion-es.png?raw=true",M. Accion
 http://plus.linkott.com:80/50513041283809/97304261488292/30019
-#EXTINF:-1 tvg-name="N/A" tvg-id="MovistarAccion.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-accion-es.png?raw=true",M. Acción FullHD
+#EXTINF:-1 tvg-name="M. Accion 1080" tvg-id="MovistarAccion.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-accion-es.png?raw=true",M. Accion
 http://plus.linkott.com:80/50513041283809/97304261488292/30106
-#EXTINF:-1 tvg-name="N/A" tvg-id="MovistarAccion.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-accion-es.png?raw=true",M. Acción FullHD
+#EXTINF:-1 tvg-name="M. Accion 1080" tvg-id="MovistarAccion.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-accion-es.png?raw=true",M. Accion
 http://plus.linkott.com:80/50513041283809/97304261488292/103163
-#EXTINF:-1 tvg-name="N/A" tvg-id="MovistarAccion.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-accion-es.png?raw=true",M. Acción FullHD
+#EXTINF:-1 tvg-name="M. Accion 1080" tvg-id="MovistarAccion.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-accion-es.png?raw=true",M. Accion
 http://plus.linkott.com:80/50513041283809/97304261488292/180292
-#EXTINF:-1 tvg-name="N/A" tvg-id="MovistarAccion.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-accion-es.png?raw=true",M. Acción SD+
+#EXTINF:-1 tvg-name="M. Accion 576" tvg-id="MovistarAccion.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-accion-es.png?raw=true",M. Accion
 http://plus.linkott.com:80/50513041283809/97304261488292/30115
+#EXTINF:-1 tvg-name="M. Accion 576" tvg-id="MovistarAccion.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-accion-es.png?raw=true",M. Accion
+http://149.62.183.208:8000/play/a04h/index.m3u8
 
 
-#EXTINF:-1 tvg-name="M.Cine Ñ SD" tvg-id="movistarespanol.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-cine-espanol-es.png?raw=true",M. Cine Ñ
+
+#EXTINF:-1 tvg-name="M. Clasicos 1080" tvg-id="M. CLÁSICOS HD" group-title="Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png",M. Clasicos
+http://149.62.183.208:8000/play/a04b/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="M.Cine Ñ 480" tvg-id="movistarespanol.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-cine-espanol-es.png?raw=true",M. Cine Ñ
 http://plus.linkott.com:80/50513041283809/97304261488292/30017
-#EXTINF:-1 tvg-name="M.Cine Ñ SD" tvg-id="movistarespanol.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-cine-espanol-es.png?raw=true",M. Cine Ñ
+#EXTINF:-1 tvg-name="M.Cine Ñ 480" tvg-id="movistarespanol.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-cine-espanol-es.png?raw=true",M. Cine Ñ
 http://plus.linkott.com:80/50513041283809/97304261488292/30018
+#EXTINF:-1 tvg-name="M.Cine Ñ 480" tvg-id="movistarespanol.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-cine-espanol-es.png?raw=true",M. Cine Ñ
+http://149.62.183.208:8000/play/a042/index.m3u8
 
 
 #EXTINF:-1 tvg-name="N/A" tvg-id="MovistarComedia.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-comedia-es.png?raw=true",M. Comedia FullHD
@@ -54,13 +77,15 @@ http://plus.linkott.com:80/50513041283809/97304261488292/30103
 http://plus.linkott.com:80/50513041283809/97304261488292/30104
 
 
-#EXTINF:-1 tvg-name="N/A" tvg-id="mdrama.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-drama-es.png?raw=true",M. Drama FullHD
+#EXTINF:-1 tvg-name="M. Drama 1080" tvg-id="mdrama.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-drama-es.png?raw=true",M. Drama
+http://149.62.183.208:8000/play/a019/index.m3u8
+#EXTINF:-1 tvg-name="M. Drama 1080" tvg-id="mdrama.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-drama-es.png?raw=true",M. Drama
 http://plus.linkott.com:80/50513041283809/97304261488292/103166
-#EXTINF:-1 tvg-name="N/A" tvg-id="mdrama.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-drama-es.png?raw=true",M. Drama FullHD
+#EXTINF:-1 tvg-name="M. Drama 1080" tvg-id="mdrama.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-drama-es.png?raw=true",M. Drama
 http://plus.linkott.com:80/50513041283809/97304261488292/180289
-#EXTINF:-1 tvg-name="N/A" tvg-id="mdrama.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-drama-es.png?raw=true",M. Drama HD
+#EXTINF:-1 tvg-name="M. Drama 720" tvg-id="mdrama.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-drama-es.png?raw=true",M. Drama
 http://plus.linkott.com:80/50513041283809/97304261488292/30101
-#EXTINF:-1 tvg-name="N/A" tvg-id="mdrama.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-drama-es.png?raw=true",M. Drama HD
+#EXTINF:-1 tvg-name="M. Drama 720" tvg-id="mdrama.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-drama-es.png?raw=true",M. Drama
 http://plus.linkott.com:80/50513041283809/97304261488292/30100
 
 
@@ -76,20 +101,37 @@ http://plus.linkott.com:80/50513041283809/97304261488292/30015
 http://plus.linkott.com:80/50513041283809/97304261488292/30097
 
 
-#EXTINF:-1 tvg-name="Paramount Channel" tvg-id="ParamountChannel.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/paramount-network-es.png?raw=true",Paramount Channel SD+
+
+#EXTINF:-1 tvg-name="M. Estrenos 2 1080" tvg-id="M. ESTRENOS 2 HD" group-title="Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEST2.png",M. Estrenos 2
+http://149.62.183.208:8000/play/a04u/index.m3u8
+#EXTINF:-1 tvg-name="M. Estrenos 2 576" tvg-id="M. ESTRENOS 2 HD" group-title="Peliculas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEST2.png",M. Estrenos 2
+http://149.62.183.208:8000/play/a03g/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Paramount Channel 576" tvg-id="ParamountChannel.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/paramount-network-es.png?raw=true",Paramount Channel
+http://149.62.183.208:8000/play/a033/index.m3u8
+#EXTINF:-1 tvg-name="Paramount Channel 576" tvg-id="ParamountChannel.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/paramount-network-es.png?raw=true",Paramount Channel
 http://plus.linkott.com:80/50513041283809/97304261488292/30065
 
 
-#EXTINF:-1 tvg-name="Sundance TV" tvg-id="sundance.es" group-title="Peliculas" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/SundanceTV.es.png?raw=true",Sundance TV SD+
+
+#EXTINF:-1 tvg-name="Sundance TV 576" tvg-id="sundance.es" group-title="Peliculas" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/SundanceTV.es.png?raw=true",Sundance TV
+http://149.62.183.208:8000/play/a012/index.m3u8
+#EXTINF:-1 tvg-name="Sundance TV 576" tvg-id="sundance.es" group-title="Peliculas" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/SundanceTV.es.png?raw=true",Sundance TV
 http://plus.linkott.com:80/50513041283809/97304261488292/30061
 
-#EXTINF:-1 tvg-name="N/A" tvg-id="TCM.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tcm-es.png?raw=true",TCM FullHD
+
+
+#EXTINF:-1 tvg-name="TCM 1080" tvg-id="TCM.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tcm-es.png?raw=true",TCM 1080
 http://plus.linkott.com:80/50513041283809/97304261488292/30057
-#EXTINF:-1 tvg-name="N/A" tvg-id="TCM.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tcm-es.png?raw=true",TCM FullHD
+#EXTINF:-1 tvg-name="TCM 1080" tvg-id="TCM.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tcm-es.png?raw=true",TCM FullHD
 http://plus.linkott.com:80/50513041283809/97304261488292/30056
-#EXTINF:-1 tvg-name="N/A" tvg-id="TCM.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tcm-es.png?raw=true",TCM SD
+#EXTINF:-1 tvg-name="TCM 1080" tvg-id="TCM.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tcm-es.png?raw=true",TCM FullHD
+http://149.62.183.208:8000/play/a03j/index.m3u8
+#EXTINF:-1 tvg-name="TCM 480" tvg-id="TCM.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tcm-es.png?raw=true",TCM SD
 http://45.179.140.242:8000/play/a0k0
-#EXTINF:-1 tvg-name="N/A" tvg-id="TCM.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tcm-es.png?raw=true",TCM SD
+#EXTINF:-1 tvg-name="TCM 480" tvg-id="TCM.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tcm-es.png?raw=true",TCM SD
 http://181.78.22.214:8000/play/a00b
 
 

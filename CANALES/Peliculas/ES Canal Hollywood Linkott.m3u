@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="N/A" tvg-id="Hollywood.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true",Canal Hollywood FullHD
+#EXTINF:-1 tvg-name="Canal Hollywood 1080" tvg-id="Hollywood.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true",Canal Hollywood
 http://plus.linkott.com:80/50513041283809/97304261488292/180287
-#EXTINF:-1 tvg-name="N/A" tvg-id="Hollywood.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true",Canal Hollywood FullHD
+#EXTINF:-1 tvg-name="Canal Hollywood 1080" tvg-id="Hollywood.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true",Canal Hollywood
 http://plus.linkott.com:80/50513041283809/97304261488292/103168
-#EXTINF:-1 tvg-name="N/A" tvg-id="Hollywood.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true",Canal Hollywood HD
+#EXTINF:-1 tvg-name="Canal Hollywood 1080" tvg-id="Hollywood.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true",Canal Hollywood
+http://149.62.183.208:8000/play/a01a/index.m3u8
+#EXTINF:-1 tvg-name="Canal Hollywood 720" tvg-id="Hollywood.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true",Canal Hollywood
 http://plus.linkott.com:80/50513041283809/97304261488292/30140
-#EXTINF:-1 tvg-name="N/A" tvg-id="Hollywood.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true",Canal Hollywood HD
+#EXTINF:-1 tvg-name="Canal Hollywood 720" tvg-id="Hollywood.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true",Canal Hollywood
 http://plus.linkott.com:80/50513041283809/97304261488292/30200
-
-
+#EXTINF:-1 tvg-name="Canal Hollywood 576" tvg-id="Hollywood.es" group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true",Canal Hollywood
+http://149.62.183.208:8000/play/a02f/index.m3u8

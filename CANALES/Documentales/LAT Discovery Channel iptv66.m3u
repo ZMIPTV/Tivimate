@@ -14,6 +14,8 @@ http://190.187.200.69:8000/play/a018
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/195
 #EXTINF:-1 tvg-name="Discovery Channel LatinoAmerica 480" tvg-id="25788" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true",Discovery Channel LatinoAmerica
 http://38.131.11.9:1080/play/a02g
+#EXTINF:-1 tvg-name="Discovery Channel LatinoAmerica 576" tvg-id="Discovery.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true",Discovery Channel LatinoAmerica
+http://190.108.93.62:8001/udp/224.2.2.2:10023
 #EXTINF:-1 tvg-name="Discovery Channel LatinoAmerica 480*" tvg-id="25788" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true",Discovery Channel LatinoAmerica SD*
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/263
 

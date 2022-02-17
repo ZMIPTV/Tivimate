@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="AMC" tvg-id="AMC FHD" group-title="Peliculas" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/AMC.es.png?raw=true",AMC FullHD
+#EXTINF:-1 tvg-name="1080" tvg-id="AMC FHD" group-title="Peliculas" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/AMC.es.png?raw=true",AMC
 http://plus.linkott.com:80/50513041283809/97304261488292/30193
-#EXTINF:-1 tvg-name="AMC" tvg-id="amc.es" group-title="Peliculas" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/AMC.es.png?raw=true",AMC HD
+#EXTINF:-1 tvg-name="1080" tvg-id="AMC FHD" group-title="Peliculas" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/AMC.es.png?raw=true",AMC
+http://149.62.183.208:8000/play/a01u/index.m3u8
+#EXTINF:-1 tvg-name="720" tvg-id="amc.es" group-title="Peliculas" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/AMC.es.png?raw=true",AMC
 http://plus.linkott.com:80/50513041283809/97304261488292/30194
 
 

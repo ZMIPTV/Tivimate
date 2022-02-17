@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="N/A" tvg-id="Calle13.es" group-title="Peliculas" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/calle-13-es.png?raw=true",CALLE 13 FullHD
+#EXTINF:-1 tvg-name="Calle 13 1080" tvg-id="Calle13.es" group-title="Peliculas" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/calle-13-es.png?raw=true",Calle 13
 http://plus.linkott.com:80/50513041283809/97304261488292/30181
-#EXTINF:-1 tvg-name="N/A" tvg-id="Calle13.es" group-title="Peliculas" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/calle-13-es.png?raw=true",CALLE 13 HD
+#EXTINF:-1 tvg-name="Calle 13 720" tvg-id="Calle13.es" group-title="Peliculas" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/calle-13-es.png?raw=true",CALLE 13
 http://plus.linkott.com:80/50513041283809/97304261488292/30198
-#EXTINF:-1 tvg-name="N/A" tvg-id="Calle13.es" group-title="Peliculas" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/calle-13-es.png?raw=true",CALLE 13 SD
+#EXTINF:-1 tvg-name="Calle 13 1080" tvg-id="Calle13.es" group-title="Peliculas" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/calle-13-es.png?raw=true",Calle 13
+http://149.62.183.208:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-name="Calle 13 480" tvg-id="Calle13.es" group-title="Peliculas" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/calle-13-es.png?raw=true",CALLE 13
 http://plus.linkott.com:80/50513041283809/97304261488292/30049
-#EXTINF:-1 tvg-name="N/A" tvg-id="Calle13.es" group-title="Peliculas" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/calle-13-es.png?raw=true",CALLE 13 SD
+#EXTINF:-1 tvg-name="Calle 13 480" tvg-id="Calle13.es" group-title="Peliculas" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/calle-13-es.png?raw=true",CALLE 13
 http://plus.linkott.com:80/50513041283809/97304261488292/30182
 
 

@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-name="Nat Geo Latino América 1080" tvg-id="NAT.GEO.(Nat.Geo).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true",Nat Geo Latino América
 http://45.225.93.154:4000/play/a05a
+#EXTINF:-1 tvg-name="Nat Geo Latino América 1080" tvg-id="NAT.GEO.(Nat.Geo).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true",Nat Geo Latino América
+http://190.108.93.62:8001/udp/224.2.2.2:10024
 #EXTINF:-1 tvg-name="Nat Geo Latino América 480" tvg-id="NAT.GEO.(Nat.Geo).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true",Nat Geo Latino América
 http://181.78.22.214:8000/play/a003
 #EXTINF:-1 tvg-name="Nat Geo Latino América 480" tvg-id="NAT.GEO.(Nat.Geo).co" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true",Nat Geo Latino América
