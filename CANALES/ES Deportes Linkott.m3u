@@ -14,17 +14,21 @@ http://plus.linkott.com:80/50513041283809/97304261488292/86822
 #EXTINF:-1 tvg-name="DAZN 2" tvg-id="DAZN 2" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-2-es.png?raw=true",DAZN 2 FullHD
 http://plus.linkott.com:80/50513041283809/97304261488292/180270
 
-#EXTINF:-1 tvg-name="EUROSPORT HEVC" tvg-id="EUROSPORT1HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true",Eurosport FullHD
+#EXTINF:-1 tvg-name="Eurosport HEVC" tvg-id="EUROSPORT1HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true",Eurosport
 http://plus.linkott.com:80/50513041283809/97304261488292/180279
-#EXTINF:-1 tvg-name="EUROSPORT" tvg-id="EUROSPORT1HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true",Eurosport FullHD
+#EXTINF:-1 tvg-name="Eurosport 1080" tvg-id="EUROSPORT1HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true",Eurosport
 http://plus.linkott.com:80/50513041283809/97304261488292/103169
-#EXTINF:-1 tvg-name="EUROSPORT SD" tvg-id="EUROSPORT1HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true",Eurosport SD+
+#EXTINF:-1 tvg-name="Eurosport 576" tvg-id="EUROSPORT1HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true",Eurosport
 http://plus.linkott.com:80/50513041283809/97304261488292/30153
+#EXTINF:-1 tvg-name="Eurosport 576" tvg-id="EUROSPORT1HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true",Eurosport
+http://185.41.244.69:80/eurosport1/tracks-v2a1a2/mono.m3u8
 
 #EXTINF:-1 tvg-name="N/A" tvg-id="EUROSPORT2HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-2-es.png?raw=true",Eurosport 2 SD+
 http://plus.linkott.com:80/50513041283809/97304261488292/30154
 
-#EXTINF:-1 tvg-name="Gol TV" tvg-id="gol" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/gol-es.png?raw=true",Gol TV SD+
+#EXTINF:-1 tvg-name="Gol TV 720" tvg-id="gol" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/gol-es.png?raw=true",Gol TV
+http://154.62.74.29:1935/live/gol/playlist.m3u8
+#EXTINF:-1 tvg-name="Gol TV 576" tvg-id="gol" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/gol-es.png?raw=true",Gol TV
 http://plus.linkott.com:80/50513041283809/97304261488292/30144
 
 #EXTINF:-1 tvg-name="M. Deportes" tvg-id="MovistarDeportes.es" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-deportes-es.png?raw=true",M. Deportes FullHD
@@ -110,5 +114,8 @@ http://plus.linkott.com:80/50513041283809/97304261488292/30108
 http://ipflix.click:8080/ToNi6319/txdw3p5mii/682942
 #EXTINF:-1 tvg-name="beIN Sports en Español USA" tvg-id="beinsportespanol.us" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/320px-BeIN_Sports_En_Espa%C3%B1ol.png",beIN Sports en Español USA HD
 http://ipflix.click:8080/ToNi6319/txdw3p5mii/678747
+
+#EXTINF:-1 tvg-name="Tennis Channel 720" tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" group-title="Deportes" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1504784285/pbiwodhpixmuavkknwnw.png",Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 

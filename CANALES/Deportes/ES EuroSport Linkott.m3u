@@ -1,9 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="EUROSPORT HEVC" tvg-id="EUROSPORT1HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true",Eurosport FullHD
+#EXTINF:-1 tvg-name="Eurosport HEVC" tvg-id="EUROSPORT1HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true",Eurosport
 http://plus.linkott.com:80/50513041283809/97304261488292/180279
-#EXTINF:-1 tvg-name="EUROSPORT" tvg-id="EUROSPORT1HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true",Eurosport FullHD
+#EXTINF:-1 tvg-name="Eurosport 1080" tvg-id="EUROSPORT1HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true",Eurosport
 http://plus.linkott.com:80/50513041283809/97304261488292/103169
-#EXTINF:-1 tvg-name="EUROSPORT SD" tvg-id="EUROSPORT1HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true",Eurosport SD+
+#EXTINF:-1 tvg-name="Eurosport 576" tvg-id="EUROSPORT1HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true",Eurosport
 http://plus.linkott.com:80/50513041283809/97304261488292/30153
-
+#EXTINF:-1 tvg-name="Eurosport 576" tvg-id="EUROSPORT1HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true",Eurosport
+http://185.41.244.69:80/eurosport1/tracks-v2a1a2/mono.m3u8
