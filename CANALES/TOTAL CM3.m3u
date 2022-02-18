@@ -1397,11 +1397,11 @@ http://181.176.148.142:8000/play/a01n
 http://190.108.93.62:8001/udp/224.2.2.2:10004
 #EXTINF:0 group-title="Revisar" ,PANICO HD
 http://190.108.93.62:8001/udp/224.2.2.2:10039
-#EXTINF:0 group-title="Peliculas" ,PARAMOUNT HD
+#EXTINF:0 group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/paramount-network-es.png?raw=true" ,PARAMOUNT HD
 http://190.108.93.62:8001/udp/224.2.2.2:10048
-#EXTINF:-1 group-title="Peliculas" ,Paramount HD
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/paramount-network-es.png?raw=true" ,Paramount HD
 http://38.131.11.9:1080/play/a0du
-#EXTINF:0 group-title="Peliculas" ,Paramount HD
+#EXTINF:0 group-title="Peliculas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/paramount-network-es.png?raw=true" ,Paramount HD
 http://45.225.93.154:4000/play/a05j
 #EXTINF:0 group-title="Telenovelas" ,PASIONES HD
 http://190.108.93.62:8001/udp/224.2.2.2:10081
