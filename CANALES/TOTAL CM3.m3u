@@ -1959,7 +1959,7 @@ http://149.62.183.208:8000/play/a00i/index.m3u8
 http://149.62.183.208:8000/play/a025/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-id="Eurosport.2.es" tvg-name="EuroSport 2 576" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-2-es.png?raw=true" ,EuroSport 2
 http://149.62.183.208:8000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="Nat.Geo.Wild.es" tvg-name="Nat Geo Wild 1080" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
+#EXTINF:-1 group-title="Documentales" tvg-id="Nat.Geo.Wild.es" tvg-name="Nat Geo Wild 1080" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
 http://149.62.183.208:8000/play/a03l/index.m3u8
 #EXTINF:-1 group-title="Documentales" tvg-id="DISCOVERY" tvg-name="Discovery Channel 576" audio-track="Español" tvg-logo="https://raw.githubusercontent.com/ZMIPTV/Tivimate/main/Logos/discovery-channel-es.png?raw=true" ,Discovery Channel
 http://149.62.183.208:8000/play/a03w/index.m3u8
