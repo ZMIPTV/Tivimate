@@ -1953,11 +1953,11 @@ http://149.62.183.208:8000/play/a04x/index.m3u8
 http://149.62.183.208:8000/play/a04w/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-id="DAZN.F1.4K.es" tvg-name="DAZN F1 1080" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-f1-es.png?raw=true" ,DAZN F1
 http://149.62.183.208:8000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="Eurosport.1.es" tvg-name="EuroSport 1 576" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true" ,EuroSport 1
+#EXTINF:-1 group-title="Deportes" tvg-id="EUROSPORT1HD" tvg-name="EuroSport 1 576" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true" ,EuroSport 1
 http://149.62.183.208:8000/play/a00i/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="Eurosport.1.es" tvg-name="EuroSport 1 1080" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true" ,EuroSport 1
+#EXTINF:-1 group-title="Deportes" tvg-id="EUROSPORT1HD" tvg-name="EuroSport 1 1080" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true" ,EuroSport 1
 http://149.62.183.208:8000/play/a025/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="Eurosport.2.es" tvg-name="EuroSport 2 576" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-2-es.png?raw=true" ,EuroSport 2
+#EXTINF:-1 group-title="Deportes" tvg-id="EUROSPORT2HD" tvg-name="EuroSport 2 576" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-2-es.png?raw=true" ,EuroSport 2
 http://149.62.183.208:8000/play/a00n/index.m3u8
 #EXTINF:-1 group-title="Documentales" tvg-id="Nat.Geo.Wild.es" tvg-name="Nat Geo Wild 1080" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
 http://149.62.183.208:8000/play/a03l/index.m3u8
@@ -1981,13 +1981,13 @@ http://149.62.183.208:8000/play/a02f/index.m3u8
 http://149.62.183.208:8000/play/a033/index.m3u8
 #EXTINF:125 group-title="Deportes" tvg-id="beIN.SPORTS.XTRA.en.español.us" tvg-name="beIN Sports XTRA ñ 480" audio-track="Latino" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" ,beIN Sports XTRA ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
-#EXTINF:0 group-title="Deportes" tvg-id="Claro.Sports.HDTV.(CSPORTHD)..ec" tvg-name="Claro Sports 480" audio-track="Latino" tvg-logo="https://futbol-mexicano.fandom.com/es/wiki/Claro_Sports?file=ClaroSportsLogo.png" ,Claro Sports
+#EXTINF:0 group-title="Deportes" tvg-id="Claro.Sports.HDTV.(CSPORTHD)..ec" tvg-name="Claro Sports 480" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/ClaroSportsLogo.png?raw=true" ,Claro Sports
 http://190.187.200.69:8000/play/a02a
-#EXTINF:0 group-title="Deportes" tvg-id="Claro.Sports.HDTV.(CSPORTHD)..ec" tvg-name="Claro Sports 480" audio-track="Latino" tvg-logo="https://futbol-mexicano.fandom.com/es/wiki/Claro_Sports?file=ClaroSportsLogo.png" ,Claro Sports
+#EXTINF:0 group-title="Deportes" tvg-id="Claro.Sports.HDTV.(CSPORTHD)..ec" tvg-name="Claro Sports 480" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/ClaroSportsLogo.png?raw=true" ,Claro Sports
 http://45.179.140.242:8000/play/a0ht
-#EXTINF:0 group-title="Deportes" tvg-id="Claro.Sports.HDTV.(CSPORTHD)..ec" tvg-name="Claro Sports 480" audio-track="Latino" tvg-logo="https://futbol-mexicano.fandom.com/es/wiki/Claro_Sports?file=ClaroSportsLogo.png" ,Claro Sports
+#EXTINF:0 group-title="Deportes" tvg-id="Claro.Sports.HDTV.(CSPORTHD)..ec" tvg-name="Claro Sports 480" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/ClaroSportsLogo.png?raw=true" ,Claro Sports
 http://45.179.140.242:8000/play/a0ht
-#EXTINF:0 group-title="Deportes" tvg-id="Claro.Sports.HDTV.(CSPORTHD)..ec" tvg-name="Claro Sports 480" audio-track="Latino" tvg-logo="https://futbol-mexicano.fandom.com/es/wiki/Claro_Sports?file=ClaroSportsLogo.png" ,Claro Sports
+#EXTINF:0 group-title="Deportes" tvg-id="Claro.Sports.HDTV.(CSPORTHD)..ec" tvg-name="Claro Sports 480" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/ClaroSportsLogo.png?raw=true" ,Claro Sports
 http://45.225.93.154:8000/play/a030
 #EXTINF:0 group-title="Documentales" tvg-id="ANIMAL.PLANET.HD.(Animal.Planet.HD).pe" tvg-name="Animal Planet 1080" audio-track="Latino" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/animal.planet.ca.png?raw=true" ,Animal Planet
 http://181.176.148.142:8000/play/a012
@@ -2013,9 +2013,9 @@ http://38.131.11.9:1080/play/a0de
 http://38.131.11.9:1080/play/a0df
 #EXTINF:0 group-title="Peliculas" tvg-id="Amc.cl" tvg-name="AMC" audio-track="Latino" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515474_CAE1CCA6A8584D97.png" ,AMC
 http://45.225.93.154:4000/play/a056
-#EXTINF:0 group-title="Peliculas" tvg-id="Studio.Universal.cl" tvg-name="Studio Universal 1080" audio-track="Latino" tvg-logo="https://tvcable.fandom.com/es/wiki/Studio_Universal?file=Studio_Universal_2016.svg" ,Studio Universal
+#EXTINF:0 group-title="Peliculas" tvg-id="Studio.Universal.cl" tvg-name="Studio Universal 1080" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Studio_Universal_2016.png?raw=true" ,Studio Universal
 http://190.108.93.62:8001/udp/224.2.2.2:10045
-#EXTINF:0 group-title="Peliculas" tvg-id="Studio.Universal.cl" tvg-name="Studio Universal 1080" audio-track="Latino" tvg-logo="https://tvcable.fandom.com/es/wiki/Studio_Universal?file=Studio_Universal_2016.svg" ,Studio Universal
+#EXTINF:0 group-title="Peliculas" tvg-id="Studio.Universal.cl" tvg-name="Studio Universal 1080" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Studio_Universal_2016.png?raw=true" ,Studio Universal
 http://45.225.93.154:4000/play/studiouniversalhd
 #EXTINF:-1 group-title="UK" tvg-id="Channel.4.HD.uk" tvg-name="Channel 4 1080" audio-track="UK English" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/channel.4.uk.png?raw=true" ,Channel 4
 http://45.153.35.224:8000/play/a01m
