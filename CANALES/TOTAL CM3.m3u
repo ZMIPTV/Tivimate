@@ -1,0 +1,2021 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Noticias" ,CNN Espanol
+http://38.131.11.9:1080/play/a004
+#EXTINF:0 group-title="Noticias" ,CNN Espanol 480
+http://181.78.22.214:8000/play/a00h
+#EXTINF:0 group-title="Noticias" ,CNN Espanol 480
+http://200.24.159.179:8500/play/a00n
+#EXTINF:0 group-title="Noticias" ,CNN Espanol 480
+http://45.179.140.242:8000/play/a0i6
+#EXTINF:0 group-title="Noticias" ,CNN Espanol 480
+http://45.225.93.154:8000/play/a01h
+#EXTINF:0 group-title="Peliculas" ,PARAMOUNT HD
+http://190.108.93.62:8001/udp/224.2.2.2:10048
+#EXTINF:-1 group-title="Peliculas" ,Paramount HD
+http://38.131.11.9:1080/play/a0du
+#EXTINF:0 group-title="Peliculas" ,Paramount HD
+http://45.225.93.154:4000/play/a05j
+#EXTINF:-1 group-title="Peliculas" ,SUNDANCE TV
+http://149.62.183.208:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="Peliculas" ,TCM
+http://149.62.183.208:8000/play/a02v/index.m3u8
+#EXTINF:0 group-title="Peliculas" ,TCM
+http://181.78.22.214:8000/play/a00b
+#EXTINF:0 group-title="Peliculas" ,TCM
+http://181.78.22.214:8000/play/a00b
+#EXTINF:-1 group-title="Peliculas" ,TCM
+http://38.131.11.9:1080/play/a010
+#EXTINF:0 group-title="Peliculas" ,TCM
+http://45.179.140.242:8000/play/a0k0
+#EXTINF:0 group-title="Peliculas" ,TCM
+http://45.225.93.154:8000/play/a02w
+#EXTINF:-1 group-title="Revisar" ,13 C
+http://38.131.11.9:1080/play/a0d0
+#EXTINF:-1 group-title="Revisar" ,24 HORAS
+http://149.62.183.208:8000/play/a043/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,24 Horas
+http://38.131.11.9:1080/play/a00m
+#EXTINF:0 group-title="Revisar" ,24 Horas 480
+http://45.225.93.154:8000/play/a01z
+#EXTINF:30 group-title="Revisar" ,5usa
+http://213.7.193.54:4000/play/5usa/index.m3u8
+#EXTINF:0 group-title="Revisar" ,80s Hits
+http://45.179.140.242:8000/play/a0gb
+#EXTINF:0 group-title="Revisar" ,A&E HD
+http://189.11.143.160:8001/play/a00h
+#EXTINF:0 group-title="Revisar" ,A&E HD
+http://45.225.93.154:4000/play/aehd
+#EXTINF:0 group-title="Revisar" ,A-3 SERIES
+http://190.108.93.62:8001/udp/224.2.2.2:10052
+#EXTINF:0 group-title="Revisar" ,A3 CINE HD
+http://190.108.93.62:8001/udp/224.2.2.2:10042
+#EXTINF:-1 group-title="Revisar" ,AE Mundo
+http://38.131.11.9:1080/play/a02q
+#EXTINF:0 group-title="Revisar" ,AE Mundo 480
+http://181.78.22.214:8000/play/a011
+#EXTINF:0 group-title="Revisar" ,AE Mundo 480
+http://200.24.159.179:8500/play/a01i
+#EXTINF:0 group-title="Revisar" ,AE Mundo 480
+http://45.179.140.242:8000/play/a0ig
+#EXTINF:0 group-title="Revisar" ,AE Mundo 480
+http://45.225.93.154:8000/play/a02c
+#EXTINF:0 group-title="Revisar" ,AgroMais HD
+http://189.11.143.160:8001/play/a00w
+#EXTINF:0 group-title="Revisar" ,AMERICA TV
+http://190.108.93.62:8001/udp/224.2.2.2:10003
+#EXTINF:-1 group-title="Revisar" ,Ant tv
+http://38.131.11.9:1080/play/a0ds
+#EXTINF:-1 group-title="Revisar" ,ANTENA 3
+http://149.62.183.208:8000/play/a03t/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,ANTENA 3 HD
+http://149.62.183.208:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,ARAGON TV INT
+http://149.62.183.208:8000/play/a04n/index.m3u8
+#EXTINF:0 group-title="Revisar" ,ATV
+http://190.108.93.62:8001/udp/224.2.2.2:10007
+#EXTINF:0 group-title="Revisar" ,ATV SUR
+http://190.108.93.62:8001/udp/224.2.2.2:10010
+#EXTINF:0 group-title="Revisar" ,ATV+
+http://190.108.93.62:8001/udp/224.2.2.2:10009
+#EXTINF:0 group-title="Revisar" ,AXN
+http://38.131.11.9:1080/play/a0bk
+#EXTINF:0 group-title="Revisar" ,AXN 1080
+http://45.225.93.154:4000/play/a06f
+#EXTINF:0 group-title="Revisar" ,AXN 480
+http://181.78.22.214:8000/play/a01k
+#EXTINF:0 group-title="Revisar" ,AXN 480
+http://181.78.22.214:8000/play/a01k
+#EXTINF:0 group-title="Revisar" ,AXN 480
+http://200.24.159.179:8500/play/a02y
+#EXTINF:0 group-title="Revisar" ,AXN 480
+http://45.179.140.242:8000/play/a0j9
+#EXTINF:0 group-title="Revisar" ,AXN 480
+http://45.225.93.154:8000/play/a039
+#EXTINF:-1 group-title="Revisar" ,AXN HD
+http://149.62.183.208:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,AXN WHITE
+http://149.62.183.208:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,AXN WHITE HD
+http://149.62.183.208:8000/play/a04a/index.m3u8
+#EXTINF:0 group-title="Revisar" ,AZ CINEMA HD
+http://190.108.93.62:8001/udp/224.2.2.2:10044
+#EXTINF:0 group-title="Revisar" ,AZ CLICK HD
+http://190.108.93.62:8001/udp/224.2.2.2:10061
+#EXTINF:0 group-title="Revisar" ,AZ CORAZON HD
+http://190.108.93.62:8001/udp/224.2.2.2:10079
+#EXTINF:0 group-title="Revisar" ,AZ MUNDO HD
+http://190.108.93.62:8001/udp/224.2.2.2:10062
+#EXTINF:-1 group-title="Revisar" ,Baby Tv
+http://38.131.11.9:1080/play/a0d4
+#EXTINF:-1 group-title="Revisar" ,BabyTV
+http://149.62.183.208:8000/play/a00d/index.m3u8
+#EXTINF:0 group-title="Revisar" ,bbc1
+http://213.7.193.54:4000/play/bbc1/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,BE MAD
+http://149.62.183.208:8000/play/a00o/index.m3u8
+#EXTINF:0 group-title="Revisar" ,bein
+http://213.7.193.54:4000/play/a002/index.m3u8
+#EXTINF:0 group-title="Revisar" ,Bethel Plus HD
+http://190.108.93.62:8001/udp/224.2.2.2:10088
+#EXTINF:0 group-title="Revisar" ,BethelHD
+http://190.108.93.62:8001/udp/224.2.2.2:10087
+#EXTINF:-1 group-title="Revisar" ,BLAZE
+http://149.62.183.208:8000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,BOING
+http://149.62.183.208:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,Bumeran
+http://38.131.11.9:1080/play/a0cp
+#EXTINF:-1 group-title="Revisar" ,CANAL 13
+http://38.131.11.9:1080/play/a0ec
+#EXTINF:0 group-title="Revisar" ,Canal 13
+http://45.225.93.154:8000/play/a01m
+#EXTINF:0 group-title="Revisar" ,Canal 13 HD
+http://45.225.93.154:4000/play/a07a
+#EXTINF:0 group-title="Revisar" ,Canal 24 Horas 1080
+http://38.131.11.9:1080/play/a0e0
+#EXTINF:0 group-title="Revisar" ,Canal 24 Horas 1080
+http://45.225.93.154:4000/play/a07d
+#EXTINF:-1 group-title="Revisar" ,CANAL 26
+http://38.131.11.9:1080/play/a09p
+#EXTINF:0 group-title="Revisar" ,Canal Caracol
+http://181.78.22.214:8000/play/a018
+#EXTINF:0 group-title="Revisar" ,Canal Caracol
+http://181.78.22.214:8000/play/a018
+#EXTINF:0 group-title="Revisar" ,Canal Caracol
+http://45.179.140.242:8000/play/a0j1
+#EXTINF:0 group-title="Revisar" ,Canal Claro
+http://200.24.159.179:8500/play/a03l
+#EXTINF:-1 group-title="Revisar" ,CANAL COCINA
+http://149.62.183.208:8000/play/a030/index.m3u8
+#EXTINF:0 group-title="Revisar" ,Canal de las Estrellas 480
+http://190.187.200.69:8000/play/a01j
+#EXTINF:0 group-title="Revisar" ,Canal de las Estrellas 480
+http://200.24.159.179:8500/play/a01m
+#EXTINF:0 group-title="Revisar" ,Canal de las Estrellas 480
+http://38.131.11.9:1080/play/a032
+#EXTINF:0 group-title="Revisar" ,Canal de las Estrellas 480
+http://45.225.93.154:8000/play/a02g
+#EXTINF:-1 group-title="Revisar" ,CANAL DECASA
+http://149.62.183.208:8000/play/a01n/index.m3u8
+#EXTINF:0 group-title="Revisar" ,Canal del Congreso
+http://181.78.22.214:8000/play/a01a
+#EXTINF:0 group-title="Revisar" ,Canal del Congreso
+http://181.78.22.214:8000/play/a01a
+#EXTINF:0 group-title="Revisar" ,CANAL INFANTIL
+http://181.176.148.142:8000/play/a01j
+#EXTINF:0 group-title="Revisar" ,CANAL INFANTIL
+http://181.176.148.142:8000/play/a01j
+#EXTINF:0 group-title="Revisar" ,CANAL INFANTIL
+http://181.176.148.142:8000/play/a01j
+#EXTINF:0 group-title="Revisar" ,Canal Infantil HD
+http://190.108.93.62:8001/udp/224.2.2.2:1500
+#EXTINF:-1 group-title="Revisar" ,Canal N
+http://38.131.11.9:1080/play/a0dc
+#EXTINF:0 group-title="Revisar" ,CANAL ONCE HD
+http://190.108.93.62:8001/udp/224.2.2.2:10067
+#EXTINF:-1 group-title="Revisar" ,CANAL PANDA
+http://149.62.183.208:8000/play/a02t/index.m3u8
+#EXTINF:0 group-title="Revisar" ,Canal RCN
+http://181.78.22.214:8000/play/a019
+#EXTINF:0 group-title="Revisar" ,Canal RCN
+http://181.78.22.214:8000/play/a019
+#EXTINF:-1 group-title="Revisar" ,CANAL SUR A.
+http://149.62.183.208:8000/play/a03q/index.m3u8
+#EXTINF:0 group-title="Revisar" ,Canal Uno
+http://181.78.22.214:8000/play/a017
+#EXTINF:0 group-title="Revisar" ,Canal Uno
+http://181.78.22.214:8000/play/a017
+#EXTINF:0 group-title="Revisar" ,Capital
+http://181.78.22.214:8000/play/a01g
+#EXTINF:0 group-title="Revisar" ,Capital
+http://181.78.22.214:8000/play/a01g
+#EXTINF:0 group-title="Revisar" ,Cartoon Network
+http://181.78.22.214:8000/play/a00d
+#EXTINF:0 group-title="Revisar" ,Cartoon Network
+http://181.78.22.214:8000/play/a00d
+#EXTINF:0 group-title="Revisar" ,Cartoon Network
+http://200.24.159.179:8500/play/a00f
+#EXTINF:-1 group-title="Revisar" ,Cartoon Network
+http://38.131.11.9:1080/play/a012
+#EXTINF:0 group-title="Revisar" ,Cartoon Network
+http://45.179.140.242:8000/play/a0h7
+#EXTINF:0 group-title="Revisar" ,Cartoon Network
+http://45.179.140.242:8000/play/a0h7
+#EXTINF:0 group-title="Revisar" ,Cartoon Network
+http://45.225.93.154:8000/play/a02y
+#EXTINF:0 group-title="Revisar" ,Cartoon Network HD
+http://45.225.93.154:4000/play/a05i
+#EXTINF:0 group-title="Revisar" ,CARTOONS
+http://181.176.148.142:8000/play/a009
+#EXTINF:0 group-title="Revisar" ,CARTOONS
+http://181.176.148.142:8000/play/a009
+#EXTINF:0 group-title="Revisar" ,CARTOONS
+http://181.176.148.142:8000/play/a009
+#EXTINF:-1 group-title="Revisar" ,CAZA Y PESCA
+http://149.62.183.208:8000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,CAZAyPESCA HD
+http://149.62.183.208:8000/play/a03o/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,CDF Basico
+http://38.131.11.9:1080/play/a02p
+#EXTINF:0 group-title="Revisar" ,CDF Basico
+http://45.225.93.154:8000/play/a02b
+#EXTINF:-1 group-title="Revisar" ,CDF PREMIUM
+http://38.131.11.9:1080/play/a00b
+#EXTINF:0 group-title="Revisar" ,CDF PREMIUM
+http://45.225.93.154:8000/play/a01o
+#EXTINF:-1 group-title="Revisar" ,CDO Premium
+http://38.131.11.9:1080/play/a0do
+#EXTINF:0 group-title="Revisar" ,CGTN E HD
+http://190.108.93.62:8001/udp/224.2.2.2:10094
+#EXTINF:22 group-title="Revisar" ,channel 3
+http://213.7.193.54:4000/play/a004/index.m3u8
+#EXTINF:0 group-title="Revisar" ,CHICOS IPE
+http://190.108.93.62:8001/udp/224.2.2.2:10096
+#EXTINF:-1 group-title="Revisar" ,CHV
+http://38.131.11.9:1080/play/a008
+#EXTINF:0 group-title="Revisar" ,CHV
+http://45.225.93.154:8000/play/a01l
+#EXTINF:0 group-title="Revisar" ,CHV HD
+http://45.225.93.154:4000/play/a08n
+#EXTINF:0 group-title="Revisar" ,CINE CANAL
+http://181.176.148.142:8000/play/a01g
+#EXTINF:0 group-title="Revisar" ,CINE CANAL
+http://181.176.148.142:8000/play/a01g
+#EXTINF:0 group-title="Revisar" ,CINE CANAL
+http://181.176.148.142:8000/play/a01g
+#EXTINF:0 group-title="Revisar" ,CINE FAMILIAR
+http://181.176.148.142:8000/play/a01i
+#EXTINF:0 group-title="Revisar" ,CINE FAMILIAR
+http://181.176.148.142:8000/play/a01i
+#EXTINF:0 group-title="Revisar" ,CINE FAMILIAR
+http://181.176.148.142:8000/play/a01i
+#EXTINF:0 group-title="Revisar" ,Cine Familiar HD
+http://190.108.93.62:8001/udp/224.2.2.2:1300
+#EXTINF:0 group-title="Revisar" ,CINE HISPANO
+http://181.176.148.142:8000/play/a01k
+#EXTINF:0 group-title="Revisar" ,CINE HISPANO
+http://181.176.148.142:8000/play/a01k
+#EXTINF:0 group-title="Revisar" ,CINE HISPANO
+http://181.176.148.142:8000/play/a01k
+#EXTINF:0 group-title="Revisar" ,Cine Hispano HD
+http://190.108.93.62:8001/udp/224.2.2.2:1400
+#EXTINF:0 group-title="Revisar" ,CINE MEXICANO HD
+http://190.108.93.62:8001/udp/224.2.2.2:10043
+#EXTINF:0 group-title="Revisar" ,CINE PREMIUM
+http://181.176.148.142:8000/play/a01l
+#EXTINF:0 group-title="Revisar" ,CINE PREMIUM
+http://181.176.148.142:8000/play/a01l
+#EXTINF:0 group-title="Revisar" ,CINE PREMIUM
+http://181.176.148.142:8000/play/a01l
+#EXTINF:0 group-title="Revisar" ,Cine Premium HD
+http://190.108.93.62:8001/udp/224.2.2.2:1200
+#EXTINF:0 group-title="Revisar" ,Cinecanal
+http://181.78.22.214:8000/play/a005
+#EXTINF:0 group-title="Revisar" ,Cinecanal
+http://181.78.22.214:8000/play/a005
+#EXTINF:0 group-title="Revisar" ,Cinecanal
+http://200.24.159.179:8500/play/a005
+#EXTINF:-1 group-title="Revisar" ,Cinecanal
+http://38.131.11.9:1080/play/a00s
+#EXTINF:0 group-title="Revisar" ,Cinecanal
+http://45.179.140.242:8000/play/a0jv
+#EXTINF:0 group-title="Revisar" ,Cinecanal
+http://45.225.93.154:8000/play/a02o
+#EXTINF:0 group-title="Revisar" ,CINECANAL HD
+http://190.108.93.62:8001/udp/224.2.2.2:10037
+#EXTINF:0 group-title="Revisar" ,Cinecanal HD
+http://45.225.93.154:4000/play/a05c
+#EXTINF:0 group-title="Revisar" ,CINEMA PLATINO HD
+http://190.108.93.62:8001/udp/224.2.2.2:10041
+#EXTINF:0 group-title="Revisar" ,Cinemax
+http://181.78.22.214:8000/play/a01i
+#EXTINF:0 group-title="Revisar" ,Cinemax
+http://181.78.22.214:8000/play/a01i
+#EXTINF:0 group-title="Revisar" ,Cinemax
+http://200.24.159.179:8500/play/a02w
+#EXTINF:-1 group-title="Revisar" ,Cinemax
+http://38.131.11.9:1080/play/a01v
+#EXTINF:0 group-title="Revisar" ,Cinemax
+http://45.179.140.242:8000/play/a0j7
+#EXTINF:0 group-title="Revisar" ,Cinemax
+http://45.225.93.154:8000/play/a037
+#EXTINF:0 group-title="Revisar" ,Cinemax HD
+http://189.11.143.160:8001/play/a01b
+#EXTINF:0 group-title="Revisar" ,Cinemax HD
+http://45.225.93.154:4000/play/cinemaxhd
+#EXTINF:0 group-title="Revisar" ,City TV
+http://181.78.22.214:8000/play/a01f
+#EXTINF:0 group-title="Revisar" ,City TV
+http://181.78.22.214:8000/play/a01f
+#EXTINF:0 group-title="Revisar" ,Citytv
+http://190.108.93.62:8001/udp/224.2.2.2:10066
+#EXTINF:-1 group-title="Revisar" ,CLAN TVE
+http://149.62.183.208:8000/play/a02q/index.m3u8
+#EXTINF:0 group-title="Revisar" ,Claro Cinema
+http://200.24.159.179:8500/play/a03r
+#EXTINF:0 group-title="Revisar" ,Claro Cinema
+http://45.225.93.154:8000/play/a03c
+#EXTINF:-1 group-title="Revisar" ,CLASSICA
+http://149.62.183.208:8000/play/a037/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,CMD
+http://38.131.11.9:1080/play/a0dp
+#EXTINF:-1 group-title="Revisar" ,CNN Chile
+http://38.131.11.9:1080/play/a00z
+#EXTINF:0 group-title="Revisar" ,CNN Chile
+http://45.225.93.154:8000/play/a02v
+#EXTINF:0 group-title="Revisar" ,CNN Chile HD
+http://45.225.93.154:4000/play/cnnchilehd
+#EXTINF:-1 group-title="Revisar" ,COMEDY CENTRAL
+http://149.62.183.208:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,Comedy Central HD
+http://38.131.11.9:1080/play/a0cv
+#EXTINF:0 group-title="Revisar" ,Comedy Central HD
+http://45.225.93.154:4000/play/a0f5
+#EXTINF:0 group-title="Revisar" ,Comedy Central HD
+http://45.225.93.154:4000/play/comedycentralhd
+#EXTINF:-1 group-title="Revisar" ,COMEDYCENTRALHD
+http://149.62.183.208:8000/play/a04c/index.m3u8
+#EXTINF:0 group-title="Revisar" ,CONMEBOL TV 1
+http://189.11.143.160:8001/play/a00x
+#EXTINF:0 group-title="Revisar" ,CONMEBOL TV 2
+http://189.11.143.160:8001/play/a00y
+#EXTINF:0 group-title="Revisar" ,CONMEBOL TV 3
+http://189.11.143.160:8001/play/a00i
+#EXTINF:0 group-title="Revisar" ,CONMEBOL TV 4
+http://189.11.143.160:8001/play/a00j
+#EXTINF:-1 group-title="Revisar" ,COSMO
+http://149.62.183.208:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,COSMO HD
+http://149.62.183.208:8000/play/a049/index.m3u8
+#EXTINF:0 group-title="Revisar" ,COSMOS
+http://181.176.148.142:8000/play/a00b
+#EXTINF:0 group-title="Revisar" ,COSMOS
+http://181.176.148.142:8000/play/a00b
+#EXTINF:0 group-title="Revisar" ,COSMOS
+http://181.176.148.142:8000/play/a00b
+#EXTINF:0 group-title="Revisar" ,COSMOS HD
+http://190.108.93.62:8001/udp/224.2.2.2:10011
+#EXTINF:-1 group-title="Revisar" ,CRIMEN+INVES
+http://149.62.183.208:8000/play/a03z/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,CRONICA
+http://38.131.11.9:1080/play/a09q
+#EXTINF:-1 group-title="Revisar" ,CUATRO
+http://149.62.183.208:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,CUATRO HD
+http://149.62.183.208:8000/play/a01w/index.m3u8
+#EXTINF:0 group-title="Revisar" ,cytavision2
+http://213.7.193.54:4000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,DEPELICULAS
+http://38.131.11.9:1080/play/a0e8
+#EXTINF:0 group-title="Revisar" ,DEPOR-ESPN
+http://190.187.200.69:8000/play/a01e
+#EXTINF:0 group-title="Revisar" ,DEPOR-ESPN
+http://190.187.200.69:8000/play/a01e
+#EXTINF:0 group-title="Revisar" ,DEPOR-ESPN 2
+http://190.187.200.69:8000/play/a015
+#EXTINF:0 group-title="Revisar" ,DEPOR-ESPN 2
+http://190.187.200.69:8000/play/a015
+#EXTINF:0 group-title="Revisar" ,DEPOR-ESPN 2 Latin
+http://190.187.200.69:8000/play/a01d
+#EXTINF:0 group-title="Revisar" ,DEPOR-ESPN 2 Latin
+http://190.187.200.69:8000/play/a01d
+#EXTINF:0 group-title="Revisar" ,DEPOR-ESPN 3
+http://190.187.200.69:8000/play/a028
+#EXTINF:0 group-title="Revisar" ,DEPOR-ESPN 3
+http://190.187.200.69:8000/play/a028
+#EXTINF:0 group-title="Revisar" ,DEPOR-ESPN 4
+http://190.187.200.69:8000/play/a01v
+#EXTINF:0 group-title="Revisar" ,DEPOR-ESPN 4
+http://190.187.200.69:8000/play/a01v
+#EXTINF:0 group-title="Revisar" ,DEPOR-Fox Sports 2
+http://190.187.200.69:8000/play/a01k
+#EXTINF:0 group-title="Revisar" ,DEPOR-Fox Sports 2
+http://190.187.200.69:8000/play/a01k
+#EXTINF:0 group-title="Revisar" ,DEPOR-Fox Sports 3
+http://190.187.200.69:8000/play/a01l
+#EXTINF:0 group-title="Revisar" ,DEPOR-Fox Sports 3
+http://190.187.200.69:8000/play/a01l
+#EXTINF:0 group-title="Revisar" ,DEPOR-TyC
+http://190.187.200.69:8000/play/a01g
+#EXTINF:0 group-title="Revisar" ,DEPOR-TyC
+http://190.187.200.69:8000/play/a01g
+#EXTINF:0 group-title="Revisar" ,DHE
+http://181.176.148.142:8000/play/a00j
+#EXTINF:0 group-title="Revisar" ,DHE
+http://181.176.148.142:8000/play/a00j
+#EXTINF:0 group-title="Revisar" ,DHE
+http://181.176.148.142:8000/play/a00j
+#EXTINF:0 group-title="Revisar" ,DHE
+http://190.108.93.62:8001/udp/224.2.2.2:10035
+#EXTINF:-1 group-title="Revisar" ,DHE HD
+http://38.131.11.9:1080/play/a0dz
+#EXTINF:0 group-title="Revisar" ,DHE HD
+http://45.225.93.154:4000/play/a0dz
+#EXTINF:0 group-title="Revisar" ,Discovery Channel 480
+http://181.78.22.214:8000/play/a00u
+#EXTINF:0 group-title="Revisar" ,Discovery Channel 480
+http://200.24.159.179:8500/play/a018
+#EXTINF:0 group-title="Revisar" ,Discovery Channel 480
+http://45.179.140.242:8000/play/a0i8
+#EXTINF:0 group-title="Revisar" ,Discovery Channel 480
+http://45.225.93.154:8000/play/a022
+#EXTINF:0 group-title="Revisar" ,Discovery Channel 576
+http://181.176.148.142:8000/play/a013
+#EXTINF:0 group-title="Revisar" ,Discovery H&H 1080
+http://45.225.93.154:4000/play/a0al
+#EXTINF:0 group-title="Revisar" ,DISCOVERY KIDS
+http://190.108.93.62:8001/udp/224.2.2.2:10018
+#EXTINF:-1 group-title="Revisar" ,Discovery Kids
+http://38.131.11.9:1080/play/a003
+#EXTINF:0 group-title="Revisar" ,Discovery Kids 1080
+http://45.225.93.154:4000/play/a0ak
+#EXTINF:0 group-title="Revisar" ,Discovery Kids 480
+http://181.78.22.214:8000/play/a00g
+#EXTINF:0 group-title="Revisar" ,Discovery Kids 480
+http://200.24.159.179:8500/play/a00m
+#EXTINF:0 group-title="Revisar" ,Discovery Kids 480
+http://45.225.93.154:8000/play/a01g
+#EXTINF:0 group-title="Revisar" ,Discovery Turbo 480
+http://181.78.22.214:8000/play/a01r
+#EXTINF:0 group-title="Revisar" ,Discovery Turbo 480
+http://190.187.200.69:8000/play/a027
+#EXTINF:0 group-title="Revisar" ,Discovery Turbo 480
+http://200.24.159.179:8500/play/a039
+#EXTINF:0 group-title="Revisar" ,Discovery Turbo 480
+http://45.179.140.242:8000/play/a0hi
+#EXTINF:0 group-title="Revisar" ,Discovery Turbo 480
+http://45.225.93.154:8000/play/a03e
+#EXTINF:-1 group-title="Revisar" ,Discovery Word HD
+http://38.131.11.9:1080/play/a0dw
+#EXTINF:0 group-title="Revisar" ,DISNEY
+http://181.176.148.142:8000/play/a01d
+#EXTINF:0 group-title="Revisar" ,DISNEY
+http://181.176.148.142:8000/play/a01d
+#EXTINF:0 group-title="Revisar" ,DISNEY
+http://181.176.148.142:8000/play/a01d
+#EXTINF:-1 group-title="Revisar" ,DISNEY CH.
+http://149.62.183.208:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,Disney Chanel HD
+http://38.131.11.9:1080/play/a0cq
+#EXTINF:0 group-title="Revisar" ,Disney Channel
+http://181.78.22.214:8000/play/a00t
+#EXTINF:0 group-title="Revisar" ,Disney Channel
+http://200.24.159.179:8500/play/a017
+#EXTINF:0 group-title="Revisar" ,Disney Channel
+http://45.179.140.242:8000/play/a0i7
+#EXTINF:0 group-title="Revisar" ,Disney Channel
+http://45.179.140.242:8000/play/a0i7
+#EXTINF:0 group-title="Revisar" ,Disney Channel
+http://45.225.93.154:8000/play/a021
+#EXTINF:0 group-title="Revisar" ,Disney Channel 480
+http://181.78.22.214:8000/play/a00t
+#EXTINF:0 group-title="Revisar" ,DISNEY HD
+http://190.108.93.62:8001/udp/224.2.2.2:10015
+#EXTINF:0 group-title="Revisar" ,Disney HD
+http://45.225.93.154:4000/play/disneyhd
+#EXTINF:0 group-title="Revisar" ,DISNEY http://190.108.93.62:8001/udp/224.2.2.2:10021
+corrupt/empty
+#EXTINF:-1 group-title="Revisar" ,DISNEY JR
+http://149.62.183.208:8000/play/a04g/index.m3u8
+#EXTINF:0 group-title="Revisar" ,DISNEY JR
+http://181.176.148.142:8000/play/a01e
+#EXTINF:0 group-title="Revisar" ,DISNEY JR
+http://181.176.148.142:8000/play/a01e
+#EXTINF:0 group-title="Revisar" ,DISNEY JR
+http://181.176.148.142:8000/play/a01e
+#EXTINF:0 group-title="Revisar" ,Disney Jr
+http://181.78.22.214:8000/play/a00r
+#EXTINF:0 group-title="Revisar" ,Disney Jr
+http://181.78.22.214:8000/play/a00r
+#EXTINF:0 group-title="Revisar" ,Disney Jr
+http://200.24.159.179:8500/play/a013
+#EXTINF:-1 group-title="Revisar" ,Disney Jr
+http://38.131.11.9:1080/play/a0eb
+#EXTINF:0 group-title="Revisar" ,Disney Jr
+http://45.179.140.242:8000/play/a0i3
+#EXTINF:0 group-title="Revisar" ,Disney Jr
+http://45.179.140.242:8000/play/a0i3
+#EXTINF:0 group-title="Revisar" ,Disney Jr
+http://45.225.93.154:8000/play/a01x
+#EXTINF:0 group-title="Revisar" ,DISNEY JR HD
+http://190.108.93.62:8001/udp/224.2.2.2:10019
+#EXTINF:0 group-title="Revisar" ,Disney XD
+http://181.78.22.214:8000/play/a002
+#EXTINF:0 group-title="Revisar" ,Disney XD
+http://181.78.22.214:8000/play/a002
+#EXTINF:0 group-title="Revisar" ,Disney XD
+http://200.24.159.179:8500/play/a002
+#EXTINF:0 group-title="Revisar" ,Disney XD
+http://45.179.140.242:8000/play/a0k4
+#EXTINF:0 group-title="Revisar" ,Disney XD
+http://45.179.140.242:8000/play/a0k4
+#EXTINF:0 group-title="Revisar" ,Disney XD
+http://45.225.93.154:8000/play/a02l
+#EXTINF:-1 group-title="Revisar" ,Disney 😆
+http://38.131.11.9:1080/play/a00p
+#EXTINF:-1 group-title="Revisar" ,DIVINITY
+http://149.62.183.208:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,DreamWorks
+http://149.62.183.208:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,DreamWorks HD
+http://149.62.183.208:8000/play/a01b/index.m3u8
+#EXTINF:0 group-title="Revisar" ,DW
+http://190.108.93.62:8001/udp/224.2.2.2:10083
+#EXTINF:0 group-title="Revisar" ,E Entertainment
+http://181.78.22.214:8000/play/a00x
+#EXTINF:0 group-title="Revisar" ,E Entertainment
+http://181.78.22.214:8000/play/a00x
+#EXTINF:-1 group-title="Revisar" ,E Entertainment
+http://38.131.11.9:1080/play/a02j
+#EXTINF:0 group-title="Revisar" ,E Entertainment
+http://45.179.140.242:8000/play/a0gh
+#EXTINF:0 group-title="Revisar" ,E Entertainment
+http://45.179.140.242:8000/play/a0gh
+#EXTINF:0 group-title="Revisar" ,E Entertainment
+http://45.225.93.154:8000/play/a025
+#EXTINF:0 group-title="Revisar" ,EBO HD
+http://190.108.93.62:8001/udp/224.2.2.2:10070
+#EXTINF:0 group-title="Revisar" ,ECDF SD
+http://200.24.159.179:8500/play/a006
+#EXTINF:0 group-title="Revisar" ,ECDF SD
+http://45.179.140.242:8000/play/a0lf
+#EXTINF:0 group-title="Revisar" ,ECDF SD
+http://45.179.140.242:8000/play/a0lf
+#EXTINF:0 group-title="Revisar" ,Ecuador TV
+http://200.24.159.179:8500/play/a026
+#EXTINF:0 group-title="Revisar" ,Ecuador TV
+http://45.179.140.242:8000/play/a0jp
+#EXTINF:0 group-title="Revisar" ,Ecuador TV
+http://45.179.140.242:8000/play/a0jp
+#EXTINF:0 group-title="Revisar" ,Ecuavisa
+http://200.24.159.179:8500/play/a02g
+#EXTINF:0 group-title="Revisar" ,Ecuavisa
+http://45.179.140.242:8000/play/a0j3
+#EXTINF:0 group-title="Revisar" ,Ecuavisa
+http://45.179.140.242:8000/play/a0j3
+#EXTINF:0 group-title="Revisar" ,EJTV
+http://190.108.93.62:8001/udp/224.2.2.2:10090
+#EXTINF:-1 group-title="Revisar" ,El 13
+http://38.131.11.9:1080/play/a0cn
+#EXTINF:-1 group-title="Revisar" ,El Gourmet HD
+http://38.131.11.9:1080/play/a0dy
+#EXTINF:0 group-title="Revisar" ,El Gourmet HD
+http://45.225.93.154:4000/play/a074
+#EXTINF:0 group-title="Revisar" ,El Sembrador ESNE TV
+http://190.108.93.62:8001/udp/224.2.2.2:10093
+#EXTINF:-1 group-title="Revisar" ,ENERGY
+http://149.62.183.208:8000/play/a00g/index.m3u8
+#EXTINF:0 group-title="Revisar" ,Enlace
+http://181.78.22.214:8000/play/a00f
+#EXTINF:0 group-title="Revisar" ,Enlace
+http://181.78.22.214:8000/play/a00f
+#EXTINF:0 group-title="Revisar" ,ENLACE
+http://190.108.93.62:8001/udp/224.2.2.2:10089
+#EXTINF:0 group-title="Revisar" ,Enlace
+http://45.179.140.242:8000/play/a0h9
+#EXTINF:0 group-title="Revisar" ,Enlace
+http://45.179.140.242:8000/play/a0h9
+#EXTINF:0 group-title="Revisar" ,Enlace
+http://45.225.93.154:8000/play/a033
+#EXTINF:0 group-title="Revisar" ,Esne TV
+http://45.179.140.242:8000/play/a0jd
+#EXTINF:0 group-title="Revisar" ,Esne TV
+http://45.179.140.242:8000/play/a0jd
+#EXTINF:0 group-title="Revisar" ,EsneTV
+http://45.225.93.154:8000/play/a03f
+#EXTINF:0 group-title="Revisar" ,ESPN
+http://181.176.148.142:8000/play/a018
+#EXTINF:0 group-title="Revisar" ,ESPN
+http://181.176.148.142:8000/play/a018
+#EXTINF:0 group-title="Revisar" ,ESPN
+http://181.176.148.142:8000/play/a018
+#EXTINF:0 group-title="Revisar" ,ESPN
+http://181.78.22.214:8000/play/a010
+#EXTINF:0 group-title="Revisar" ,ESPN
+http://181.78.22.214:8000/play/a010
+#EXTINF:0 group-title="Revisar" ,ESPN
+http://200.24.159.179:8500/play/a01e
+#EXTINF:-1 group-title="Revisar" ,ESPN
+http://38.131.11.9:1080/play/a0as
+#EXTINF:0 group-title="Revisar" ,ESPN
+http://45.179.140.242:8000/play/a0ie
+#EXTINF:0 group-title="Revisar" ,ESPN
+http://45.179.140.242:8000/play/a0ie
+#EXTINF:0 group-title="Revisar" ,ESPN
+http://45.225.93.154:8000/play/a027
+#EXTINF:0 group-title="Revisar" ,ESPN 2
+http://181.176.148.142:8000/play/a019
+#EXTINF:0 group-title="Revisar" ,ESPN 2
+http://181.176.148.142:8000/play/a019
+#EXTINF:0 group-title="Revisar" ,ESPN 2
+http://181.176.148.142:8000/play/a019
+#EXTINF:0 group-title="Revisar" ,ESPN 2
+http://181.78.22.214:8000/play/a00s
+#EXTINF:0 group-title="Revisar" ,ESPN 2
+http://181.78.22.214:8000/play/a00s
+#EXTINF:0 group-title="Revisar" ,ESPN 2
+http://200.24.159.179:8500/play/a015
+#EXTINF:0 group-title="Revisar" ,ESPN 2
+http://45.225.93.154:8000/play/a028
+#EXTINF:0 group-title="Revisar" ,ESPN 2 HD
+http://190.108.93.62:8001/udp/224.2.2.2:10058
+#EXTINF:0 group-title="Revisar" ,ESPN 2 HD
+http://190.108.93.62:8001/udp/224.2.2.2:10059
+#EXTINF:0 group-title="Revisar" ,ESPN 2 HD
+http://45.225.93.154:4000/play/a0ax
+#EXTINF:0 group-title="Revisar" ,ESPN 2 Latin
+http://181.78.22.214:8000/play/a00z
+#EXTINF:0 group-title="Revisar" ,ESPN 2 Latin
+http://181.78.22.214:8000/play/a00z
+#EXTINF:-1 group-title="Revisar" ,ESPN 2 Latin
+http://38.131.11.9:1080/play/a0ar
+#EXTINF:0 group-title="Revisar" ,ESPN 2 Latin
+http://45.179.140.242:8000/play/a0id
+#EXTINF:0 group-title="Revisar" ,ESPN 2 Latin
+http://45.179.140.242:8000/play/a0id
+#EXTINF:0 group-title="Revisar" ,ESPN 3
+http://181.176.148.142:8000/play/a01a
+#EXTINF:0 group-title="Revisar" ,ESPN 3
+http://181.176.148.142:8000/play/a01a
+#EXTINF:0 group-title="Revisar" ,ESPN 3
+http://181.176.148.142:8000/play/a01a
+#EXTINF:0 group-title="Revisar" ,ESPN 3
+http://181.78.22.214:8000/play/a01s
+#EXTINF:0 group-title="Revisar" ,ESPN 3
+http://181.78.22.214:8000/play/a01s
+#EXTINF:-1 group-title="Revisar" ,ESPN 3
+http://38.131.11.9:1080/play/a029
+#EXTINF:0 group-title="Revisar" ,ESPN 3
+http://45.179.140.242:8000/play/a0je
+#EXTINF:0 group-title="Revisar" ,ESPN 3
+http://45.179.140.242:8000/play/a0je
+#EXTINF:0 group-title="Revisar" ,ESPN 3
+http://45.225.93.154:8000/play/a03g
+#EXTINF:0 group-title="Revisar" ,ESPN 3 HD
+http://190.108.93.62:8001/udp/224.2.2.2:10060
+#EXTINF:0 group-title="Revisar" ,ESPN 3 HD
+http://45.225.93.154:4000/play/espn3hd
+#EXTINF:0 group-title="Revisar" ,ESPN 4
+http://181.176.148.142:8000/play/a01b
+#EXTINF:0 group-title="Revisar" ,ESPN 4
+http://181.176.148.142:8000/play/a01b
+#EXTINF:0 group-title="Revisar" ,ESPN 4
+http://181.176.148.142:8000/play/a01b
+#EXTINF:0 group-title="Revisar" ,ESPN 4 HD
+http://190.108.93.62:8001/udp/224.2.2.2:10055
+#EXTINF:0 group-title="Revisar" ,ESPN CO
+http://181.78.22.214:8000/play/a01c
+#EXTINF:0 group-title="Revisar" ,ESPN CO
+http://181.78.22.214:8000/play/a01c
+#EXTINF:0 group-title="Revisar" ,ESPN CO
+http://45.179.140.242:8000/play/a0j5
+#EXTINF:0 group-title="Revisar" ,ESPN CO
+http://45.179.140.242:8000/play/a0j5
+#EXTINF:0 group-title="Revisar" ,ESPN EXTRA HD
+http://45.225.93.154:4000/play/a05e
+#EXTINF:0 group-title="Revisar" ,ESPN HD
+http://45.225.93.154:4000/play/a06j
+#EXTINF:-1 group-title="Revisar" ,ETC
+http://38.131.11.9:1080/play/a0dj
+#EXTINF:0 group-title="Revisar" ,EWTN Spanish International
+http://190.108.93.62:8001/udp/224.2.2.2:10092
+#EXTINF:0 group-title="Revisar" ,Exitosa TV
+http://190.108.93.62:8001/udp/224.2.2.2:10013
+#EXTINF:-1 group-title="Revisar" ,FDF
+http://149.62.183.208:8000/play/a02a/index.m3u8
+#EXTINF:0 group-title="Revisar" ,Fish TV HD
+http://189.11.143.160:8001/play/a00u
+#EXTINF:0 group-title="Revisar" ,FOOD NETWORK
+http://181.176.148.142:8000/play/a016
+#EXTINF:0 group-title="Revisar" ,FOOD NETWORK
+http://181.176.148.142:8000/play/a016
+#EXTINF:0 group-title="Revisar" ,FOOD NETWORK
+http://181.176.148.142:8000/play/a016
+#EXTINF:0 group-title="Revisar" ,FOOD NETWORK
+http://190.108.93.62:8001/udp/224.2.2.2:10030
+#EXTINF:-1 group-title="Revisar" ,Food Network HD
+http://38.131.11.9:1080/play/a0d7
+#EXTINF:0 group-title="Revisar" ,Food Network HD
+http://45.225.93.154:4000/play/foodnetworkhd
+#EXTINF:-1 group-title="Revisar" ,FOX
+http://149.62.183.208:8000/play/a04k/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,Fox Channel
+http://38.131.11.9:1080/play/a00u
+#EXTINF:0 group-title="Revisar" ,FOX CHANNEL HD
+http://190.108.93.62:8001/udp/224.2.2.2:10033
+#EXTINF:-1 group-title="Revisar" ,FOX HD
+http://149.62.183.208:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,Fox HD
+http://38.131.11.9:1080/play/a0cs
+#EXTINF:0 group-title="Revisar" ,FOX HD
+http://45.225.93.154:4000/play/a0ao
+#EXTINF:0 group-title="Revisar" ,Fox Life
+http://45.225.93.154:8000/play/a02u
+#EXTINF:0 group-title="Revisar" ,FOX LIFE HD
+http://190.108.93.62:8001/udp/224.2.2.2:10054
+#EXTINF:-1 group-title="Revisar" ,FOX NEWS
+http://149.62.183.208:8000/play/a00c/index.m3u8
+#EXTINF:0 group-title="Revisar" ,FOX P ACTI
+http://45.225.93.154:8000/play/a01s
+#EXTINF:0 group-title="Revisar" ,FOX P MOVIES
+http://45.225.93.154:8000/play/a01q
+#EXTINF:0 group-title="Revisar" ,FOX P SERIES E
+http://45.225.93.154:8000/play/a01r
+#EXTINF:0 group-title="Revisar" ,Fox Sports
+http://181.78.22.214:8000/play/a00y
+#EXTINF:0 group-title="Revisar" ,Fox Sports
+http://181.78.22.214:8000/play/a00y
+#EXTINF:-1 group-title="Revisar" ,Fox Sports
+http://38.131.11.9:1080/play/a02k
+#EXTINF:0 group-title="Revisar" ,Fox Sports
+http://45.225.93.154:8000/play/a026
+#EXTINF:0 group-title="Revisar" ,Fox Sports 1
+http://181.78.22.214:8000/play/a00j
+#EXTINF:0 group-title="Revisar" ,Fox Sports 1
+http://181.78.22.214:8000/play/a00j
+#EXTINF:0 group-title="Revisar" ,Fox Sports 1
+http://181.78.22.214:8000/play/a016
+#EXTINF:0 group-title="Revisar" ,Fox Sports 1
+http://181.78.22.214:8000/play/a016
+#EXTINF:0 group-title="Revisar" ,Fox Sports 1
+http://200.24.159.179:8500/play/a021
+#EXTINF:0 group-title="Revisar" ,Fox Sports 1
+http://45.179.140.242:8000/play/a0jo
+#EXTINF:0 group-title="Revisar" ,Fox Sports 1
+http://45.179.140.242:8000/play/a0jo
+#EXTINF:0 group-title="Revisar" ,Fox Sports 1 HD
+http://45.225.93.154:4000/play/a07k
+#EXTINF:0 group-title="Revisar" ,FOX SPORTS 2
+http://181.176.148.142:8000/play/a00f
+#EXTINF:0 group-title="Revisar" ,FOX SPORTS 2
+http://181.176.148.142:8000/play/a00f
+#EXTINF:0 group-title="Revisar" ,FOX SPORTS 2
+http://181.176.148.142:8000/play/a00f
+#EXTINF:0 group-title="Revisar" ,Fox Sports 2
+http://181.78.22.214:8000/play/a01v
+#EXTINF:0 group-title="Revisar" ,Fox Sports 2
+http://181.78.22.214:8000/play/a01v
+#EXTINF:0 group-title="Revisar" ,Fox Sports 2
+http://200.24.159.179:8500/play/a01n
+#EXTINF:-1 group-title="Revisar" ,Fox Sports 2
+http://38.131.11.9:1080/play/a033
+#EXTINF:0 group-title="Revisar" ,Fox Sports 2
+http://45.179.140.242:8000/play/a0k3
+#EXTINF:0 group-title="Revisar" ,Fox Sports 2
+http://45.179.140.242:8000/play/a0k3
+#EXTINF:0 group-title="Revisar" ,Fox Sports 2
+http://45.225.93.154:8000/play/a02h
+#EXTINF:0 group-title="Revisar" ,Fox Sports 2 HD
+http://189.11.143.160:8001/play/a00m
+#EXTINF:0 group-title="Revisar" ,FOX SPORTS 2 HD
+http://190.108.93.62:8001/udp/224.2.2.2:10056
+#EXTINF:0 group-title="Revisar" ,FOX Sports 2 HD
+http://45.225.93.154:4000/play/a0at
+#EXTINF:0 group-title="Revisar" ,FOX SPORTS 3
+http://181.176.148.142:8000/play/a01c
+#EXTINF:0 group-title="Revisar" ,FOX SPORTS 3
+http://181.176.148.142:8000/play/a01c
+#EXTINF:0 group-title="Revisar" ,FOX SPORTS 3
+http://181.176.148.142:8000/play/a01c
+#EXTINF:0 group-title="Revisar" ,Fox Sports 3
+http://181.78.22.214:8000/play/a01w
+#EXTINF:0 group-title="Revisar" ,Fox Sports 3
+http://181.78.22.214:8000/play/a01w
+#EXTINF:0 group-title="Revisar" ,Fox Sports 3
+http://200.24.159.179:8500/play/a01o
+#EXTINF:-1 group-title="Revisar" ,Fox Sports 3
+http://38.131.11.9:1080/play/a034
+#EXTINF:0 group-title="Revisar" ,Fox Sports 3
+http://45.179.140.242:8000/play/a0ik
+#EXTINF:0 group-title="Revisar" ,Fox Sports 3
+http://45.179.140.242:8000/play/a0ik
+#EXTINF:0 group-title="Revisar" ,Fox Sports 3
+http://45.225.93.154:8000/play/a02i
+#EXTINF:0 group-title="Revisar" ,FOX SPORTS 3 HD
+http://190.108.93.62:8001/udp/224.2.2.2:10057
+#EXTINF:0 group-title="Revisar" ,Fox Sports 3 HD
+http://45.225.93.154:4000/play/foxsports3hd
+#EXTINF:0 group-title="Revisar" ,Fox Sports HD
+http://189.11.143.160:8001/play/a00l
+#EXTINF:-1 group-title="Revisar" ,Fox Sports Premium
+http://38.131.11.9:1080/play/a00c
+#EXTINF:0 group-title="Revisar" ,Fox Sports Premium
+http://45.225.93.154:8000/play/a01p
+#EXTINF:-1 group-title="Revisar" ,France 24
+http://38.131.11.9:1080/play/a0cl
+#EXTINF:0 group-title="Revisar" ,France 24
+http://45.179.140.242:8000/play/a0jh
+#EXTINF:0 group-title="Revisar" ,France 24
+http://45.179.140.242:8000/play/a0jh
+#EXTINF:0 group-title="Revisar" ,FX
+http://181.78.22.214:8000/play/a01m
+#EXTINF:0 group-title="Revisar" ,FX
+http://181.78.22.214:8000/play/a01m
+#EXTINF:0 group-title="Revisar" ,FX
+http://200.24.159.179:8500/play/a030
+#EXTINF:-1 group-title="Revisar" ,FX
+http://38.131.11.9:1080/play/a01z
+#EXTINF:0 group-title="Revisar" ,FX
+http://45.179.140.242:8000/play/a0jb
+#EXTINF:0 group-title="Revisar" ,FX
+http://45.179.140.242:8000/play/a0jb
+#EXTINF:0 group-title="Revisar" ,FX
+http://45.225.93.154:8000/play/a03b
+#EXTINF:0 group-title="Revisar" ,FX HD
+http://190.108.93.62:8001/udp/224.2.2.2:10051
+#EXTINF:0 group-title="Revisar" ,FX HD
+http://45.225.93.154:4000/play/a0aw
+#EXTINF:-1 group-title="Revisar" ,FX Movies
+http://38.131.11.9:1080/play/a0bj
+#EXTINF:0 group-title="Revisar" ,FX Movies
+http://45.225.93.154:8000/play/a01n
+#EXTINF:-1 group-title="Revisar" ,FX Movies HD
+http://38.131.11.9:1080/play/a0dn
+#EXTINF:0 group-title="Revisar" ,FX Movies HD
+http://45.225.93.154:4000/play/a05l
+#EXTINF:0 group-title="Revisar" ,FXM
+http://181.176.148.142:8000/play/a01h
+#EXTINF:0 group-title="Revisar" ,FXM
+http://181.176.148.142:8000/play/a01h
+#EXTINF:0 group-title="Revisar" ,FXM
+http://181.176.148.142:8000/play/a01h
+#EXTINF:0 group-title="Revisar" ,FXM
+http://181.78.22.214:8000/play/a00i
+#EXTINF:0 group-title="Revisar" ,FXM
+http://181.78.22.214:8000/play/a00i
+#EXTINF:0 group-title="Revisar" ,FXM
+http://200.24.159.179:8500/play/a00t
+#EXTINF:0 group-title="Revisar" ,FXM HD
+http://190.108.93.62:8001/udp/224.2.2.2:10038
+#EXTINF:0 group-title="Revisar" ,GamaTV
+http://200.24.159.179:8500/play/a027
+#EXTINF:0 group-title="Revisar" ,GamaTV
+http://45.179.140.242:8000/play/a0jq
+#EXTINF:0 group-title="Revisar" ,GamaTV
+http://45.179.140.242:8000/play/a0jq
+#EXTINF:-1 group-title="Revisar" ,GLITZ
+http://38.131.11.9:1080/play/a09k
+#EXTINF:0 group-title="Revisar" ,GLOBAL
+http://181.176.148.142:8000/play/a01m
+#EXTINF:0 group-title="Revisar" ,GLOBAL
+http://181.176.148.142:8000/play/a01m
+#EXTINF:0 group-title="Revisar" ,GLOBAL
+http://181.176.148.142:8000/play/a01m
+#EXTINF:0 group-title="Revisar" ,GLOBAL
+http://190.108.93.62:8001/udp/224.2.2.2:10006
+#EXTINF:0 group-title="Revisar" ,Gloobinho HD
+http://189.11.143.160:8001/play/a008
+#EXTINF:0 group-title="Revisar" ,GNT HD
+http://189.11.143.160:8001/play/a003
+#EXTINF:-1 group-title="Revisar" ,Goku TV
+http://38.131.11.9:1080/play/a08b
+#EXTINF:-1 group-title="Revisar" ,GOL
+http://149.62.183.208:8000/play/a00k/index.m3u8
+#EXTINF:0 group-title="Revisar" ,GOL TV
+http://200.24.159.179:8500/play/a03b
+#EXTINF:-1 group-title="Revisar" ,GOL TV
+http://38.131.11.9:1080/play/a0at
+#EXTINF:0 group-title="Revisar" ,GOL TV
+http://45.179.140.242:8000/play/a0l8
+#EXTINF:0 group-title="Revisar" ,GOL TV
+http://45.179.140.242:8000/play/a0l8
+#EXTINF:0 group-title="Revisar" ,GOL TV
+http://45.225.93.154:8000/play/a029
+#EXTINF:-1 group-title="Revisar" ,Golden HD
+http://38.131.11.9:1080/play/a0d9
+#EXTINF:0 group-title="Revisar" ,Golden HD
+http://45.225.93.154:4000/play/goldenhd
+#EXTINF:0 group-title="Revisar" ,H
+H%20HD&http://190.108.93.62:8001/udp/224.2.2.2:10028
+#EXTINF:0 group-title="Revisar" ,H&H
+http://181.176.148.142:8000/play/a017
+#EXTINF:0 group-title="Revisar" ,H&H
+http://181.176.148.142:8000/play/a017
+#EXTINF:0 group-title="Revisar" ,H&H
+http://181.176.148.142:8000/play/a017
+#EXTINF:0 group-title="Revisar" ,HBO
+http://181.78.22.214:8000/play/a01h
+#EXTINF:0 group-title="Revisar" ,HBO
+http://181.78.22.214:8000/play/a01h
+#EXTINF:0 group-title="Revisar" ,HBO
+http://200.24.159.179:8500/play/a02v
+#EXTINF:-1 group-title="Revisar" ,HBO
+http://38.131.11.9:1080/play/a01u
+#EXTINF:0 group-title="Revisar" ,HBO
+http://45.179.140.242:8000/play/a0kt
+#EXTINF:0 group-title="Revisar" ,HBO
+http://45.179.140.242:8000/play/a0kt
+#EXTINF:0 group-title="Revisar" ,HBO
+http://45.225.93.154:8000/play/a036
+#EXTINF:0 group-title="Revisar" ,HBO 2
+http://181.78.22.214:8000/play/a00n
+#EXTINF:0 group-title="Revisar" ,HBO 2
+http://181.78.22.214:8000/play/a00n
+#EXTINF:0 group-title="Revisar" ,HBO 2
+http://200.24.159.179:8500/play/a00z
+#EXTINF:0 group-title="Revisar" ,HBO 2
+http://45.179.140.242:8000/play/a0l9
+#EXTINF:0 group-title="Revisar" ,HBO 2
+http://45.179.140.242:8000/play/a0l9
+#EXTINF:0 group-title="Revisar" ,HBO 2
+http://45.225.93.154:8000/play/a01t
+#EXTINF:0 group-title="Revisar" ,HBO Family
+http://181.78.22.214:8000/play/a00q
+#EXTINF:0 group-title="Revisar" ,HBO Family
+http://181.78.22.214:8000/play/a00q
+#EXTINF:0 group-title="Revisar" ,HBO Family
+http://200.24.159.179:8500/play/a012
+#EXTINF:0 group-title="Revisar" ,HBO Family
+http://45.179.140.242:8000/play/a0lc
+#EXTINF:0 group-title="Revisar" ,HBO Family
+http://45.179.140.242:8000/play/a0lc
+#EXTINF:0 group-title="Revisar" ,HBO Family
+http://45.225.93.154:8000/play/a01w
+#EXTINF:0 group-title="Revisar" ,HBO Family HD
+http://189.11.143.160:8001/play/a01n
+#EXTINF:0 group-title="Revisar" ,HBO HD
+http://189.11.143.160:8001/play/a01k
+#EXTINF:0 group-title="Revisar" ,HBO HD
+http://45.225.93.154:4000/play/a08o
+#EXTINF:0 group-title="Revisar" ,HBO MUNDI HD
+http://189.11.143.160:8001/play/a01c
+#EXTINF:0 group-title="Revisar" ,HBO Plus
+http://181.78.22.214:8000/play/a00o
+#EXTINF:0 group-title="Revisar" ,HBO Plus
+http://181.78.22.214:8000/play/a00o
+#EXTINF:0 group-title="Revisar" ,HBO Plus
+http://200.24.159.179:8500/play/a010
+#EXTINF:0 group-title="Revisar" ,HBO Plus
+http://45.179.140.242:8000/play/a0la
+#EXTINF:0 group-title="Revisar" ,HBO Plus
+http://45.179.140.242:8000/play/a0la
+#EXTINF:0 group-title="Revisar" ,HBO Plus
+http://45.225.93.154:8000/play/a01u
+#EXTINF:0 group-title="Revisar" ,HBO POP HD
+http://189.11.143.160:8001/play/a01p
+#EXTINF:0 group-title="Revisar" ,HBO POP HD
+http://45.225.93.154:4000/play/a0g8
+#EXTINF:0 group-title="Revisar" ,HBO Signature HD
+http://189.11.143.160:8001/play/a01o
+#EXTINF:0 group-title="Revisar" ,HBO XTREME HD
+http://189.11.143.160:8001/play/a01d
+#EXTINF:0 group-title="Revisar" ,HBO XTREME SD
+http://181.78.22.214:8000/play/a00p
+#EXTINF:0 group-title="Revisar" ,HBO XTREME SD
+http://181.78.22.214:8000/play/a00p
+#EXTINF:0 group-title="Revisar" ,HBO XTREME SD
+http://200.24.159.179:8500/play/a011
+#EXTINF:0 group-title="Revisar" ,HBO XTREME SD
+http://45.179.140.242:8000/play/a0lb
+#EXTINF:0 group-title="Revisar" ,HBO XTREME SD
+http://45.179.140.242:8000/play/a0lb
+#EXTINF:0 group-title="Revisar" ,HBO XTREME SD
+http://45.225.93.154:8000/play/a03h
+#EXTINF:0 group-title="Revisar" ,HBO+ HD
+http://189.11.143.160:8001/play/a01m
+#EXTINF:0 group-title="Revisar" ,HBO2 HD
+http://189.11.143.160:8001/play/a01l
+#EXTINF:0 group-title="Revisar" ,History 2 1080
+http://189.11.143.160:8001/play/a00g
+#EXTINF:0 group-title="Revisar" ,History 480
+http://181.78.22.214:8000/play/a004
+#EXTINF:0 group-title="Revisar" ,History 480
+http://190.187.200.69:8000/play/a00c
+#EXTINF:0 group-title="Revisar" ,History 480
+http://45.179.140.242:8000/play/a0ju
+#EXTINF:0 group-title="Revisar" ,History 480
+http://45.225.93.154:8000/play/a02n
+#EXTINF:0 group-title="Revisar" ,History 576
+http://181.176.148.142:8000/play/a01p
+#EXTINF:0 group-title="Revisar" ,HITS HD
+http://190.108.93.62:8001/udp/224.2.2.2:10074
+#EXTINF:0 group-title="Revisar" ,HOGAR TV HD
+http://190.108.93.62:8001/udp/224.2.2.2:10072
+#EXTINF:-1 group-title="Revisar" ,Home and Health
+http://38.131.11.9:1080/play/a01d
+#EXTINF:0 group-title="Revisar" ,HomeandHealth
+http://181.78.22.214:8000/play/a015
+#EXTINF:0 group-title="Revisar" ,HomeandHealth
+http://181.78.22.214:8000/play/a015
+#EXTINF:0 group-title="Revisar" ,HomeandHealth
+http://200.24.159.179:8500/play/a01w
+#EXTINF:0 group-title="Revisar" ,HomeandHealth
+http://45.179.140.242:8000/play/a0jj
+#EXTINF:0 group-title="Revisar" ,HomeandHealth
+http://45.179.140.242:8000/play/a0jj
+#EXTINF:-1 group-title="Revisar" ,Htv
+http://38.131.11.9:1080/play/a0co
+#EXTINF:0 group-title="Revisar" ,I-Sat
+http://181.78.22.214:8000/play/a007
+#EXTINF:0 group-title="Revisar" ,I-Sat
+http://181.78.22.214:8000/play/a007
+#EXTINF:-1 group-title="Revisar" ,I-Sat
+http://38.131.11.9:1080/play/a00v
+#EXTINF:0 group-title="Revisar" ,I-Sat
+http://45.179.140.242:8000/play/a0jx
+#EXTINF:0 group-title="Revisar" ,I-Sat
+http://45.179.140.242:8000/play/a0jx
+#EXTINF:0 group-title="Revisar" ,I-Sat
+http://45.225.93.154:8000/play/a02r
+#EXTINF:-1 group-title="Revisar" ,IBERALIA TV
+http://149.62.183.208:8000/play/a04f/index.m3u8
+#EXTINF:0 group-title="Revisar" ,ID Discovery 480
+http://181.78.22.214:8000/play/a013
+#EXTINF:0 group-title="Revisar" ,ID Discovery 576
+http://181.176.148.142:8000/play/a014
+#EXTINF:0 group-title="Revisar" ,ID HD
+http://45.225.93.154:4000/play/idhd
+#EXTINF:0 group-title="Revisar" ,INFA Cartoon Network ESPA
+http://190.187.200.69:8000/play/a029
+#EXTINF:0 group-title="Revisar" ,INFA Cartoon Network ESPA
+http://190.187.200.69:8000/play/a029
+#EXTINF:0 group-title="Revisar" ,INFA-Disney Channel
+http://190.187.200.69:8000/play/a017
+#EXTINF:0 group-title="Revisar" ,INFA-Disney Channel
+http://190.187.200.69:8000/play/a017
+#EXTINF:0 group-title="Revisar" ,INFA-Disney Jr
+http://190.187.200.69:8000/play/a013
+#EXTINF:0 group-title="Revisar" ,INFA-Disney Jr
+http://190.187.200.69:8000/play/a013
+#EXTINF:0 group-title="Revisar" ,INFA-Disney XD
+http://190.187.200.69:8000/play/a00a
+#EXTINF:0 group-title="Revisar" ,INFA-Disney XD
+http://190.187.200.69:8000/play/a00a
+#EXTINF:0 group-title="Revisar" ,INFA-Nick Jr
+http://190.187.200.69:8000/play/a026
+#EXTINF:0 group-title="Revisar" ,INFA-Nick Jr
+http://190.187.200.69:8000/play/a026
+#EXTINF:0 group-title="Revisar" ,INFA-Nickelodeon
+http://190.187.200.69:8000/play/a009
+#EXTINF:0 group-title="Revisar" ,INFA-Nickelodeon
+http://190.187.200.69:8000/play/a009
+#EXTINF:0 group-title="Revisar" ,INTER-TVE
+http://190.187.200.69:8000/play/a00l
+#EXTINF:0 group-title="Revisar" ,INTER-TVE
+http://190.187.200.69:8000/play/a00l
+#EXTINF:0 group-title="Revisar" ,INTI
+http://181.176.148.142:8000/play/a01f
+#EXTINF:0 group-title="Revisar" ,INTI
+http://181.176.148.142:8000/play/a01f
+#EXTINF:0 group-title="Revisar" ,INTI
+http://181.176.148.142:8000/play/a01f
+#EXTINF:0 group-title="Revisar" ,ITV
+http://181.176.148.142:8000/play/a002
+#EXTINF:0 group-title="Revisar" ,ITV
+http://181.176.148.142:8000/play/a002
+#EXTINF:0 group-title="Revisar" ,ITV
+http://181.176.148.142:8000/play/a002
+#EXTINF:0 group-title="Revisar" ,ITV HD
+http://190.108.93.62:8001/udp/224.2.2.2:10032
+#EXTINF:30 group-title="Revisar" ,itv1
+http://213.7.193.54:4000/play/itv1/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,Karavana TV
+http://38.131.11.9:1080/play/a0ac
+#EXTINF:0 group-title="Revisar" ,KUMBIA
+http://181.176.148.142:8000/play/a008
+#EXTINF:0 group-title="Revisar" ,KUMBIA
+http://181.176.148.142:8000/play/a008
+#EXTINF:0 group-title="Revisar" ,KUMBIA
+http://181.176.148.142:8000/play/a008
+#EXTINF:-1 group-title="Revisar" ,LA 1
+http://149.62.183.208:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,LA 1 HD
+http://149.62.183.208:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,LA 2
+http://149.62.183.208:8000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,La Red
+http://38.131.11.9:1080/play/a005
+#EXTINF:0 group-title="Revisar" ,La Red
+http://45.225.93.154:8000/play/a01i
+#EXTINF:-1 group-title="Revisar" ,La Red HD
+http://38.131.11.9:1080/play/a0dm
+#EXTINF:0 group-title="Revisar" ,La Red HD
+http://45.225.93.154:4000/play/laredhd
+#EXTINF:-1 group-title="Revisar" ,LA SEXTA
+http://149.62.183.208:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,LA SEXTA HD
+http://149.62.183.208:8000/play/a01y/index.m3u8
+#EXTINF:0 group-title="Revisar" ,LA TELE
+http://190.108.93.62:8001/udp/224.2.2.2:10002
+#EXTINF:0 group-title="Revisar" ,LATINA
+http://181.176.148.142:8000/play/a01o
+#EXTINF:0 group-title="Revisar" ,LATINA
+http://181.176.148.142:8000/play/a01o
+#EXTINF:0 group-title="Revisar" ,LATINA
+http://181.176.148.142:8000/play/a01o
+#EXTINF:0 group-title="Revisar" ,LATINA
+http://190.108.93.62:8001/udp/224.2.2.2:10001
+#EXTINF:-1 group-title="Revisar" ,Life Time
+http://38.131.11.9:1080/play/a0db
+#EXTINF:-1 group-title="Revisar" ,M+ #0
+http://149.62.183.208:8000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ #0 HD
+http://149.62.183.208:8000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ #VAMOS
+http://149.62.183.208:8000/play/a040/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ #VAMOS
+http://149.62.183.208:8000/play/a041/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ #VAMOSHD
+http://149.62.183.208:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ #VAMOSHD
+http://149.62.183.208:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ ACCI©N
+http://149.62.183.208:8000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ ACCI©N HD
+http://149.62.183.208:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ Cine Espaæol
+http://149.62.183.208:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ CL.SICOS
+http://149.62.183.208:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ CL.SICOS HD
+http://149.62.183.208:8000/play/a04b/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ COMEDIA
+http://149.62.183.208:8000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ DEPORTES
+http://149.62.183.208:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ DRAMA
+http://149.62.183.208:8000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ DRAMA HD
+http://149.62.183.208:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ ESTRENOS
+http://149.62.183.208:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ ESTRENOS 2
+http://149.62.183.208:8000/play/a03g/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ ESTRENOS 2 HD
+http://149.62.183.208:8000/play/a04u/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ Fest
+http://149.62.183.208:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ GOLF
+http://149.62.183.208:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ GOLF HD
+http://149.62.183.208:8000/play/a048/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ La Resistencia
+http://149.62.183.208:8000/play/a053/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ LaLiga
+http://149.62.183.208:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ LaLiga 1
+http://149.62.183.208:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ LaLiga 1 HD
+http://149.62.183.208:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ LaLiga 10
+http://149.62.183.208:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ LaLiga 2
+http://149.62.183.208:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ LaLiga 2 HD
+http://149.62.183.208:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ LaLiga 3
+http://149.62.183.208:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ LaLiga 3 HD
+http://149.62.183.208:8000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ LaLiga 4
+http://149.62.183.208:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ LaLiga 5
+http://149.62.183.208:8000/play/a039/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ LaLiga 6
+http://149.62.183.208:8000/play/a057/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ LaLiga 7
+http://149.62.183.208:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ LaLiga 8
+http://149.62.183.208:8000/play/a051/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ LaLiga 9
+http://149.62.183.208:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ SAGAS
+http://149.62.183.208:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ SERIES
+http://149.62.183.208:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ SERIES 2
+http://149.62.183.208:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ SERIES 2 HD
+http://149.62.183.208:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ SERIES HD
+http://149.62.183.208:8000/play/a047/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+COMEDIA HD
+http://149.62.183.208:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+DEPORTES1
+http://149.62.183.208:8000/play/a044/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+DEPORTES1HD
+http://149.62.183.208:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+DEPORTES2
+http://149.62.183.208:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+DEPORTES3
+http://149.62.183.208:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+DEPORTES4
+http://149.62.183.208:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+DEPORTES5
+http://149.62.183.208:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+DEPORTES6
+http://149.62.183.208:8000/play/a052/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+DEPORTES7
+http://149.62.183.208:8000/play/a055/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+DEPORTESHD
+http://149.62.183.208:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+ESTRENOSHD
+http://149.62.183.208:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+LCAMPEON1
+http://149.62.183.208:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+LCAMPEON1
+http://149.62.183.208:8000/play/a04v/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+LCAMPEON10
+http://149.62.183.208:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+LCAMPEON11
+http://149.62.183.208:8000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+LCAMPEON12
+http://149.62.183.208:8000/play/a05d/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+LCAMPEON2
+http://149.62.183.208:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+LCAMPEON2
+http://149.62.183.208:8000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+LCAMPEON3
+http://149.62.183.208:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+LCAMPEON4
+http://149.62.183.208:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+LCAMPEON5
+http://149.62.183.208:8000/play/a05b/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+LCAMPEON6
+http://149.62.183.208:8000/play/a054/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+LCAMPEON7
+http://149.62.183.208:8000/play/a058/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+LCAMPEON8
+http://149.62.183.208:8000/play/a056/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+LCAMPEON9
+http://149.62.183.208:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,M+LCAMPEONES
+http://149.62.183.208:8000/play/a046/index.m3u8
+#EXTINF:0 group-title="Revisar" ,Max Prime
+http://45.225.93.154:8000/play/a01v
+#EXTINF:-1 group-title="Revisar" ,Mega
+http://38.131.11.9:1080/play/a007
+#EXTINF:0 group-title="Revisar" ,Mega
+http://45.225.93.154:8000/play/a01k
+#EXTINF:0 group-title="Revisar" ,MEGA HD
+http://45.225.93.154:4000/play/a08g
+#EXTINF:-1 group-title="Revisar" ,MEZZO
+http://149.62.183.208:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,MEZZO LIVE HD
+http://149.62.183.208:8000/play/a022/index.m3u8
+#EXTINF:0 group-title="Revisar" ,MOVIES CLUB
+http://181.176.148.142:8000/play/a00y
+#EXTINF:0 group-title="Revisar" ,MOVIES CLUB
+http://181.176.148.142:8000/play/a00y
+#EXTINF:0 group-title="Revisar" ,MOVIES CLUB
+http://181.176.148.142:8000/play/a00y
+#EXTINF:0 group-title="Revisar" ,MTV
+http://181.78.22.214:8000/play/a008
+#EXTINF:0 group-title="Revisar" ,MTV
+http://181.78.22.214:8000/play/a008
+#EXTINF:0 group-title="Revisar" ,MTV
+http://200.24.159.179:8500/play/a008
+#EXTINF:-1 group-title="Revisar" ,MTV
+http://38.131.11.9:1080/play/a00w
+#EXTINF:0 group-title="Revisar" ,MTV
+http://45.179.140.242:8000/play/a0h3
+#EXTINF:0 group-title="Revisar" ,MTV
+http://45.179.140.242:8000/play/a0h3
+#EXTINF:0 group-title="Revisar" ,MTV
+http://45.225.93.154:8000/play/a02s
+#EXTINF:-1 group-title="Revisar" ,MTV ESPA¹A
+http://149.62.183.208:8000/play/a00j/index.m3u8
+#EXTINF:0 group-title="Revisar" ,MULTI CINEMA HD
+http://190.108.93.62:8001/udp/224.2.2.2:10040
+#EXTINF:0 group-title="Revisar" ,MULTI VISION
+http://190.108.93.62:8001/udp/224.2.2.2:10069
+#EXTINF:-1 group-title="Revisar" ,MULTIDEPORTE
+http://149.62.183.208:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,MULTIDEPORTE
+http://149.62.183.208:8000/play/a010/index.m3u8
+#EXTINF:0 group-title="Revisar" ,Multishow HD
+http://189.11.143.160:8001/play/a004
+#EXTINF:-1 group-title="Revisar" ,MXClassic
+http://38.131.11.9:1080/play/a0ag
+#EXTINF:-1 group-title="Revisar" ,MXFamily
+http://38.131.11.9:1080/play/a0ah
+#EXTINF:-1 group-title="Revisar" ,MXPrime
+http://38.131.11.9:1080/play/a0af
+#EXTINF:0 group-title="Revisar" ,NACIONAL-AmericaTV
+http://190.187.200.69:8000/play/a01s
+#EXTINF:0 group-title="Revisar" ,NACIONAL-AmericaTV
+http://190.187.200.69:8000/play/a01s
+#EXTINF:0 group-title="Revisar" ,NACIONAL-ATV
+http://190.187.200.69:8000/play/a01u
+#EXTINF:0 group-title="Revisar" ,NACIONAL-ATV
+http://190.187.200.69:8000/play/a01u
+#EXTINF:0 group-title="Revisar" ,NACIONAL-Latina
+http://190.187.200.69:8000/play/a01r
+#EXTINF:0 group-title="Revisar" ,NACIONAL-Latina
+http://190.187.200.69:8000/play/a01r
+#EXTINF:0 group-title="Revisar" ,NACIONAL-Panamericana TV
+http://190.187.200.69:8000/play/a01t
+#EXTINF:0 group-title="Revisar" ,NACIONAL-Panamericana TV
+http://190.187.200.69:8000/play/a01t
+#EXTINF:0 group-title="Revisar" ,NACIONAL-TV Peru
+http://190.187.200.69:8000/play/a01w
+#EXTINF:0 group-title="Revisar" ,NACIONAL-TV Peru
+http://190.187.200.69:8000/play/a01w
+#EXTINF:0 group-title="Revisar" ,NACIONAL-WILLAX
+http://190.187.200.69:8000/play/a01q
+#EXTINF:0 group-title="Revisar" ,NACIONAL-WILLAX
+http://190.187.200.69:8000/play/a01q
+#EXTINF:0 group-title="Revisar" ,Nat Geo Kids 1080
+http://45.225.93.154:4000/play/natgeokidshd
+#EXTINF:0 group-title="Revisar" ,Nat Geo Kids 480
+http://181.78.22.214:8000/play/a00c
+#EXTINF:0 group-title="Revisar" ,Nat Geo Kids 480
+http://190.187.200.69:8000/play/a00i
+#EXTINF:0 group-title="Revisar" ,Nat Geo Kids 480
+http://200.24.159.179:8500/play/a00e
+#EXTINF:0 group-title="Revisar" ,Nat Geo Kids 480
+http://45.179.140.242:8000/play/a0h6
+#EXTINF:0 group-title="Revisar" ,Nat Geo Kids 480
+http://45.225.93.154:8000/play/a02x
+#EXTINF:0 group-title="Revisar" ,NAT GEO KIDS HD
+http://190.108.93.62:8001/udp/224.2.2.2:10017
+#EXTINF:-1 group-title="Revisar" ,Nat Geo Wild HD
+http://38.131.11.9:1080/play/a0dt
+#EXTINF:-1 group-title="Revisar" ,NEOX
+http://149.62.183.208:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,NICK
+http://38.131.11.9:1080/play/a0e9
+#EXTINF:-1 group-title="Revisar" ,NICK JR
+http://149.62.183.208:8000/play/a00t/index.m3u8
+#EXTINF:0 group-title="Revisar" ,Nick Jr
+http://181.78.22.214:8000/play/a01q
+#EXTINF:0 group-title="Revisar" ,Nick Jr
+http://181.78.22.214:8000/play/a01q
+#EXTINF:0 group-title="Revisar" ,Nick Jr
+http://200.24.159.179:8500/play/a038
+#EXTINF:-1 group-title="Revisar" ,Nick Jr
+http://38.131.11.9:1080/play/a026
+#EXTINF:0 group-title="Revisar" ,Nick Jr
+http://45.179.140.242:8000/play/a0jc
+#EXTINF:0 group-title="Revisar" ,Nick Jr
+http://45.179.140.242:8000/play/a0jc
+#EXTINF:0 group-title="Revisar" ,Nick Jr
+http://45.225.93.154:8000/play/a03d
+#EXTINF:-1 group-title="Revisar" ,NICKELODEON
+http://149.62.183.208:8000/play/a03v/index.m3u8
+#EXTINF:0 group-title="Revisar" ,Nickelodeon
+http://181.78.22.214:8000/play/a001
+#EXTINF:0 group-title="Revisar" ,Nickelodeon
+http://181.78.22.214:8000/play/a001
+#EXTINF:0 group-title="Revisar" ,Nickelodeon
+http://200.24.159.179:8500/play/a001
+#EXTINF:-1 group-title="Revisar" ,Nickelodeon
+http://38.131.11.9:1080/play/a00o
+#EXTINF:0 group-title="Revisar" ,Nickelodeon
+http://45.179.140.242:8000/play/a0jt
+#EXTINF:0 group-title="Revisar" ,Nickelodeon
+http://45.179.140.242:8000/play/a0jt
+#EXTINF:0 group-title="Revisar" ,Nickelodeon
+http://45.225.93.154:8000/play/a02k
+#EXTINF:-1 group-title="Revisar" ,NICKELODEONHD
+http://149.62.183.208:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,NOVA
+http://149.62.183.208:8000/play/a04e/index.m3u8
+#EXTINF:0 group-title="Revisar" ,NT ESP HD
+http://190.108.93.62:8001/udp/224.2.2.2:10091
+#EXTINF:0 group-title="Revisar" ,NTV
+http://45.225.93.154:4000/play/a0gu
+#EXTINF:0 group-title="Revisar" ,OLD CITY
+http://181.176.148.142:8000/play/a00i
+#EXTINF:0 group-title="Revisar" ,OLD CITY
+http://181.176.148.142:8000/play/a00i
+#EXTINF:0 group-title="Revisar" ,OLD CITY
+http://181.176.148.142:8000/play/a00i
+#EXTINF:0 group-title="Revisar" ,OLD TV
+http://190.108.93.62:8001/udp/224.2.2.2:10080
+#EXTINF:0 group-title="Revisar" ,OROMAR TV A
+http://190.108.93.62:8001/udp/224.2.2.2:10071
+#EXTINF:0 group-title="Revisar" ,PANAMERICANA
+http://181.176.148.142:8000/play/a01n
+#EXTINF:0 group-title="Revisar" ,PANAMERICANA
+http://181.176.148.142:8000/play/a01n
+#EXTINF:0 group-title="Revisar" ,PANAMERICANA
+http://181.176.148.142:8000/play/a01n
+#EXTINF:0 group-title="Revisar" ,PANAMERICANA HD
+http://190.108.93.62:8001/udp/224.2.2.2:10004
+#EXTINF:0 group-title="Revisar" ,PANICO HD
+http://190.108.93.62:8001/udp/224.2.2.2:10039
+#EXTINF:0 group-title="Revisar" ,PELIS-Cinecanal
+http://190.187.200.69:8000/play/a00d
+#EXTINF:0 group-title="Revisar" ,PELIS-Cinecanal
+http://190.187.200.69:8000/play/a00d
+#EXTINF:0 group-title="Revisar" ,PELIS-Cinemax
+http://190.187.200.69:8000/play/a021
+#EXTINF:0 group-title="Revisar" ,PELIS-Cinemax
+http://190.187.200.69:8000/play/a021
+#EXTINF:0 group-title="Revisar" ,PELIS-FX
+http://190.187.200.69:8000/play/a025
+#EXTINF:0 group-title="Revisar" ,PELIS-FX
+http://190.187.200.69:8000/play/a025
+#EXTINF:0 group-title="Revisar" ,PELIS-FXM
+http://190.187.200.69:8000/play/a00t
+#EXTINF:0 group-title="Revisar" ,PELIS-FXM
+http://190.187.200.69:8000/play/a00t
+#EXTINF:0 group-title="Revisar" ,PELIS-Space
+http://190.187.200.69:8000/play/a024
+#EXTINF:0 group-title="Revisar" ,PELIS-Space
+http://190.187.200.69:8000/play/a024
+#EXTINF:0 group-title="Revisar" ,PELIS-TNT
+http://190.187.200.69:8000/play/a00k
+#EXTINF:0 group-title="Revisar" ,PELIS-TNT
+http://190.187.200.69:8000/play/a00k
+#EXTINF:-1 group-title="Revisar" ,Peru Magico
+http://38.131.11.9:1080/play/a0dh
+#EXTINF:0 group-title="Revisar" ,PLANET CARTOONS HD
+http://190.108.93.62:8001/udp/224.2.2.2:10016
+#EXTINF:0 group-title="Revisar" ,PLANET MOVIES HD
+http://190.108.93.62:8001/udp/224.2.2.2:10034
+#EXTINF:0 group-title="Revisar" ,PLANET SERIES HD
+http://190.108.93.62:8001/udp/224.2.2.2:10050
+#EXTINF:0 group-title="Revisar" ,Premiere 3 HD
+http://189.11.143.160:8001/play/a00e
+#EXTINF:0 group-title="Revisar" ,Premiere 4 HD
+http://189.11.143.160:8001/play/a005
+#EXTINF:0 group-title="Revisar" ,Premiere 6 HD
+http://189.11.143.160:8001/play/a009
+#EXTINF:0 group-title="Revisar" ,Premiere 7 HD
+http://189.11.143.160:8001/play/a00a
+#EXTINF:0 group-title="Revisar" ,PREMIUM-HBO
+http://190.187.200.69:8000/play/a020
+#EXTINF:0 group-title="Revisar" ,PREMIUM-HBO
+http://190.187.200.69:8000/play/a020
+#EXTINF:0 group-title="Revisar" ,PREMIUM-HBO 2
+http://190.187.200.69:8000/play/a00z
+#EXTINF:0 group-title="Revisar" ,PREMIUM-HBO 2
+http://190.187.200.69:8000/play/a00z
+#EXTINF:0 group-title="Revisar" ,PREMIUM-HBO Family
+http://190.187.200.69:8000/play/a012
+#EXTINF:0 group-title="Revisar" ,PREMIUM-HBO Family
+http://190.187.200.69:8000/play/a012
+#EXTINF:0 group-title="Revisar" ,PREMIUM-HBO Plus
+http://190.187.200.69:8000/play/a010
+#EXTINF:0 group-title="Revisar" ,PREMIUM-HBO Plus
+http://190.187.200.69:8000/play/a010
+#EXTINF:0 group-title="Revisar" ,PREMIUM-HBO XTREME SD
+http://190.187.200.69:8000/play/a011
+#EXTINF:0 group-title="Revisar" ,PREMIUM-HBO XTREME SD
+http://190.187.200.69:8000/play/a011
+#EXTINF:0 group-title="Revisar" ,PXSPORTS HD
+http://190.108.93.62:8001/udp/224.2.2.2:10095
+#EXTINF:0 group-title="Revisar" ,QMBIA HD
+http://190.108.93.62:8001/udp/224.2.2.2:10078
+#EXTINF:-1 group-title="Revisar" ,R. MADRID TV
+http://149.62.183.208:8000/play/a01q/index.m3u8
+#EXTINF:0 group-title="Revisar" ,RAYMI
+http://181.176.148.142:8000/play/a007
+#EXTINF:0 group-title="Revisar" ,RAYMI
+http://181.176.148.142:8000/play/a007
+#EXTINF:0 group-title="Revisar" ,RAYMI
+http://181.176.148.142:8000/play/a007
+#EXTINF:0 group-title="Revisar" ,RAYMI HD
+http://190.108.93.62:8001/udp/224.2.2.2:10073
+#EXTINF:-1 group-title="Revisar" ,Rec 13
+http://38.131.11.9:1080/play/a0d1
+#EXTINF:0 group-title="Revisar" ,RETRO
+http://181.176.148.142:8000/play/a006
+#EXTINF:0 group-title="Revisar" ,RETRO
+http://181.176.148.142:8000/play/a006
+#EXTINF:0 group-title="Revisar" ,RETRO
+http://181.176.148.142:8000/play/a006
+#EXTINF:0 group-title="Revisar" ,RETRO HD
+http://190.108.93.62:8001/udp/224.2.2.2:10036
+#EXTINF:-1 group-title="Revisar" ,RPP
+http://38.131.11.9:1080/play/a0d8
+#EXTINF:0 group-title="Revisar" ,RT ESP HD
+http://190.108.93.62:8001/udp/224.2.2.2:10082
+#EXTINF:0 group-title="Revisar" ,RTS
+http://200.24.159.179:8500/play/a034
+#EXTINF:0 group-title="Revisar" ,RTS
+http://45.179.140.242:8000/play/a0kw
+#EXTINF:0 group-title="Revisar" ,RTS
+http://45.179.140.242:8000/play/a0kw
+#EXTINF:0 group-title="Revisar" ,RUMBA HD
+http://190.108.93.62:8001/udp/224.2.2.2:10076
+#EXTINF:0 group-title="Revisar" ,Senal Colombia
+http://181.78.22.214:8000/play/a01b
+#EXTINF:0 group-title="Revisar" ,Senal Colombia
+http://181.78.22.214:8000/play/a01b
+#EXTINF:0 group-title="Revisar" ,SERIES CLUB
+http://181.176.148.142:8000/play/a00a
+#EXTINF:0 group-title="Revisar" ,SERIES CLUB
+http://181.176.148.142:8000/play/a00a
+#EXTINF:0 group-title="Revisar" ,SERIES CLUB
+http://181.176.148.142:8000/play/a00a
+#EXTINF:0 group-title="Revisar" ,SERIES-AXN
+http://190.187.200.69:8000/play/a023
+#EXTINF:0 group-title="Revisar" ,SERIES-AXN
+http://190.187.200.69:8000/play/a023
+#EXTINF:0 group-title="Revisar" ,SERIES-Sony
+http://190.187.200.69:8000/play/a022
+#EXTINF:0 group-title="Revisar" ,SERIES-Sony
+http://190.187.200.69:8000/play/a022
+#EXTINF:0 group-title="Revisar" ,SERIES-STAR CHANNEL
+http://190.187.200.69:8000/play/a00g
+#EXTINF:0 group-title="Revisar" ,SERIES-STAR CHANNEL
+http://190.187.200.69:8000/play/a00g
+#EXTINF:0 group-title="Revisar" ,SERIES-TBS
+http://190.187.200.69:8000/play/a01p
+#EXTINF:0 group-title="Revisar" ,SERIES-TBS
+http://190.187.200.69:8000/play/a01p
+#EXTINF:0 group-title="Revisar" ,SERIES-Universal
+http://190.187.200.69:8000/play/a00e
+#EXTINF:0 group-title="Revisar" ,SERIES-Universal
+http://190.187.200.69:8000/play/a00e
+#EXTINF:0 group-title="Revisar" ,SERIES-Warner
+http://190.187.200.69:8000/play/a01a
+#EXTINF:0 group-title="Revisar" ,SERIES-Warner
+http://190.187.200.69:8000/play/a01a
+#EXTINF:0 group-title="Revisar" ,SNT
+http://45.225.93.154:8000/play/a031
+#EXTINF:0 group-title="Revisar" ,SOL TV HD
+http://190.108.93.62:8001/udp/224.2.2.2:10014
+#EXTINF:0 group-title="Revisar" ,Sony
+http://181.78.22.214:8000/play/a01j
+#EXTINF:0 group-title="Revisar" ,Sony
+http://181.78.22.214:8000/play/a01j
+#EXTINF:-1 group-title="Revisar" ,Sony
+http://38.131.11.9:1080/play/a01w
+#EXTINF:0 group-title="Revisar" ,Sony
+http://45.179.140.242:8000/play/a0j8
+#EXTINF:0 group-title="Revisar" ,Sony
+http://45.179.140.242:8000/play/a0j8
+#EXTINF:0 group-title="Revisar" ,Sony
+http://45.225.93.154:8000/play/a038
+#EXTINF:0 group-title="Revisar" ,Sony HD
+http://45.225.93.154:4000/play/a06d
+#EXTINF:0 group-title="Revisar" ,Space
+http://181.78.22.214:8000/play/a01l
+#EXTINF:0 group-title="Revisar" ,Space
+http://181.78.22.214:8000/play/a01l
+#EXTINF:0 group-title="Revisar" ,Space
+http://200.24.159.179:8500/play/a02z
+#EXTINF:-1 group-title="Revisar" ,Space
+http://38.131.11.9:1080/play/a01y
+#EXTINF:0 group-title="Revisar" ,Space
+http://45.179.140.242:8000/play/a0ja
+#EXTINF:0 group-title="Revisar" ,Space
+http://45.179.140.242:8000/play/a0ja
+#EXTINF:0 group-title="Revisar" ,Space
+http://45.225.93.154:8000/play/a03a
+#EXTINF:0 group-title="Revisar" ,Space HD
+http://45.225.93.154:4000/play/a06g
+#EXTINF:0 group-title="Revisar" ,SporTV HD
+http://189.11.143.160:8001/play/a00d
+#EXTINF:0 group-title="Revisar" ,SporTV2 HD
+http://189.11.143.160:8001/play/a00c
+#EXTINF:0 group-title="Revisar" ,STAR ACTION
+http://181.78.22.214:8000/play/a00m
+#EXTINF:0 group-title="Revisar" ,STAR ACTION
+http://181.78.22.214:8000/play/a00m
+#EXTINF:0 group-title="Revisar" ,STAR CHANNEL
+http://181.78.22.214:8000/play/a00a
+#EXTINF:0 group-title="Revisar" ,STAR CHANNEL
+http://181.78.22.214:8000/play/a00a
+#EXTINF:0 group-title="Revisar" ,STAR CHANNEL
+http://200.24.159.179:8500/play/a00c
+#EXTINF:0 group-title="Revisar" ,STAR CHANNEL
+http://45.179.140.242:8000/play/a0k6
+#EXTINF:0 group-title="Revisar" ,STAR CHANNEL
+http://45.179.140.242:8000/play/a0k6
+#EXTINF:0 group-title="Revisar" ,Star Channel
+http://45.225.93.154:8000/play/a02q
+#EXTINF:0 group-title="Revisar" ,STAR HITS
+http://181.78.22.214:8000/play/a00k
+#EXTINF:0 group-title="Revisar" ,STAR HITS
+http://181.78.22.214:8000/play/a00k
+#EXTINF:0 group-title="Revisar" ,STAR LIFE
+http://181.78.22.214:8000/play/a009
+#EXTINF:0 group-title="Revisar" ,STAR LIFE
+http://181.78.22.214:8000/play/a009
+#EXTINF:0 group-title="Revisar" ,STAR LIFE
+http://45.179.140.242:8000/play/a0ld
+#EXTINF:0 group-title="Revisar" ,STAR LIFE
+http://45.179.140.242:8000/play/a0ld
+#EXTINF:0 group-title="Revisar" ,Star Life HD
+http://45.225.93.154:4000/play/foxlifehd
+#EXTINF:0 group-title="Revisar" ,STAR SERIES
+http://181.78.22.214:8000/play/a00l
+#EXTINF:0 group-title="Revisar" ,STAR SERIES
+http://181.78.22.214:8000/play/a00l
+#EXTINF:-1 group-title="Revisar" ,StarLife HD
+http://38.131.11.9:1080/play/a0e7
+#EXTINF:-1 group-title="Revisar" ,Studio HD
+http://38.131.11.9:1080/play/a0cx
+#EXTINF:-1 group-title="Revisar" ,SYFY
+http://149.62.183.208:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,SYFY HD
+http://149.62.183.208:8000/play/a024/index.m3u8
+#EXTINF:0 group-title="Revisar" ,SYFY HD
+http://190.108.93.62:8001/udp/224.2.2.2:10049
+#EXTINF:0 group-title="Revisar" ,TBS
+http://181.78.22.214:8000/play/a014
+#EXTINF:0 group-title="Revisar" ,TBS
+http://181.78.22.214:8000/play/a014
+#EXTINF:0 group-title="Revisar" ,TBS
+http://200.24.159.179:8500/play/a03m
+#EXTINF:-1 group-title="Revisar" ,TBS
+http://38.131.11.9:1080/play/a038
+#EXTINF:0 group-title="Revisar" ,TBS
+http://45.179.140.242:8000/play/a0ji
+#EXTINF:0 group-title="Revisar" ,TBS
+http://45.179.140.242:8000/play/a0ji
+#EXTINF:0 group-title="Revisar" ,TC Television
+http://200.24.159.179:8500/play/a02d
+#EXTINF:0 group-title="Revisar" ,TC Television
+http://45.179.140.242:8000/play/a0j0
+#EXTINF:0 group-title="Revisar" ,TC Television
+http://45.179.140.242:8000/play/a0j0
+#EXTINF:-1 group-title="Revisar" ,TCM HD
+http://149.62.183.208:8000/play/a03j/index.m3u8
+#EXTINF:0 group-title="Revisar" ,TELE NOSTALGIA HD
+http://190.108.93.62:8001/udp/224.2.2.2:10077
+#EXTINF:0 group-title="Revisar" ,Teleamazonas
+http://200.24.159.179:8500/play/a02h
+#EXTINF:0 group-title="Revisar" ,Teleamazonas
+http://45.179.140.242:8000/play/a0j4
+#EXTINF:0 group-title="Revisar" ,Teleamazonas
+http://45.179.140.242:8000/play/a0j4
+#EXTINF:0 group-title="Revisar" ,Teleantioquia
+http://181.78.22.214:8000/play/a01n
+#EXTINF:0 group-title="Revisar" ,Teleantioquia
+http://181.78.22.214:8000/play/a01n
+#EXTINF:-1 group-title="Revisar" ,TELECINCO
+http://149.62.183.208:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,TELECINCO HD
+http://149.62.183.208:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,TELEDEPORTE
+http://149.62.183.208:8000/play/a02z/index.m3u8
+#EXTINF:0 group-title="Revisar" ,Telefuturo
+http://45.225.93.154:8000/play/a032
+#EXTINF:0 group-title="Revisar" ,Telepacifico
+http://181.78.22.214:8000/play/a01p
+#EXTINF:0 group-title="Revisar" ,Telepacifico
+http://181.78.22.214:8000/play/a01p
+#EXTINF:0 group-title="Revisar" ,TELESUR
+http://190.108.93.62:8001/udp/224.2.2.2:10084
+#EXTINF:-1 group-title="Revisar" ,TeleTrak
+http://38.131.11.9:1080/play/a0cz
+#EXTINF:0 group-title="Revisar" ,TELEVEN
+http://190.108.93.62:8001/udp/224.2.2.2:10065
+#EXTINF:0 group-title="Revisar" ,TLC
+http://181.78.22.214:8000/play/a01u
+#EXTINF:0 group-title="Revisar" ,TLC
+http://181.78.22.214:8000/play/a01u
+#EXTINF:0 group-title="Revisar" ,TLC
+http://45.179.140.242:8000/play/a0ii
+#EXTINF:0 group-title="Revisar" ,TLC
+http://45.179.140.242:8000/play/a0ii
+#EXTINF:0 group-title="Revisar" ,TLT
+http://190.108.93.62:8001/udp/224.2.2.2:10063
+#EXTINF:-1 group-title="Revisar" ,TNT
+http://149.62.183.208:8000/play/a02y/index.m3u8
+#EXTINF:0 group-title="Revisar" ,TNT
+http://181.78.22.214:8000/play/a00e
+#EXTINF:0 group-title="Revisar" ,TNT
+http://181.78.22.214:8000/play/a00e
+#EXTINF:0 group-title="Revisar" ,TNT
+http://200.24.159.179:8500/play/a00g
+#EXTINF:-1 group-title="Revisar" ,TNT
+http://38.131.11.9:1080/play/a013
+#EXTINF:0 group-title="Revisar" ,TNT
+http://45.179.140.242:8000/play/a0k1
+#EXTINF:0 group-title="Revisar" ,TNT
+http://45.179.140.242:8000/play/a0k1
+#EXTINF:0 group-title="Revisar" ,TNT
+http://45.225.93.154:8000/play/a02z
+#EXTINF:-1 group-title="Revisar" ,TNT HD
+http://149.62.183.208:8000/play/a03k/index.m3u8
+#EXTINF:0 group-title="Revisar" ,TNT HD
+http://45.225.93.154:4000/play/a06w
+#EXTINF:-1 group-title="Revisar" ,TNT Series HD
+http://38.131.11.9:1080/play/a0dg
+#EXTINF:0 group-title="Revisar" ,TNT Series HD
+http://45.225.93.154:4000/play/a0bf
+#EXTINF:0 group-title="Revisar" ,TNT SPORTS HD
+http://45.225.93.154:4000/play/cdfhd
+#EXTINF:-1 group-title="Revisar" ,Tooncast
+http://38.131.11.9:1080/play/a0dl
+#EXTINF:-1 group-title="Revisar" ,TOROS
+http://149.62.183.208:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="Revisar" ,TOROS HD
+http://149.62.183.208:8000/play/a028/index.m3u8
+#EXTINF:0 group-title="Revisar" ,Trace Brazuca HD
+http://189.11.143.160:8001/play/a00v
+#EXTINF:-1 group-title="Revisar" ,Travel and Living
+http://38.131.11.9:1080/play/a030
+#EXTINF:0 group-title="Revisar" ,Travel and Living
+http://45.225.93.154:8000/play/a02e
+#EXTINF:0 group-title="Revisar" ,TRO
+http://181.78.22.214:8000/play/a01e
+#EXTINF:0 group-title="Revisar" ,TRO
+http://181.78.22.214:8000/play/a01e
+#EXTINF:0 group-title="Revisar" ,TRU TV
+http://181.176.148.142:8000/play/a01q
+#EXTINF:0 group-title="Revisar" ,TRU TV
+http://181.176.148.142:8000/play/a01q
+#EXTINF:0 group-title="Revisar" ,TRU TV
+http://181.176.148.142:8000/play/a01q
+#EXTINF:0 group-title="Revisar" ,TRU TV
+http://190.108.93.62:8001/udp/224.2.2.2:10047
+#EXTINF:-1 group-title="Revisar" ,TruTv HD
+http://38.131.11.9:1080/play/a0dx
+#EXTINF:0 group-title="Revisar" ,TRUTV HD
+http://45.225.93.154:4000/play/a073
+#EXTINF:0 group-title="Revisar" ,TV AGRO
+http://190.108.93.62:8001/udp/224.2.2.2:10031
+#EXTINF:-1 group-title="Revisar" ,Tv Peru
+http://38.131.11.9:1080/play/a0d3
+#EXTINF:0 group-title="Revisar" ,TV PERU HD
+http://190.108.93.62:8001/udp/224.2.2.2:10008
+#EXTINF:0 group-title="Revisar" ,TV RÆ Tim Bum HD
+http://189.11.143.160:8001/play/a01a
+#EXTINF:0 group-title="Revisar" ,TV! Educa Chile
+http://45.225.93.154:4000/play/a057
+#EXTINF:0 group-title="Revisar" ,TV+ HD
+http://200.24.159.179:8500/play/a03h
+#EXTINF:0 group-title="Revisar" ,TV+ HD
+http://45.225.93.154:4000/play/a058
+#EXTINF:-1 group-title="Revisar" ,TVE
+http://38.131.11.9:1080/play/a03g
+#EXTINF:0 group-title="Revisar" ,TVE
+http://45.179.140.242:8000/play/a0jr
+#EXTINF:0 group-title="Revisar" ,TVE
+http://45.179.140.242:8000/play/a0jr
+#EXTINF:0 group-title="Revisar" ,TVE
+http://45.225.93.154:8000/play/a034
+#EXTINF:-1 group-title="Revisar" ,TVN
+http://38.131.11.9:1080/play/a006
+#EXTINF:0 group-title="Revisar" ,TVN
+http://45.225.93.154:8000/play/a01j
+#EXTINF:0 group-title="Revisar" ,TVN HD
+http://45.225.93.154:4000/play/a06r
+#EXTINF:0 group-title="Revisar" ,TyC
+http://45.179.140.242:8000/play/a0k7
+#EXTINF:0 group-title="Revisar" ,TyC
+http://45.179.140.242:8000/play/a0k7
+#EXTINF:-1 group-title="Revisar" ,TyC Sports
+http://38.131.11.9:1080/play/a0au
+#EXTINF:0 group-title="Revisar" ,TyC Sports
+http://45.225.93.154:8000/play/a02a
+#EXTINF:0 group-title="Revisar" ,UCI
+http://181.176.148.142:8000/play/a005
+#EXTINF:0 group-title="Revisar" ,UCI
+http://181.176.148.142:8000/play/a005
+#EXTINF:0 group-title="Revisar" ,UCI
+http://181.176.148.142:8000/play/a005
+#EXTINF:0 group-title="Revisar" ,UCI
+http://190.108.93.62:8001/udp/224.2.2.2:10005
+#EXTINF:0 group-title="Revisar" ,Universal
+http://181.78.22.214:8000/play/a006
+#EXTINF:0 group-title="Revisar" ,Universal
+http://181.78.22.214:8000/play/a006
+#EXTINF:-1 group-title="Revisar" ,Universal
+http://38.131.11.9:1080/play/a00t
+#EXTINF:0 group-title="Revisar" ,Universal
+http://45.179.140.242:8000/play/a0jw
+#EXTINF:0 group-title="Revisar" ,Universal
+http://45.179.140.242:8000/play/a0jw
+#EXTINF:0 group-title="Revisar" ,Universal
+http://45.225.93.154:8000/play/a02p
+#EXTINF:0 group-title="Revisar" ,UNIVERSAL CHANNEL HD
+http://190.108.93.62:8001/udp/224.2.2.2:10046
+#EXTINF:0 group-title="Revisar" ,UNIVERSAL CHANNEL HD
+http://45.225.93.154:4000/play/a0ap
+#EXTINF:0 group-title="Revisar" ,Universal Cinema SD
+http://181.78.22.214:8000/play/a024
+#EXTINF:0 group-title="Revisar" ,Universal Cinema SD
+http://181.78.22.214:8000/play/a024
+#EXTINF:0 group-title="Revisar" ,Universal Comedy SD
+http://181.78.22.214:8000/play/a025
+#EXTINF:0 group-title="Revisar" ,Universal Comedy SD
+http://181.78.22.214:8000/play/a025
+#EXTINF:0 group-title="Revisar" ,Universal Premiere SD
+http://181.78.22.214:8000/play/a023
+#EXTINF:0 group-title="Revisar" ,Universal Premiere SD
+http://181.78.22.214:8000/play/a023
+#EXTINF:0 group-title="Revisar" ,VARIADOS-Entertainment
+http://190.187.200.69:8000/play/a01b
+#EXTINF:0 group-title="Revisar" ,VARIADOS-Entertainment
+http://190.187.200.69:8000/play/a01b
+#EXTINF:0 group-title="Revisar" ,VARIADOS-RCN Novelas
+http://190.187.200.69:8000/play/a01n
+#EXTINF:0 group-title="Revisar" ,VARIADOS-RCN Novelas
+http://190.187.200.69:8000/play/a01n
+#EXTINF:0 group-title="Revisar" ,VARIADOS-STAR LIFE
+http://190.187.200.69:8000/play/a00f
+#EXTINF:0 group-title="Revisar" ,VARIADOS-STAR LIFE
+http://190.187.200.69:8000/play/a00f
+#EXTINF:0 group-title="Revisar" ,VARIADOS-Telemundo
+http://190.187.200.69:8000/play/a01m
+#EXTINF:0 group-title="Revisar" ,VARIADOS-Telemundo
+http://190.187.200.69:8000/play/a01m
+#EXTINF:0 group-title="Revisar" ,Venus
+http://45.225.93.154:8000/play/a02d
+#EXTINF:-1 group-title="Revisar" ,ViaX
+http://38.131.11.9:1080/play/a031
+#EXTINF:0 group-title="Revisar" ,ViaX
+http://45.225.93.154:8000/play/a02f
+#EXTINF:0 group-title="Revisar" ,ViaX (clone)
+http://45.225.93.154:8000/play/a03m
+#EXTINF:0 group-title="Revisar" ,Warner
+http://181.78.22.214:8000/play/a00w
+#EXTINF:0 group-title="Revisar" ,Warner
+http://181.78.22.214:8000/play/a00w
+#EXTINF:0 group-title="Revisar" ,Warner
+http://200.24.159.179:8500/play/a01a
+#EXTINF:-1 group-title="Revisar" ,Warner
+http://38.131.11.9:1080/play/a05i
+#EXTINF:0 group-title="Revisar" ,Warner
+http://45.179.140.242:8000/play/a0ia
+#EXTINF:0 group-title="Revisar" ,Warner
+http://45.179.140.242:8000/play/a0ia
+#EXTINF:0 group-title="Revisar" ,Warner
+http://45.225.93.154:8000/play/a024
+#EXTINF:0 group-title="Revisar" ,Warner Channel HD
+http://45.225.93.154:4000/play/a06e
+#EXTINF:0 group-title="Revisar" ,WILLAX
+http://181.176.148.142:8000/play/a003
+#EXTINF:0 group-title="Revisar" ,WILLAX
+http://181.176.148.142:8000/play/a003
+#EXTINF:0 group-title="Revisar" ,WILLAX
+http://181.176.148.142:8000/play/a003
+#EXTINF:0 group-title="Revisar" ,WILLAX HD
+http://190.108.93.62:8001/udp/224.2.2.2:10012
+#EXTINF:0 group-title="Revisar" ,Win
+http://181.78.22.214:8000/play/a01o
+#EXTINF:0 group-title="Revisar" ,Win
+http://181.78.22.214:8000/play/a01o
+#EXTINF:-1 group-title="Revisar" ,Wobi
+http://38.131.11.9:1080/play/a0cu
+#EXTINF:0 group-title="Revisar" ,Z PREMIUM
+http://190.108.93.62:8001/udp/224.2.2.2:10075
+#EXTINF:0 group-title="Revisar" ,Zona Latina
+http://181.78.22.214:8000/play/a01x
+#EXTINF:0 group-title="Revisar" ,Zona Latina
+http://181.78.22.214:8000/play/a01x
+#EXTINF:-1 group-title="Revisar" ,Zona Latina
+http://38.131.11.9:1080/play/a00x
+#EXTINF:0 group-title="Revisar" ,Zona Latina
+http://45.179.140.242:8000/play/a0jz
+#EXTINF:0 group-title="Revisar" ,Zona Latina
+http://45.179.140.242:8000/play/a0jz
+#EXTINF:0 group-title="Revisar" ,Zona Latina
+http://45.225.93.154:8000/play/a02t
+#EXTINF:0 group-title="Revisar" ,Zoom
+http://181.78.22.214:8000/play/a01d
+#EXTINF:0 group-title="Revisar" ,Zoom
+http://181.78.22.214:8000/play/a01d
+#EXTINF:0 group-title="Telenovelas" ,PASIONES HD
+http://190.108.93.62:8001/udp/224.2.2.2:10081
+#EXTINF:-1 group-title="Telenovelas" ,Pasiones HD
+http://38.131.11.9:1080/play/a0di
+#EXTINF:0 group-title="Telenovelas" ,Pasiones HD
+http://45.225.93.154:4000/play/pasioneshd
+#EXTINF:0 group-title="Telenovelas" ,RCN Novelas
+http://181.78.22.214:8000/play/a012
+#EXTINF:0 group-title="Telenovelas" ,RCN Novelas
+http://181.78.22.214:8000/play/a012
+#EXTINF:0 group-title="Telenovelas" ,RCN Novelas
+http://200.24.159.179:8500/play/a03k
+#EXTINF:-1 group-title="Telenovelas" ,RCN Novelas
+http://38.131.11.9:1080/play/a037
+#EXTINF:0 group-title="Telenovelas" ,RCN Novelas
+http://45.179.140.242:8000/play/a0jf
+#EXTINF:0 group-title="Telenovelas" ,Telemundo
+http://181.78.22.214:8000/play/a01t
+#EXTINF:0 group-title="Telenovelas" ,Telemundo
+http://181.78.22.214:8000/play/a01t
+#EXTINF:0 group-title="Telenovelas" ,Telemundo
+http://200.24.159.179:8500/play/a01p
+#EXTINF:-1 group-title="Telenovelas" ,Telemundo
+http://38.131.11.9:1080/play/a035
+#EXTINF:0 group-title="Telenovelas" ,Telemundo
+http://45.179.140.242:8000/play/a0il
+#EXTINF:0 group-title="Telenovelas" ,TELENOVELAS
+http://181.176.148.142:8000/play/a00e
+#EXTINF:0 group-title="Telenovelas" ,TELENOVELAS
+http://181.176.148.142:8000/play/a00e
+#EXTINF:0 group-title="Telenovelas" ,TELENOVELAS
+http://181.176.148.142:8000/play/a00e
+#EXTINF:0 group-title="Telenovelas" ,TELENOVELAS
+http://190.108.93.62:8001/udp/224.2.2.2:10053
+#EXTINF:-1 group-title="UK" tvg-id="4seven.uk" tvg-name="4seven SD+" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/4seven.uk.png?raw=true" ,4seven
+http://45.153.35.224:8000/play/a01n
+#EXTINF:-1 group-title="UK" tvg-id="DAYSTAR.HD.uk" tvg-name="Daystar FullHD" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/daystar.network.us.png?raw=true" ,Daystar
+http://45.153.35.224:8000/play/a00v
+#EXTINF:-1 group-title="UK" tvg-id="ITV.HD.uk" tvg-name="ITV FullHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/itv-uk.png?raw=true" ,ITV
+http://45.153.35.224:8000/play/a00c
+#EXTINF:-1 group-title="UK" tvg-id="ITV.HD.uk" tvg-name="ITV FullHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/itv-uk.png?raw=true" ,ITV
+http://45.153.35.224:8000/play/a00n
+#EXTINF:-1 group-title="UK" tvg-id="ITV.HD.uk" tvg-name="ITV Anglia West FullHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/itv-uk.png?raw=true" ,ITV Anglia West
+http://45.153.35.224:8000/play/a01f
+#EXTINF:-1 group-title="UK" tvg-id="ITV.HD.uk" tvg-name="ITV C East FullHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/itv-uk.png?raw=true" ,ITV C East
+http://45.153.35.224:8000/play/a01g
+#EXTINF:-1 group-title="UK" tvg-id="ITV.HD.uk" tvg-name="ITV Med South FullHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/itv-uk.png?raw=true" ,ITV Med South
+http://45.153.35.224:8000/play/a01b
+#EXTINF:-1 group-title="UK" tvg-id="Pick.uk" tvg-name="Pick SD+" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/pick-uk.png?raw=true" ,Pick
+http://45.153.35.224:8000/play/a00j
+#EXTINF:-1 group-title="UK" tvg-id="Pick+1.uk" tvg-name="Pick +1 SD+" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/pick-plus-uk.png?raw=true" ,Pick +1
+http://45.153.35.224:8000/play/a00k
+#EXTINF:-1 group-title="UK" tvg-id="S4C.uk" tvg-name="S4C HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/s4c-uk.png?raw=true" ,S4C
+http://45.153.35.224:8000/play/a00p
+#EXTINF:-1 group-title="UK" tvg-id="Smithsonian.HD.uk" tvg-name="Smithsonian Channel FullHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/smithsonian-channel-uk.png?raw=true" ,Smithsonian Channel
+http://45.153.35.224:8000/play/a00e
+#EXTINF:-1 group-title="UK" tvg-id="CHSTV.uk" tvg-name="STV FullHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/stv-uk.png?raw=true" ,STV
+http://45.153.35.224:8000/play/a017
+#EXTINF:-1 group-title="UK" tvg-name="Utv FullHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/u-tv-uk.png?raw=true" ,Utv
+http://45.153.35.224:8000/play/a018
+#EXTINF:-1 group-title="UK" tvg-id="Zee.TV.uk" tvg-name="WION FullHD" tvg-logo="https://cdn.wionews.com/images/wion-logo.png" ,WION
+http://45.153.35.224:8000/play/a01j
+#EXTINF:-1 group-title="UK Documentaries" tvg-id="QUEST.uk" tvg-name="QUEST FullHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/quest-uk.png?raw=true" ,QUEST
+http://45.153.35.224:8000/play/a00s
+#EXTINF:-1 group-title="UK News" tvg-id="Bloomberg.HD.uk" tvg-name="Bloomberg FullHD" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/bloomberg.uk.png%20.png?raw=true" ,Bloomberg
+http://45.153.35.224:8000/play/a00y
+#EXTINF:-1 group-title="UK News" tvg-id="CNBC.uk" tvg-name="CNBC FullHD" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/cnbc.uk.png?raw=true" ,CNBC
+http://45.153.35.224:8000/play/a00b
+#EXTINF:-1 group-title="UK News" tvg-id="FRANCE.24.HD.uk" tvg-name="FRANCE 24 FullHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/france/france-24-fr.png?raw=true" ,FRANCE 24
+http://45.153.35.224:8000/play/a00w
+#EXTINF:-1 group-title="UK News" tvg-id="Sky.News.HD.uk" tvg-name="Sky News SD+" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-news-uk.png?raw=true" ,Sky News
+http://45.153.35.224:8000/play/a00l
+#EXTINF:-1 group-title="UK News" tvg-id="TRT.World.HD.uk" tvg-name="TRT World FullHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/320px-TRT_World.svg.png" ,TRT World
+http://45.153.35.224:8000/play/a00g
+#EXTINF:-1 group-title="UK Sports" tvg-id="FreeSports.HD.uk" tvg-name="FreeSports FullHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/free-sports-uk.png?raw=true" ,FreeSports
+http://45.153.35.224:8000/play/a00r
+#EXTINF:-1 group-title="Deportes" tvg-id="BARCA TV" tvg-name="Barça TV 576" audio-track="Español" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/BarcaTV.es.png?raw=true" ,Barça TV
+http://149.62.183.208:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-id="DAZN 1" tvg-name="DAZN 1 1080" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true" ,DAZN 1 HD
+http://149.62.183.208:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-id="DAZN 2" tvg-name="DAZN 2 1080" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-2-es.png?raw=true" ,DAZN 2
+http://149.62.183.208:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-id="DAZN.3.es" tvg-name="DAZN 3 1080" audio-track="Español" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/dazn-3-es.png?raw=true" ,DAZN 3
+http://149.62.183.208:8000/play/a04x/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-name="DAZN 4 1080" audio-track="Español" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/dazn-4-es.png?raw=true" ,DAZN 4
+http://149.62.183.208:8000/play/a04w/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-id="DAZN.F1.4K.es" tvg-name="DAZN F1 1080" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-f1-es.png?raw=true" ,DAZN F1
+http://149.62.183.208:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-id="Eurosport.1.es" tvg-name="EuroSport 1 576" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true" ,EuroSport 1
+http://149.62.183.208:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-id="Eurosport.1.es" tvg-name="EuroSport 1 1080" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true" ,EuroSport 1
+http://149.62.183.208:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-id="Eurosport.2.es" tvg-name="EuroSport 2 576" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-2-es.png?raw=true" ,EuroSport 2
+http://149.62.183.208:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-id="Nat.Geo.Wild.es" tvg-name="Nat Geo Wild 1080" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
+http://149.62.183.208:8000/play/a03l/index.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-id="DISCOVERY" tvg-name="Discovery Channel 576" audio-track="Español" tvg-logo="https://raw.githubusercontent.com/ZMIPTV/Tivimate/main/Logos/discovery-channel-es.png?raw=true" ,Discovery Channel
+http://149.62.183.208:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-id="Historia.es" tvg-name="Historia 576" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,Historia
+http://149.62.183.208:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-id="National.Geographic.es" tvg-name="Nat Geo 1080" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://149.62.183.208:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-id="Odisea.es" tvg-name="Odisea 576" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/odisea-es.png?raw=true" ,Odisea
+http://149.62.183.208:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-id="amc.es" tvg-name="AMC 1080" audio-track="Español" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/AMC.es.png?raw=true" ,AMC
+http://149.62.183.208:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-id="Calle13.es" tvg-name="CALLE 13 1080" audio-track="Español" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/calle-13-es.png?raw=true" ,Calle 13
+http://149.62.183.208:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-id="Hollywood.es" tvg-name="Canal Hollywood 1080" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true" ,Canal Hollywood
+http://149.62.183.208:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-id="Hollywood.es" tvg-name="Canal Hollywood 576" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true" ,Canal Hollywood
+http://149.62.183.208:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-id="Paramount.Channel.es" tvg-name="Paramount Channel 576" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/paramount-network-es.png?raw=true" ,Paramount Channel
+http://149.62.183.208:8000/play/a033/index.m3u8
+#EXTINF:125 group-title="Deportes" tvg-id="beIN.SPORTS.XTRA.en.español.us" tvg-name="beIN Sports XTRA ñ 480" audio-track="Latino" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" ,beIN Sports XTRA ñ
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
+#EXTINF:0 group-title="Deportes" tvg-id="Claro.Sports.HDTV.(CSPORTHD)..ec" tvg-name="Claro Sports 480" audio-track="Latino" tvg-logo="https://futbol-mexicano.fandom.com/es/wiki/Claro_Sports?file=ClaroSportsLogo.png" ,Claro Sports
+http://190.187.200.69:8000/play/a02a
+#EXTINF:0 group-title="Deportes" tvg-id="Claro.Sports.HDTV.(CSPORTHD)..ec" tvg-name="Claro Sports 480" audio-track="Latino" tvg-logo="https://futbol-mexicano.fandom.com/es/wiki/Claro_Sports?file=ClaroSportsLogo.png" ,Claro Sports
+http://45.179.140.242:8000/play/a0ht
+#EXTINF:0 group-title="Deportes" tvg-id="Claro.Sports.HDTV.(CSPORTHD)..ec" tvg-name="Claro Sports 480" audio-track="Latino" tvg-logo="https://futbol-mexicano.fandom.com/es/wiki/Claro_Sports?file=ClaroSportsLogo.png" ,Claro Sports
+http://45.179.140.242:8000/play/a0ht
+#EXTINF:0 group-title="Deportes" tvg-id="Claro.Sports.HDTV.(CSPORTHD)..ec" tvg-name="Claro Sports 480" audio-track="Latino" tvg-logo="https://futbol-mexicano.fandom.com/es/wiki/Claro_Sports?file=ClaroSportsLogo.png" ,Claro Sports
+http://45.225.93.154:8000/play/a030
+#EXTINF:0 group-title="Documentales" tvg-id="ANIMAL.PLANET.HD.(Animal.Planet.HD).pe" tvg-name="Animal Planet 1080" audio-track="Latino" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/animal.planet.ca.png?raw=true" ,Animal Planet
+http://181.176.148.142:8000/play/a012
+#EXTINF:0 group-title="Documentales" tvg-id="ANIMAL.PLANET.HD.(Animal.Planet.HD).pe" tvg-name="Animal Planet 480" audio-track="Latino" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/animal.planet.ca.png?raw=true" ,Animal Planet
+http://181.78.22.214:8000/play/a00v
+#EXTINF:0 group-title="Documentales" tvg-id="ANIMAL.PLANET.HD.(Animal.Planet.HD).pe" tvg-name="Animal Planet 480" audio-track="Latino" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/animal.planet.ca.png?raw=true" ,Animal Planet
+http://190.187.200.69:8000/play/a019
+#EXTINF:0 group-title="Documentales" tvg-id="ANIMAL.PLANET.HD.(Animal.Planet.HD).pe" tvg-name="Animal Planet 480" audio-track="Latino" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/animal.planet.ca.png?raw=true" ,Animal Planet
+http://45.225.93.154:8000/play/a023
+#EXTINF:0 group-title="Documentales" audio-track="Latino" ,Nat Geo
+http://190.187.200.69:8000/play/a00b
+#EXTINF:0 group-title="Documentales" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="Nat Geo 480" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://181.78.22.214:8000/play/a003
+#EXTINF:0 group-title="Documentales" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="Nat Geo 480" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://190.187.200.69:8000/play/a00b
+#EXTINF:0 group-title="Documentales" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="Nat Geo 480" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://45.179.140.242:8000/play/a0h2
+#EXTINF:0 group-title="Documentales" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="Nat Geo 480" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://45.225.93.154:8000/play/a02m
+#EXTINF:-1 group-title="Documentales" audio-track="Latino" ,Sun Chanel HD
+http://38.131.11.9:1080/play/a0de
+#EXTINF:-1 group-title="Peliculas" tvg-id="Amc.cl" tvg-name="AMC" audio-track="Latino" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515474_CAE1CCA6A8584D97.png" ,AMC
+http://38.131.11.9:1080/play/a0df
+#EXTINF:0 group-title="Peliculas" tvg-id="Amc.cl" tvg-name="AMC" audio-track="Latino" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515474_CAE1CCA6A8584D97.png" ,AMC
+http://45.225.93.154:4000/play/a056
+#EXTINF:0 group-title="Peliculas" tvg-id="Studio.Universal.cl" tvg-name="Studio Universal 1080" audio-track="Latino" tvg-logo="https://tvcable.fandom.com/es/wiki/Studio_Universal?file=Studio_Universal_2016.svg" ,Studio Universal
+http://190.108.93.62:8001/udp/224.2.2.2:10045
+#EXTINF:0 group-title="Peliculas" tvg-id="Studio.Universal.cl" tvg-name="Studio Universal 1080" audio-track="Latino" tvg-logo="https://tvcable.fandom.com/es/wiki/Studio_Universal?file=Studio_Universal_2016.svg" ,Studio Universal
+http://45.225.93.154:4000/play/studiouniversalhd
+#EXTINF:-1 group-title="UK" tvg-id="Channel.4.HD.uk" tvg-name="Channel 4 1080" audio-track="UK English" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/channel.4.uk.png?raw=true" ,Channel 4
+http://45.153.35.224:8000/play/a01m
