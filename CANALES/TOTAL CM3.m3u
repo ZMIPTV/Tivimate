@@ -1749,7 +1749,7 @@ http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/9734
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/98
 #EXTINF:0 group-title="Revisar" ,LATINO: TNT Series HD
 http://stariptv.org:8080/wael2021/123456/107217
-#EXTINF:0 group-title="Revisar" ,LATINO: NatGeo Wild HD
+#EXTINF:0 group-title="Documentales" tvg-id="National.Geographic.Wild.(Latin.America).(NGWILD)..cr" tvg-name="Nat Geo Wild 1080" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
 http://stariptv.org:8080/wael2021/123456/107218
 #EXTINF:0 group-title="Revisar" ,LATINO: Multimedios Monterrey HD
 http://stariptv.org:8080/wael2021/123456/107219
