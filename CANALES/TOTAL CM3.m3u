@@ -4,26 +4,96 @@ http://45.225.93.154:4000/play/a0e1
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="3" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
 http://181.176.148.142:8000/play/a013
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
-http://45.236.175.117:9600/play/a00r
+http://181.78.22.214:8000/play/a00u
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
 http://190.187.200.69:8000/play/a018
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
-http://45.225.93.154:8000/play/a022
+http://200.24.159.179:8500/play/a018
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
 http://45.179.140.242:8000/play/a0i8
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
-http://181.78.22.214:8000/play/a00u
+http://45.225.93.154:8000/play/a022
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
-http://200.24.159.179:8500/play/a018
-#EXTINF:-1 group-title="No Funciona" tvg-id="Discovery.cl" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
-http://82.114.82.138:8881/play/a045/index.m3u8
+http://45.236.175.117:9600/play/a00r
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="ID.-.Investigation.Discovery.(Invest.DiscoveryHD).co" tvg-name="3" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true" ,Discovery ID
 http://181.176.148.142:8000/play/a014
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="ID.-.Investigation.Discovery.(Invest.DiscoveryHD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true" ,Discovery ID
 http://181.78.22.214:8000/play/a013
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="ID.-.Investigation.Discovery.(Invest.DiscoveryHD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true" ,Discovery ID
 http://45.236.175.117:9600/play/a028
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.Theater.(Theater).co" tvg-name="1" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTheater.mx.png?raw=true" ,Discovery Theater
+http://45.225.93.154:4000/play/a0am
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.Turbo.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true" ,Discovery Turbo
+http://181.176.148.142:8000/play/a015
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.Turbo.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true" ,Discovery Turbo
+http://181.78.22.214:8000/play/a01r
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.Turbo.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true" ,Discovery Turbo
+http://190.187.200.69:8000/play/a027
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.Turbo.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true" ,Discovery Turbo
+http://200.24.159.179:8500/play/a039
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.Turbo.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true" ,Discovery Turbo
+http://45.179.140.242:8000/play/a0hi
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.Turbo.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true" ,Discovery Turbo
+http://45.225.93.154:8000/play/a03e
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.Turbo.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true" ,Discovery Turbo
+http://45.236.175.117:9600/play/a02r
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="DISCOVERY.WORLD.HD.(Discovery.World.HD).co" tvg-name="1" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryWorld.br.png?raw=true" ,Discovery World
+http://45.225.93.154:4000/play/a05b
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="1" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
+http://45.225.93.154:4000/play/a06b
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="3" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
+http://181.176.148.142:8000/play/a01p
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
+http://190.187.200.69:8000/play/a00c
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
+http://181.78.22.214:8000/play/a004
+#EXTINF:0 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
+http://45.179.140.242:8000/play/a0ju
+#EXTINF:-1 group-title="No Funciona" tvg-id="Discovery.cl" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
+http://82.114.82.138:8881/play/a045/index.m3u8
+#EXTINF:-1 group-title="No Funciona" tvg-id="ID.-.Investigation.Discovery.(Invest.DiscoveryHD).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true" ,Discovery ID
+http://190.108.93.62:8001/udp/224.2.2.2:10026
+#EXTINF:-1 group-title="No Funciona" tvg-id="ID.-.Investigation.Discovery.(Invest.DiscoveryHD).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true" ,Discovery ID
+http://38.131.11.9:1080/play/a01a
+#EXTINF:-1 group-title="No Funciona" tvg-id="ID.-.Investigation.Discovery.(Invest.DiscoveryHD).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true" ,Discovery ID
+http://45.179.140.242:8000/play/a0jg
 #EXTINF:-1 group-title="No Funciona" tvg-id="ID.-.Investigation.Discovery.(Invest.DiscoveryHD).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true" ,Discovery ID
 http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
 #EXTINF:-1 group-title="No Funciona" tvg-id="ID.-.Investigation.Discovery.(Invest.DiscoveryHD).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true" ,Discovery ID
-http://45.179.140.242:8000/play/a0jg
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/63
+#EXTINF:-1 group-title="No Funciona" tvg-id="ID.-.Investigation.Discovery.(Invest.DiscoveryHD).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true" ,Discovery ID
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/861
+#EXTINF:0 group-title="No Funciona" tvg-id="ID.-.Investigation.Discovery.(Invest.DiscoveryHD).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true" ,Discovery ID
+http://stariptv.org:8080/wael2021/123456/107235
+#EXTINF:-1 group-title="No Funciona" tvg-id="Discovery.Science.cl" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-science-icon-shade-us.png?raw=true" ,Discovery Science
+http://38.131.11.9:1080/play/a0dr
+#EXTINF:-1 group-title="No Funciona" tvg-id="Discovery.Science.cl" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-science-icon-shade-us.png?raw=true" ,Discovery Science
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/9683
+#EXTINF:0 group-title="No Funciona" tvg-id="Discovery.Science.cl" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-science-icon-shade-us.png?raw=true" ,Discovery Science
+http://stariptv.org:8080/wael2021/123456/107316
+#EXTINF:-1 group-title="No Funciona" tvg-id="Discovery.Theater.(Theater).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTheater.mx.png?raw=true" ,Discovery Theater
+http://38.131.11.9:1080/play/a0dv
+#EXTINF:-1 group-title="No Funciona" tvg-id="Discovery.Theater.(Theater).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTheater.mx.png?raw=true" ,Discovery Theater
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/13
+#EXTINF:-1 group-title="No Funciona" tvg-id="Discovery.Theater.(Theater).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTheater.mx.png?raw=true" ,Discovery Theater
+http://stariptv.org:8080/wael2021/123456/107233
+#EXTINF:-1 group-title="No Funciona" tvg-id="Discovery.Turbo.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true" ,Discovery Turbo
+http://stariptv.org:8080/wael2021/123456/107231
+#EXTINF:-1 group-title="No Funciona" tvg-id="Discovery.Turbo.cl" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true" ,Discovery Turbo
+http://190.108.93.62:8001/udp/224.2.2.2:10029
+#EXTINF:-1 group-title="No Funciona" tvg-id="Discovery.Turbo.cl" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true" ,Discovery Turbo
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/6574
+#EXTINF:-1 group-title="No Funciona" tvg-id="DISCOVERY.WORLD.HD.(Discovery.World.HD).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryWorld.br.png?raw=true" ,Discovery World
+http://38.131.11.9:1080/play/a0dw
+#EXTINF:-1 group-title="No Funciona" tvg-id="DISCOVERY.WORLD.HD.(Discovery.World.HD).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryWorld.br.png?raw=true" ,Discovery World
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/290
+#EXTINF:-1 group-title="No Funciona" tvg-id="DISCOVERY.WORLD.HD.(Discovery.World.HD).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryWorld.br.png?raw=true" ,Discovery World
+http://stariptv.org:8080/wael2021/123456/107317
+#EXTINF:-1 group-title="No Funciona" tvg-id="History.Channel.(History.Col.IPTV).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/10080
+#EXTINF:-1 group-title="No Funciona" tvg-id="History.cl" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
+http://190.108.93.62:8001/udp/224.2.2.2:10022
+#EXTINF:-1 group-title="No Funciona" tvg-id="History.Channel.(History.Col.IPTV).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/98
+#EXTINF:-1 group-title="No Funciona" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
+http://38.131.11.9:1080/play/a00r
