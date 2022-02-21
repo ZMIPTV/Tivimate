@@ -1,4 +1,12 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="ANIMAL.PLANET.HD.(Animal.Planet.HD).pe" tvg-name="1" audio-track="Latino" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/animal.planet.ca.png?raw=true" ,Animal Planet
+http://181.176.148.142:8000/play/a012
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="ANIMAL.PLANET.HD.(Animal.Planet.HD).pe" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/animal.planet.ca.png?raw=true" ,Animal Planet
+http://45.179.140.242:8000/play/a0i9
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="ANIMAL.PLANET.HD.(Animal.Planet.HD).pe" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/animal.planet.ca.png?raw=true" ,Animal Planet
+http://181.78.22.214:8000/play/a00v
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="ANIMAL.PLANET.HD.(Animal.Planet.HD).pe" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/animal.planet.ca.png?raw=true" ,Animal Planet
+http://190.187.200.69:8000/play/a019
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="1" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
 http://45.225.93.154:4000/play/a0e1
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="3" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
@@ -21,6 +29,8 @@ http://181.176.148.142:8000/play/a014
 http://181.78.22.214:8000/play/a013
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="ID.-.Investigation.Discovery.(Invest.DiscoveryHD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true" ,Discovery ID
 http://45.236.175.117:9600/play/a028
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.Theater.(Theater).co" tvg-name="1" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTheater.mx.png?raw=true" ,Discovery Theater
+http://45.225.93.154:4000/play/a0am
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.Theater.(Theater).co" tvg-name="1" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTheater.mx.png?raw=true" ,Discovery Theater
 http://45.225.93.154:4000/play/a0am
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.Turbo.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true" ,Discovery Turbo
@@ -71,6 +81,14 @@ http://45.225.93.154:8000/play/a02m
 http://45.236.175.117:9600/play/a01o
 #EXTINF:0 group-title="Documentales Latino" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="3" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
 http://stariptv.org:8080/wael2021/123456/107218
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="Sun.Channel.cl" tvg-name="1" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/sun-Channel.png?raw=true" ,Sun Channel
+http://45.225.93.154:4000/play/a0aj
+#EXTINF:-1 group-title="No Funciona" tvg-id="ANIMAL.PLANET.HD.(Animal.Planet.HD).pe" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/animal.planet.ca.png?raw=true" ,Animal Planet
+http://190.108.93.62:8001/udp/224.2.2.2:10027
+#EXTINF:-1 group-title="No Funciona" tvg-id="ANIMAL.PLANET.HD.(Animal.Planet.HD).pe" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/animal.planet.ca.png?raw=true" ,Animal Planet
+http://45.225.93.154:4000/play/animalplanethd
+#EXTINF:-1 group-title="No Funciona" tvg-id="ANIMAL.PLANET.HD.(Animal.Planet.HD).pe" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/animal.planet.ca.png?raw=true" ,Animal Planet
+http://38.131.11.9:1080/play/a02h
 #EXTINF:-1 group-title="No Funciona" tvg-id="Discovery.cl" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
 http://190.108.93.62:8001/udp/224.2.2.2:10023
 #EXTINF:-1 group-title="No Funciona" tvg-id="Discovery.cl" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
@@ -118,9 +136,15 @@ http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/6574
 #EXTINF:-1 group-title="No Funciona" tvg-id="DISCOVERY.WORLD.HD.(Discovery.World.HD).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryWorld.br.png?raw=true" ,Discovery World
 http://38.131.11.9:1080/play/a0dw
 #EXTINF:-1 group-title="No Funciona" tvg-id="DISCOVERY.WORLD.HD.(Discovery.World.HD).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryWorld.br.png?raw=true" ,Discovery World
+http://38.131.11.9:1080/play/a0dw
+#EXTINF:-1 group-title="No Funciona" tvg-id="DISCOVERY.WORLD.HD.(Discovery.World.HD).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryWorld.br.png?raw=true" ,Discovery World
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/290
+#EXTINF:-1 group-title="No Funciona" tvg-id="DISCOVERY.WORLD.HD.(Discovery.World.HD).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryWorld.br.png?raw=true" ,Discovery World
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/290
 #EXTINF:-1 group-title="No Funciona" tvg-id="DISCOVERY.WORLD.HD.(Discovery.World.HD).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryWorld.br.png?raw=true" ,Discovery World
 http://stariptv.org:8080/wael2021/123456/107317
+#EXTINF:-1 group-title="No Funciona" tvg-id="Hgtv.cl" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/HGTV.png?raw=true" ,HGTV
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/10665
 #EXTINF:-1 group-title="No Funciona" tvg-id="History.cl" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
 http://190.108.93.62:8001/udp/224.2.2.2:10022
 #EXTINF:-1 group-title="No Funciona" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
@@ -155,6 +179,8 @@ http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/97
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/9734
 #EXTINF:-1 group-title="No Funciona" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
 http://stariptv.org:8080/wael2021/123456/107297
+#EXTINF:-1 group-title="No Funciona" tvg-id="72449" tvg-name="5" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/nat-geo-mundo-us.png?raw=true" ,Nat Geo Mundo
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/10637
 #EXTINF:-1 group-title="No Funciona" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
 http://149.62.183.208:8000/play/a04m/index.m3u8
 #EXTINF:-1 group-title="No Funciona" tvg-id="National.Geographic.Wild.(Latin.America).(NGWILD)..cr" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
@@ -165,6 +191,10 @@ http://38.131.11.9:1080/play/a0dt
 http://45.225.93.154:4000/play/a0an
 #EXTINF:-1 group-title="No Funciona" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/18
+#EXTINF:-1 group-title="No Funciona" tvg-id="Sun.Channel.cl" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/sun-Channel.png?raw=true" ,Sun Channel
+http://38.131.11.9:1080/play/a0de
+#EXTINF:-1 group-title="No Funciona" tvg-id="Sun.Channel.cl" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/sun-Channel.png?raw=true" ,Sun Channel
+http://190.108.93.62:8001/udp/224.2.2.2:10068
 #EXTINF:-1 group-title="USA Documentaries" tvg-id="Viasat.History.ru" tvg-name="3" audio-track="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png" ,Viasat History
 http://141.94.253.116:8000/play/a00b
 #EXTINF:-1 group-title="USA Documentaries" tvg-id="Viasat.History.ru" tvg-name="3" audio-track="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png" ,Viasat History
