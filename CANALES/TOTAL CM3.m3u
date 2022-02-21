@@ -44,13 +44,45 @@ http://45.225.93.154:4000/play/a06b
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="3" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
 http://181.176.148.142:8000/play/a01p
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
+http://181.78.22.214:8000/play/a004
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
 http://190.187.200.69:8000/play/a00c
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
-http://181.78.22.214:8000/play/a004
+http://200.24.159.179:8500/play/a004
 #EXTINF:0 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
 http://45.179.140.242:8000/play/a0ju
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
+http://45.225.93.154:8000/play/a02n
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
+http://45.236.175.117:9600/play/a01p
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.2.HD.(H2.HD).pe" tvg-name="1" audio-track="Latino" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/H2.us.png?raw=true" ,History 2
+http://45.225.93.154:4000/play/a0e4
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="1" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://45.225.93.154:4000/play/a05a
+#EXTINF:0 group-title="Documentales Latino" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://181.78.22.214:8000/play/a003
+#EXTINF:0 group-title="Documentales Latino" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://190.187.200.69:8000/play/a00b
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://200.24.159.179:8500/play/a003
+#EXTINF:0 group-title="Documentales Latino" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://45.225.93.154:8000/play/a02m
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://45.236.175.117:9600/play/a01o
+#EXTINF:0 group-title="Documentales Latino" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="3" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
+http://stariptv.org:8080/wael2021/123456/107218
+#EXTINF:-1 group-title="No Funciona" tvg-id="Discovery.cl" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
+http://190.108.93.62:8001/udp/224.2.2.2:10023
+#EXTINF:-1 group-title="No Funciona" tvg-id="Discovery.cl" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
+http://38.131.11.9:1080/play/a02g
 #EXTINF:-1 group-title="No Funciona" tvg-id="Discovery.cl" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
 http://82.114.82.138:8881/play/a045/index.m3u8
+#EXTINF:-1 group-title="No Funciona" tvg-id="Discovery.cl" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/195
+#EXTINF:-1 group-title="No Funciona" tvg-id="Discovery.cl" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/263
+#EXTINF:0 group-title="No Funciona" tvg-name="5" ,Discovery Civilization
+http://stariptv.org:8080/wael2021/123456/107236
 #EXTINF:-1 group-title="No Funciona" tvg-id="ID.-.Investigation.Discovery.(Invest.DiscoveryHD).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true" ,Discovery ID
 http://190.108.93.62:8001/udp/224.2.2.2:10026
 #EXTINF:-1 group-title="No Funciona" tvg-id="ID.-.Investigation.Discovery.(Invest.DiscoveryHD).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true" ,Discovery ID
@@ -89,11 +121,51 @@ http://38.131.11.9:1080/play/a0dw
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/290
 #EXTINF:-1 group-title="No Funciona" tvg-id="DISCOVERY.WORLD.HD.(Discovery.World.HD).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryWorld.br.png?raw=true" ,Discovery World
 http://stariptv.org:8080/wael2021/123456/107317
-#EXTINF:-1 group-title="No Funciona" tvg-id="History.Channel.(History.Col.IPTV).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
-http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/10080
 #EXTINF:-1 group-title="No Funciona" tvg-id="History.cl" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
 http://190.108.93.62:8001/udp/224.2.2.2:10022
+#EXTINF:-1 group-title="No Funciona" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
+http://38.131.11.9:1080/play/a00r
+#EXTINF:-1 group-title="No Funciona" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
+http://82.114.82.138:8881/play/a02i/index.m3u8
+#EXTINF:-1 group-title="No Funciona" tvg-id="History.Channel.(History.Col.IPTV).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/10080
 #EXTINF:-1 group-title="No Funciona" tvg-id="History.Channel.(History.Col.IPTV).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
 http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/98
 #EXTINF:-1 group-title="No Funciona" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
-http://38.131.11.9:1080/play/a00r
+http://stariptv.org:8080/wael2021/123456/107254
+#EXTINF:-1 group-title="No Funciona" tvg-id="HISTORY.2.HD.(H2.HD).pe" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/H2.us.png?raw=true" ,History 2
+http://189.11.143.160:8001/play/a00g
+#EXTINF:-1 group-title="No Funciona" tvg-id="HISTORY.2.HD.(H2.HD).pe" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/H2.us.png?raw=true" ,History 2
+http://38.131.11.9:1080/play/a0dd
+#EXTINF:-1 group-title="No Funciona" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://149.62.183.208:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="No Funciona" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://190.108.93.62:8001/udp/224.2.2.2:10024
+#EXTINF:-1 group-title="No Funciona" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://38.131.11.9:1080/play/a00q
+#EXTINF:-1 group-title="No Funciona" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://45.179.140.242:8000/play/a0h2
+#EXTINF:-1 group-title="No Funciona" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://82.114.82.138:8881/play/a01o/index.m3u8
+#EXTINF:-1 group-title="No Funciona" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://82.114.82.138:8881/play/a07w/index.m3u8
+#EXTINF:-1 group-title="No Funciona" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/97
+#EXTINF:-1 group-title="No Funciona" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/9734
+#EXTINF:-1 group-title="No Funciona" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://stariptv.org:8080/wael2021/123456/107297
+#EXTINF:-1 group-title="No Funciona" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
+http://149.62.183.208:8000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="No Funciona" tvg-id="National.Geographic.Wild.(Latin.America).(NGWILD)..cr" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
+http://190.108.93.62:8001/udp/224.2.2.2:10025
+#EXTINF:-1 group-title="No Funciona" tvg-id="Nat.Geo.Wild.es" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
+http://38.131.11.9:1080/play/a0dt
+#EXTINF:-1 group-title="No Funciona" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
+http://45.225.93.154:4000/play/a0an
+#EXTINF:-1 group-title="No Funciona" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
+http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/18
+#EXTINF:-1 group-title="USA Documentaries" tvg-id="Viasat.History.ru" tvg-name="3" audio-track="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png" ,Viasat History
+http://141.94.253.116:8000/play/a00b
+#EXTINF:-1 group-title="USA Documentaries" tvg-id="Viasat.History.ru" tvg-name="3" audio-track="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png" ,Viasat History
+http://91.185.3.218:4000/play/323
