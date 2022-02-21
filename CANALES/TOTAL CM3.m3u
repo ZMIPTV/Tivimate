@@ -1,4 +1,8 @@
 ﻿#EXTM3U
+#EXTINF:0 group-title="Documentales" tvg-id="Discovery.es" tvg-name="3" audio-track="Español" tvg-logo="https://raw.githubusercontent.com/ZMIPTV/Tivimate/main/Logos/discovery-channel-es.png?raw=true" ,Discovery Channel
+http://stariptv.org:8080/wael2021/123456/34040
+#EXTINF:-1 group-title="Documentales" tvg-id="Discovery.es" tvg-name="3" audio-track="Español" tvg-logo="https://raw.githubusercontent.com/ZMIPTV/Tivimate/main/Logos/discovery-channel-es.png?raw=true" ,Discovery Channel
+http://149.62.183.208:8000/play/a03w/index.m3u8
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="ANIMAL.PLANET.HD.(Animal.Planet.HD).pe" tvg-name="1" audio-track="Latino" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/animal.planet.ca.png?raw=true" ,Animal Planet
 http://181.176.148.142:8000/play/a012
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="ANIMAL.PLANET.HD.(Animal.Planet.HD).pe" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/animal.planet.ca.png?raw=true" ,Animal Planet
@@ -23,6 +27,8 @@ http://45.179.140.242:8000/play/a0i8
 http://45.225.93.154:8000/play/a022
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
 http://45.236.175.117:9600/play/a00r
+#EXTINF:0 group-title="Documentales Latino" tvg-id="Discovery.H.and.H.(Home.Health.HD).co" tvg-name="1" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-home-and-health-logo-4.png?raw=true" ,Discovery Home & Health
+http://45.225.93.154:4000/play/a0al
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="ID.-.Investigation.Discovery.(Invest.DiscoveryHD).co" tvg-name="3" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true" ,Discovery ID
 http://181.176.148.142:8000/play/a014
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="ID.-.Investigation.Discovery.(Invest.DiscoveryHD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true" ,Discovery ID
@@ -195,6 +201,22 @@ http://s1.iptv66.tv/F12435L36956A/Nr4M2IcGuV/18
 http://38.131.11.9:1080/play/a0de
 #EXTINF:-1 group-title="No Funciona" tvg-id="Sun.Channel.cl" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/sun-Channel.png?raw=true" ,Sun Channel
 http://190.108.93.62:8001/udp/224.2.2.2:10068
+#EXTINF:-1 group-title="No Funciona" tvg-id="TCM.es" tvg-name="1" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tcm-es.png?raw=true" ,TCM
+http://149.62.183.208:8000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="No Funciona" tvg-id="TCM.es" tvg-name="1" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tcm-es.png?raw=true" ,TCM
+http://149.62.183.208:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="No Funciona" tvg-id="TCM.es" tvg-name="1" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tcm-es.png?raw=true" ,TCM
+http://38.131.11.9:1080/play/a010
+#EXTINF:-1 group-title="No Funciona" tvg-id="TCM.(TCM).co" tvg-name="5" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/TCM%20Latin_America.png?raw=true" ,TCM
+http://stariptv.org:8080/wael2021/123456/107330
+#EXTINF:-1 group-title="No Funciona" tvg-id="TCM.(TCM).co" tvg-name="5" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/TCM%20Latin_America.png?raw=true" ,TCM
+http://45.179.140.242:8000/play/a0k0
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="TCM.(TCM).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/TCM%20Latin_America.png?raw=true" ,TCM
+http://181.78.22.214:8000/play/a00b
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="TCM.(TCM).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/TCM%20Latin_America.png?raw=true" ,TCM
+http://45.225.93.154:8000/play/a02w
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="TCM.(TCM).co" tvg-name="4" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/TCM%20Latin_America.png?raw=true" ,TCM
+http://45.236.175.117:9600/play/a01y
 #EXTINF:-1 group-title="USA Documentaries" tvg-id="Viasat.History.ru" tvg-name="3" audio-track="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png" ,Viasat History
 http://141.94.253.116:8000/play/a00b
 #EXTINF:-1 group-title="USA Documentaries" tvg-id="Viasat.History.ru" tvg-name="3" audio-track="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png" ,Viasat History
