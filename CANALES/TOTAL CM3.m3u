@@ -131,8 +131,22 @@ http://190.61.102.67:2000/play/a03k/index.m3u8
 http://190.61.102.67:2000/play/a015/index.m3u8
 #EXTINF:-1 group-title="Peliculas" tvg-id="TCM.es" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tcm-es.png?raw=true" ,TCM
 http://149.62.183.208:8000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Sony.(Sony.HD).co" tvg-name="1" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony Channel
+http://45.225.93.154:4000/play/a06d
 #EXTINF:-1 group-title="Peliculas Latino" tvg-id="Sony.(Sony.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony Channel
 http://190.61.102.67:2000/play/a002/index.m3u8
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Sony.(Sony.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony Channel
+http://190.187.200.69:8000/play/a022
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Sony.(Sony.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony Channel
+http://181.78.22.214:8000/play/a01j
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Sony.(Sony.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony Channel
+http://45.179.140.242:8000/play/a0j8
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Sony.(Sony.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony Channel
+http://45.225.93.154:8000/play/a038
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Sony.(Sony.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony Channel
+http://45.236.175.117:9600/play/a02f
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="STUDIO.UNIVERSAL.(Studio.Universal).co" tvg-name="1" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" ,Studio Universal
+http://45.225.93.154:4000/play/studiouniversalhd
 #EXTINF:-1 group-title="Peliculas Latino" tvg-id="STUDIO.UNIVERSAL.(Studio.Universal).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" ,Studio Universal
 http://190.61.102.67:2000/play/a04o/index.m3u8
 #EXTINF:-1 group-title="Peliculas Latino" tvg-id="TCM.(TCM).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/TCM%20Latin_America.png?raw=true" ,TCM
@@ -141,8 +155,28 @@ http://181.78.22.214:8000/play/a00b
 http://45.225.93.154:8000/play/a02w
 #EXTINF:-1 group-title="Peliculas Latino" tvg-id="TCM.(TCM).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/TCM%20Latin_America.png?raw=true" ,TCM
 http://45.236.175.117:9600/play/a01y
-#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Universal.TV.(Universal.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" ,Universal
+#EXTINF:0 group-title="Peliculas Latino" tvg-id="Universal.TV.(Universal.HD).co" tvg-name="1" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" ,Universal TV
+http://45.225.93.154:4000/play/a0ap
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Universal.TV.(Universal.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" ,Universal TV
 http://190.61.102.67:2000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Universal.TV.(Universal.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" ,Universal TV
+http://190.187.200.69:8000/play/a00e
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Universal.TV.(Universal.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" ,Universal TV
+http://181.78.22.214:8000/play/a006
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Universal.TV.(Universal.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" ,Universal TV
+http://45.179.140.242:8000/play/a0jw
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Universal.TV.(Universal.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" ,Universal TV
+http://45.225.93.154:8000/play/a02p
+#EXTINF:-1 group-title="Telenovelas" tvg-id="Pasiones.Hd.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" ,Pasiones
+http://45.225.93.154:4000/play/pasioneshd
+#EXTINF:-1 group-title="Telenovelas" tvg-id="Tlnovelas.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" ,Tlnovelas
+http://181.176.148.142:8000/play/a00e
+#EXTINF:-1 group-title="Telenovelas" tvg-id="Tlnovelas.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" ,Tlnovelas
+http://181.176.148.142:8000/play/a00e
+#EXTINF:-1 group-title="UK Sports" tvg-id="SkySp.Action.uk" tvg-name="1" audio-track="English" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/07/Sky-Sports-Action-FI.png" ,Sky Sports Action
+http://stariptv.org:8080/wael2021/123456/55389
+#EXTINF:-1 group-title="UK Sports" tvg-id="SkySp.Action.uk" tvg-name="1" audio-track="English" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/07/Sky-Sports-Action-FI.png" ,Sky Sports Action
+http://stariptv.org:8080/wael2021/123456/84930
 #EXTINF:-1 group-title="USA Documentaries" tvg-id="Viasat.History.ru" tvg-name="3" audio-track="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png" ,Viasat History
 http://141.94.253.116:8000/play/a00b
 #EXTINF:-1 group-title="USA Documentaries" tvg-id="Viasat.History.ru" tvg-name="3" audio-track="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png" ,Viasat History
