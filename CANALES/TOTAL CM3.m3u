@@ -1,6 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="Deportes" tvg-id="beinsportespanol.us" tvg-name="1" audio-track="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/320px-BeIN_Sports_En_Espa%C3%B1ol.png" ,beIN Sports en Español USA
-http://ipflix.click:8080/ToNi6319/txdw3p5mii/678747
 #EXTINF:-1 group-title="Deportes" tvg-id="DAZN 1" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true" ,DAZN 1
 http://149.62.183.208:8000/play/a004/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-id="DAZN 2" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-2-es.png?raw=true" ,DAZN 2
@@ -13,18 +11,28 @@ http://149.62.183.208:8000/play/a04w/index.m3u8
 http://149.62.183.208:8000/play/a01s/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-id="EUROSPORT1HD" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true" ,EuroSport 1
 http://149.62.183.208:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-id="M..Liga.de.Campeones.es" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true" ,Liga de Campeones
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2009?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Deportes" tvg-id="M..Liga.de.Campeones.es" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true" ,Liga de Campeones
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2024?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Deportes" tvg-id="M..Liga.de.Campeones.es" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true" ,Liga de Campeones
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/285?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Deportes" tvg-id="M..Liga.de.Campeones.es" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true" ,Liga de Campeones
+http://hz01.oknirvana.club:8880/AA6M0485/535355353/52422?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Documentales" tvg-id="National.Geographic.es" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
 http://149.62.183.208:8000/play/a027/index.m3u8
 #EXTINF:-1 group-title="Documentales" tvg-id="Nat.Geo.Wild.es" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
 http://149.62.183.208:8000/play/a03l/index.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-id="Nat.Geo.Wild.es" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/280?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="ANIMAL.PLANET.HD.(Animal.Planet.HD).pe" tvg-name="1" audio-track="Latino" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/animal.planet.ca.png?raw=true" ,Animal Planet
 http://181.176.148.142:8000/play/a012
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="beinsportespanol.us" tvg-name="1" audio-track="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/320px-BeIN_Sports_En_Espa%C3%B1ol.png" ,beIN Sports en Español USA
+http://ipflix.click:8080/ToNi6319/txdw3p5mii/678747
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="1" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
 http://45.225.93.154:4000/play/a0e1
 #EXTINF:0 group-title="Documentales Latino" tvg-id="Discovery.H.and.H.(Home.Health.HD).co" tvg-name="1" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-home-and-health-logo-4.png?raw=true" ,Discovery Home & Health
 http://45.225.93.154:4000/play/a0al
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.Theater.(Theater).co" tvg-name="1" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTheater.mx.png?raw=true" ,Discovery Theater
-http://45.225.93.154:4000/play/a0am
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.Theater.(Theater).co" tvg-name="1" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTheater.mx.png?raw=true" ,Discovery Theater
 http://45.225.93.154:4000/play/a0am
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="DISCOVERY.WORLD.HD.(Discovery.World.HD).co" tvg-name="1" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryWorld.br.png?raw=true" ,Discovery World
@@ -63,8 +71,6 @@ http://45.225.93.154:4000/play/studiouniversalhd
 http://45.225.93.154:4000/play/a0ap
 #EXTINF:-1 group-title="UK" tvg-id="Channel.4.HD.uk" tvg-name="1" audio-track="English" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/channel.4.uk.png?raw=true" ,Channel 4
 http://45.153.35.224:8000/play/a01m
-#EXTINF:-1 group-title="UK" tvg-id="Channel.4.HD.uk" tvg-name="1" audio-track="English" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/channel.4.uk.png?raw=true" ,Channel 4
-http://45.153.35.224:8000/play/a01m
 #EXTINF:-1 group-title="UK" tvg-id="DAYSTAR.HD.uk" tvg-name="1" audio-track="English" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/daystar.network.us.png?raw=true" ,Daystar
 http://45.153.35.224:8000/play/a00v
 #EXTINF:-1 group-title="UK" tvg-id="DAYSTAR.HD.uk" tvg-name="1" audio-track="English" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/daystar.network.us.png?raw=true" ,Daystar
@@ -95,28 +101,26 @@ http://45.153.35.224:8000/play/a01j
 http://45.153.35.224:8000/play/a00s
 #EXTINF:-1 group-title="UK News" tvg-id="Bloomberg.HD.uk" tvg-name="1" audio-track="English" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/bloomberg.uk.png%20.png?raw=true" ,Bloomberg
 http://45.153.35.224:8000/play/a00y
-#EXTINF:-1 group-title="UK News" tvg-id="Bloomberg.HD.uk" tvg-name="1" audio-track="English" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/bloomberg.uk.png%20.png?raw=true" ,Bloomberg
-http://45.153.35.224:8000/play/a00y
 #EXTINF:-1 group-title="UK News" tvg-id="CNBC.uk" tvg-name="1" audio-track="English" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/cnbc.uk.png?raw=true" ,CNBC
 http://45.153.35.224:8000/play/a00b
-#EXTINF:-1 group-title="UK News" tvg-id="CNBC.uk" tvg-name="1" audio-track="English" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/cnbc.uk.png?raw=true" ,CNBC
-http://45.153.35.224:8000/play/a00b
-#EXTINF:-1 group-title="UK News" tvg-id="FRANCE.24.HD.uk" tvg-name="1" audio-track="English" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/france/france-24-fr.png?raw=true" ,FRANCE 24
-http://45.153.35.224:8000/play/a00w
 #EXTINF:-1 group-title="UK News" tvg-id="FRANCE.24.HD.uk" tvg-name="1" audio-track="English" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/france/france-24-fr.png?raw=true" ,FRANCE 24
 http://45.153.35.224:8000/play/a00w
 #EXTINF:-1 group-title="UK News" tvg-id="TRT.World.HD.uk" tvg-name="1" audio-track="Englilsh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/320px-TRT_World.svg.png" ,TRT World
 http://45.153.35.224:8000/play/a00g
 #EXTINF:-1 group-title="UK Sports" tvg-id="FreeSports.HD.uk" tvg-name="1" audio-track="English" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/free-sports-uk.png?raw=true" ,FreeSports
 http://45.153.35.224:8000/play/a00r
-#EXTINF:-1 group-title="UK Sports" tvg-id="FreeSports.HD.uk" tvg-name="1" audio-track="English" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/free-sports-uk.png?raw=true" ,FreeSports
-http://45.153.35.224:8000/play/a00r
-#EXTINF:-1 group-title="USA Sports" tvg-id="beinsports.us" tvg-name="1" audio-track="English" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/1290.png" ,beIN Sports USA
-http://ipflix.click:8080/ToNi6319/txdw3p5mii/682942
 #EXTINF:-1 group-title="USA Sports" tvg-id="beinsports.us" tvg-name="1" audio-track="English" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/1290.png" ,beIN Sports USA
 http://ipflix.click:8080/ToNi6319/txdw3p5mii/682942
 #EXTINF:-1 group-title="Deportes" tvg-id="gol" tvg-name="2" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/gol-es.png?raw=true" ,Gol TV
 http://154.62.74.29:1935/live/gol/playlist.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-id="M..Liga.de.Campeones.es" tvg-name="2" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true" ,Liga de Campeones
+http://hz01.oknirvana.club:8880/AA6M0485/535355353/2594?checkedby:iptvcat.com
+#EXTINF:0 group-title="Documentales" tvg-id="National.Geographic.es" tvg-name="2" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://hz01.oknirvana.club:8880/AA6M0485/535355353/2547?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Documentales" tvg-id="Nat.Geo.Wild.es" tvg-name="2" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
+http://hz01.oknirvana.club:8880/AA6M0485/535355353/2548?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Documentales" tvg-id="Nat.Geo.Wild.es" tvg-name="2" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
+http://hz01.oknirvana.club:8880/AA6M0485/535355353/52378?checkedby:iptvcat.com
 #EXTINF:-1 group-title="USA Sports" tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="2" audio-track="English" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1504784285/pbiwodhpixmuavkknwnw.png" ,Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-id="BARCA TV" tvg-name="3" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/barca-tv-es.png?raw=true" ,Barça TV
@@ -131,8 +135,14 @@ http://149.62.183.208:8000/play/a00n/index.m3u8
 http://149.62.183.208:8000/play/a03w/index.m3u8
 #EXTINF:-1 group-title="Documentales" tvg-id="Historia.es" tvg-name="3" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,Historia
 http://149.62.183.208:8000/play/a03y/index.m3u8
+#EXTINF:0 group-title="Documentales" tvg-id="National.Geographic.es" tvg-name="3" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://goodtv2.nicexpress.xyz:80/live/MMJ5LRWWJW/4105795601/275479.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Documentales" tvg-id="Odisea.es" tvg-name="3" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/odisea-es.png?raw=true" ,Odisea
 http://149.62.183.208:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-id="Odisea.es" tvg-name="3" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/odisea-es.png?raw=true" ,Odisea
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/273?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Documentales" tvg-id="Odisea.es" tvg-name="3" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/odisea-es.png?raw=true" ,Odisea
+http://hz01.oknirvana.club:8880/AA6M0485/535355353/2541?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="3" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
 http://181.176.148.142:8000/play/a013
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="ID.-.Investigation.Discovery.(Invest.DiscoveryHD).co" tvg-name="3" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true" ,Discovery ID
@@ -149,8 +159,6 @@ http://149.62.183.208:8000/play/a03g/index.m3u8
 http://149.62.183.208:8000/play/a033/index.m3u8
 #EXTINF:-1 group-title="Peliculas" tvg-id="sundance.es" tvg-name="3" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/SundanceTV.es.png?raw=true" ,Sundance TV
 http://149.62.183.208:8000/play/a012/index.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="4seven.uk" tvg-name="3" audio-track="English" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/4seven.uk.png?raw=true" ,4seven
-http://45.153.35.224:8000/play/a01n
 #EXTINF:-1 group-title="UK" tvg-id="4seven.uk" tvg-name="3" audio-track="English" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/4seven.uk.png?raw=true" ,4seven
 http://45.153.35.224:8000/play/a01n
 #EXTINF:-1 group-title="UK" tvg-id="Pick.uk" tvg-name="3" audio-track="English" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/pick-uk.png?raw=true" ,Pick

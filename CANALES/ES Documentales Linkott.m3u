@@ -2,8 +2,6 @@
 
 #EXTINF:-1 tvg-name="Discovery 576" tvg-id="DISCOVERY" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/ZMIPTV/Tivimate/main/Logos/discovery-channel-es.png?raw=true",Discovery Channel
 http://plus.linkott.com:80/50513041283809/97304261488292/30165
-#EXTINF:-1 tvg-name="Discovery 576" tvg-id="DISCOVERY" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/ZMIPTV/Tivimate/main/Logos/discovery-channel-es.png?raw=true",Discovery Channel
-http://149.62.183.208:8000/play/a03w/index.m3u8
 
 
 #EXTINF:-1 tvg-name="A031" tvg-id="Discovery MAX" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dmax-es.png?raw=true",DMAX SD
@@ -13,15 +11,11 @@ http://plus.linkott.com:80/50513041283809/97304261488292/30158
 
 #EXTINF:-1 tvg-name="Historia 576" tvg-id="HISTORIA" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true",Historia
 http://plus.linkott.com:80/50513041283809/97304261488292/30143
-#EXTINF:-1 tvg-name="Historia 576" tvg-id="HISTORIA" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true",Historia
-http://149.62.183.208:8000/play/a03y/index.m3u8
 
 
 
 #EXTINF:-1 tvg-name="Nat Geo 1080" tvg-id="NAT GEO" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true",Nat Geo
 http://plus.linkott.com:80/50513041283809/97304261488292/30073
-#EXTINF:-1 tvg-name="Nat Geo 1080" tvg-id="NAT GEO" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true",Nat Geo
-http://149.62.183.208:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-name="Nat Geo 480" tvg-id="NAT GEO" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-es.png?raw=true",Nat Geo
 http://plus.linkott.com:80/50513041283809/97304261488292/30075
 
@@ -32,8 +26,6 @@ http://plus.linkott.com:80/50513041283809/97304261488292/30075
 http://plus.linkott.com:80/50513041283809/97304261488292/30072
 #EXTINF:-1 tvg-name="Nat Geo Wild 480" tvg-id="NAT GEO WILD" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true",Nat Geo Wild
 http://plus.linkott.com:80/50513041283809/97304261488292/30074
-#EXTINF:-1 tvg-name="Nat Geo Wild 480" tvg-id="NAT GEO WILD" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true",Nat Geo Wild
-http://149.62.183.208:8000/play/a04m/index.m3u8
 
 
 
@@ -41,8 +33,6 @@ http://149.62.183.208:8000/play/a04m/index.m3u8
 http://plus.linkott.com:80/50513041283809/97304261488292/30067
 #EXTINF:-1 tvg-name="Odisea 576" tvg-id="Odisea.es" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/odisea-es.png?raw=true",Odisea
 http://plus.linkott.com:80/50513041283809/97304261488292/101603
-#EXTINF:-1 tvg-name="Odisea 576" tvg-id="Odisea.es" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/odisea-es.png?raw=true",Odisea
-http://149.62.183.208:8000/play/a01f/index.m3u8
 
 
 

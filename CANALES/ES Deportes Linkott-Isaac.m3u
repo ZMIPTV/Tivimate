@@ -14,17 +14,20 @@ http://plus.linkott.com:80/50758342317187/23886798340470/86822
 #EXTINF:-1 tvg-name="DAZN 2" tvg-id="DAZN 2" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-2-es.png?raw=true",DAZN 2 FullHD
 http://plus.linkott.com:80/50758342317187/23886798340470/180270
 
-#EXTINF:-1 tvg-name="EUROSPORT HEVC" tvg-id="EUROSPORT1HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true",Eurosport FullHD
+#EXTINF:-1 tvg-name="Eurosport HEVC" tvg-id="EUROSPORT1HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true",Eurosport
 http://plus.linkott.com:80/50758342317187/23886798340470/180279
-#EXTINF:-1 tvg-name="EUROSPORT" tvg-id="EUROSPORT1HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true",Eurosport FullHD
+#EXTINF:-1 tvg-name="Eurosport 1080" tvg-id="EUROSPORT1HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true",Eurosport
 http://plus.linkott.com:80/50758342317187/23886798340470/103169
-#EXTINF:-1 tvg-name="EUROSPORT SD" tvg-id="EUROSPORT1HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true",Eurosport SD+
+#EXTINF:-1 tvg-name="Eurosport 576" tvg-id="EUROSPORT1HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true",Eurosport
 http://plus.linkott.com:80/50758342317187/23886798340470/30153
+
+
 
 #EXTINF:-1 tvg-name="N/A" tvg-id="EUROSPORT2HD" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-2-es.png?raw=true",Eurosport 2 SD+
 http://plus.linkott.com:80/50758342317187/23886798340470/30154
 
-#EXTINF:-1 tvg-name="Gol TV" tvg-id="gol" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/gol-es.png?raw=true",Gol TV SD+
+
+#EXTINF:-1 tvg-name="Gol TV 576" tvg-id="gol" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/gol-es.png?raw=true",Gol TV
 http://plus.linkott.com:80/50758342317187/23886798340470/30144
 
 #EXTINF:-1 tvg-name="M. Deportes" tvg-id="MovistarDeportes.es" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-deportes-es.png?raw=true",M. Deportes FullHD
@@ -82,9 +85,10 @@ http://plus.linkott.com:80/50758342317187/23886798340470/103174
 http://plus.linkott.com:80/50758342317187/23886798340470/30130
 
 
-#EXTINF:-1 tvg-name="Real Madrid TV SD+" tvg-id="R. MADRID TV" group-title="Deportes" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/RealMadridTV.es.png?raw=true",Real Madrid TV
+#EXTINF:-1 tvg-name="Real Madrid TV SD+" tvg-id="R. MADRID TV" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/real-madrid-tv-es.png?raw=true",Real Madrid TV
 http://plus.linkott.com:80/50758342317187/23886798340470/30053
-#EXTINF:-1 tvg-name="Real Madrid TV SD+" tvg-id="R. MADRID TV" group-title="Deportes" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/RealMadridTV.es.png?raw=true",Real Madrid TV
+
+#EXTINF:-1 tvg-name="Real Madrid TV SD+" tvg-id="R. MADRID TV" group-title="Deportes" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/real-madrid-tv-es.png?raw=true",Real Madrid TV
 http://plus.linkott.com:80/50758342317187/23886798340470/30064
 
 
@@ -104,11 +108,3 @@ http://plus.linkott.com:80/50758342317187/23886798340470/30007
 http://plus.linkott.com:80/50758342317187/23886798340470/30087
 #EXTINF:-1 tvg-name="#Vamos HD" tvg-id="vamos.es" group-title="Deportes" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/Vamos.es.png?raw=true",#Vamos
 http://plus.linkott.com:80/50758342317187/23886798340470/30108
-
-
-#EXTINF:-1 tvg-name="beIN Sports USA" tvg-id="beinsports.us" group-title="Deportes" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/1290.png",beIN Sports USA HD
-http://ipflix.click:8080/ToNi6319/txdw3p5mii/682942
-#EXTINF:-1 tvg-name="beIN Sports en Español USA" tvg-id="beinsportespanol.us" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/320px-BeIN_Sports_En_Espa%C3%B1ol.png",beIN Sports en Español USA HD
-http://ipflix.click:8080/ToNi6319/txdw3p5mii/678747
-
-
