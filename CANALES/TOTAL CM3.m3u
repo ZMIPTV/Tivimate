@@ -63,6 +63,8 @@ http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/200
 http://149.62.183.208:8000/play/a027/index.m3u8
 #EXTINF:0 group-title="Documentales" tvg-id="NAT GEO HD" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/282
+#EXTINF:-1 group-title="Documentales" tvg-id="NAT GEO HD" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://149.62.183.208:8000/play/a027/index.m3u8
 #EXTINF:-1 group-title="Documentales" tvg-id="natgeowild.es" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
 http://149.62.183.208:8000/play/a03l/index.m3u8
 #EXTINF:-1 group-title="Documentales" tvg-id="natgeowild.es" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
@@ -123,6 +125,8 @@ http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/356
 http://149.62.183.208:8000/play/a03j/index.m3u8
 #EXTINF:0 group-title="Peliculas" tvg-id="tcm.es" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/tcm-es.png?raw=true" ,TCM
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/347
+#EXTINF:-1 group-title="Peliculas" tvg-id="tcm.es" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tcm-es.png?raw=true" ,TCM
+http://149.62.183.208:8000/play/a03j/index.m3u8
 #EXTINF:0 group-title="Peliculas" tvg-id="tcm.es" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/tcm-es.png?raw=true" ,TCM HD
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/346
 #EXTINF:-1 group-title="Peliculas" tvg-id="tnt.es" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/tnt-es.png?raw=true" ,TNT
@@ -365,6 +369,8 @@ http://190.61.102.67:2000/play/a03k/index.m3u8
 http://190.61.102.67:2000/play/a015/index.m3u8
 #EXTINF:-1 group-title="Peliculas" tvg-id="movistarespanol.es" tvg-name="4" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-cine-espanol-es.png?raw=true" ,M. Cine Ñ
 http://149.62.183.208:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-id="tcm.es" tvg-name="4" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tcm-es.png?raw=true" ,TCM
+http://149.62.183.208:8000/play/a02v/index.m3u8
 #EXTINF:-1 group-title="Peliculas Latino" tvg-id="Sony.(Sony.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony Channel
 http://181.78.22.214:8000/play/a01j
 #EXTINF:-1 group-title="Peliculas Latino" tvg-id="Sony.(Sony.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony Channel
@@ -429,6 +435,8 @@ http://200.24.159.179:8500/play/a004
 http://200.24.159.179:8500/play/a003
 #EXTINF:0 group-title="Entretenimiento" tvg-id="#0.es" tvg-name="6 No se ve" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/0_por_Movistar_Plus+.png?raw=true" ,#0
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/366
+#EXTINF:-1 group-title="Peliculas" tvg-id="tcm.es" tvg-name="6 No se ve" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tcm-es.png?raw=true" ,TCM
+http://38.131.11.9:1080/play/a010
 #EXTINF:-1 group-title="Deportes" tvg-id="60f1673d0e4370000784dc61" tvg-name="9" audio-track="Español" tvg-logo="https://images.pluto.tv/channels/60f1673d0e4370000784dc61/colorLogoPNG.png" ,FUEL TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f1673d0e4370000784dc61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Deportes" tvg-id="5f1ac8588734f8000823b7de" tvg-name="9" audio-track="Español" tvg-logo="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png" ,Pluto TV Action Sports
