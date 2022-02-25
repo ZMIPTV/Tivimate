@@ -1,547 +1,547 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="#0.es" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/0_por_Movistar_Plus+.png?raw=true" ,#0
+#EXTINF:-1 group-title="Entretenimiento" tvg-id="#0.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/0_por_Movistar_Plus+.png?raw=true" ,#0
 http://149.62.183.208:8000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="#0.es" tvg-name="6 No se ve" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/0_por_Movistar_Plus+.png?raw=true" ,#0
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/365
-#EXTINF:0 group-title="Entretenimiento" tvg-id="#0.es" tvg-name="6 No se ve" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/0_por_Movistar_Plus+.png?raw=true" ,#0
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/366
-#EXTINF:0 group-title="Entretenimiento" tvg-id="#0.es" tvg-name="2" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/0_por_Movistar_Plus+.png?raw=true" ,#0
+#EXTINF:0 group-title="Entretenimiento" tvg-id="#0.es" tvg-name="2" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/0_por_Movistar_Plus+.png?raw=true" ,#0
 http://hz01.oknirvana.club:8880/AA6M0485/535355353/2603?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Deportes" tvg-id="vamos.es" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/vamos-es.png?raw=true" ,#Vamos
+#EXTINF:-1 group-title="Entretenimiento" tvg-id="#0.es" tvg-name="6 No se ve" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/0_por_Movistar_Plus+.png?raw=true" ,#0
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/365
+#EXTINF:0 group-title="Entretenimiento" tvg-id="#0.es" tvg-name="6 No se ve" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/0_por_Movistar_Plus+.png?raw=true" ,#0
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/366
+#EXTINF:-1 group-title="Deportes" tvg-id="vamos.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/vamos-es.png?raw=true" ,#Vamos
 http://149.62.183.208:8000/play/a016/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="vamos.es" tvg-name="3" audio-track="ES" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/vamos-es.png?raw=true" ,#Vamos
-http://149.62.183.208:8000/play/a040/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-id="vamos.es" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/vamos-es.png?raw=true" ,#Vamos
+#EXTINF:0 group-title="Deportes" tvg-id="vamos.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/vamos-es.png?raw=true" ,#Vamos
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2018
-#EXTINF:-1 group-title="Deportes" tvg-id="vamos.es" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/vamos-es.png?raw=true" ,#Vamos
+#EXTINF:-1 group-title="Deportes" tvg-id="vamos.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/vamos-es.png?raw=true" ,#Vamos
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/315
-#EXTINF:0 group-title="Deportes" tvg-id="vamos.es" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/vamos-es.png?raw=true" ,#Vamos
+#EXTINF:0 group-title="Deportes" tvg-id="vamos.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/vamos-es.png?raw=true" ,#Vamos
 http://stariptv.org:8080/wael2021/123456/12074?checkedby:iptvcat.com
-#EXTINF:-1 group-title="UK" tvg-id="4seven.uk" tvg-name="3" audio-track="English" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/4seven.uk.png?raw=true" ,4seven
+#EXTINF:-1 group-title="Deportes" tvg-id="vamos.es" tvg-name="3" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/vamos-es.png?raw=true" ,#Vamos
+http://149.62.183.208:8000/play/a040/index.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="4seven.uk" tvg-name="3" audio-track="en" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/4seven.uk.png?raw=true" ,4seven
 http://45.153.35.224:8000/play/a01n
-#EXTINF:-1 group-title="Peliculas" tvg-id="amc.es" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/AMC.es.png?raw=true" ,AMC
+#EXTINF:-1 group-title="Peliculas" tvg-id="amc.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/AMC.es.png?raw=true" ,AMC
 http://149.62.183.208:8000/play/a01u/index.m3u8
-#EXTINF:0 group-title="Peliculas Latino" tvg-id="Amc.cl" tvg-name="1" audio-track="Latino" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515474_CAE1CCA6A8584D97.png" ,AMC
+#EXTINF:0 group-title="Peliculas Latino" tvg-id="Amc.cl" tvg-name="1" audio-track="lat" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515474_CAE1CCA6A8584D97.png" ,AMC
 http://45.225.93.154:4000/play/a056
-#EXTINF:0 group-title="Peliculas" tvg-id="amc.es" tvg-name="3" audio-track="Español" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/AMC.es.png?raw=true" ,AMC
+#EXTINF:0 group-title="Peliculas" tvg-id="amc.es" tvg-name="3" audio-track="es" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/AMC.es.png?raw=true" ,AMC
 http://hz01.oknirvana.club:8880/AA6M0485/535355353/29284
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="ANIMAL.PLANET.HD.(Animal.Planet.HD).pe" tvg-name="1" audio-track="Latino" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/animal.planet.ca.png?raw=true" ,Animal Planet
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="ANIMAL.PLANET.HD.(Animal.Planet.HD).pe" tvg-name="1" audio-track="lat" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/animal.planet.ca.png?raw=true" ,Animal Planet
 http://181.176.148.142:8000/play/a012
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="ANIMAL.PLANET.HD.(Animal.Planet.HD).pe" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/animal.planet.ca.png?raw=true" ,Animal Planet
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="ANIMAL.PLANET.HD.(Animal.Planet.HD).pe" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/animal.planet.ca.png?raw=true" ,Animal Planet
 http://181.78.22.214:8000/play/a00v
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="ANIMAL.PLANET.HD.(Animal.Planet.HD).pe" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/animal.planet.ca.png?raw=true" ,Animal Planet
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="ANIMAL.PLANET.HD.(Animal.Planet.HD).pe" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/animal.planet.ca.png?raw=true" ,Animal Planet
 http://190.187.200.69:8000/play/a019
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="ANIMAL.PLANET.HD.(Animal.Planet.HD).pe" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/animal.planet.ca.png?raw=true" ,Animal Planet
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="ANIMAL.PLANET.HD.(Animal.Planet.HD).pe" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/animal.planet.ca.png?raw=true" ,Animal Planet
 http://45.179.140.242:8000/play/a0i9
-#EXTINF:-1 group-title="Documentales" tvg-id="5f984f4a09e92d0007d74647" tvg-name="9" audio-track="Español" tvg-logo="https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG.png" ,Archivos Forenses
+#EXTINF:-1 group-title="Documentales" tvg-id="5f984f4a09e92d0007d74647" tvg-name="9" audio-track="es" tvg-logo="https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG.png" ,Archivos Forenses
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Peliculas" tvg-id="axn.es" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/axn-es.png?raw=true" ,AXN
+#EXTINF:-1 group-title="Peliculas" tvg-id="axn.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/axn-es.png?raw=true" ,AXN
 http://149.62.183.208:8000/play/a005/index.m3u8
-#EXTINF:0 group-title="Peliculas" tvg-id="axn.es" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/axn-es.png?raw=true" ,AXN
+#EXTINF:0 group-title="Peliculas" tvg-id="axn.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/axn-es.png?raw=true" ,AXN
 http://hz01.oknirvana.club:8880/AA6M0485/535355353/2598
-#EXTINF:-1 group-title="Peliculas" tvg-id="axnwhite.es" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/axn-white-es.png?raw=true" ,AXN White
+#EXTINF:-1 group-title="Peliculas" tvg-id="axnwhite.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/axn-white-es.png?raw=true" ,AXN White
 http://149.62.183.208:8000/play/a04a/index.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-id="axnwhite.es" tvg-name="3" audio-track="ES" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/axn-white-es.png?raw=true" ,AXN White
-http://149.62.183.208:8000/play/a04l/index.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-id="axnwhite.es" tvg-name="2" audio-track="Español" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/axn-white-es.png?raw=true" ,AXN White
+#EXTINF:-1 group-title="Peliculas" tvg-id="axnwhite.es" tvg-name="2" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/axn-white-es.png?raw=true" ,AXN White
 http://hz01.oknirvana.club:8880/AA6M0485/535355353/2597
-#EXTINF:-1 group-title="Deportes" tvg-id="BARCA TV" tvg-name="3" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/barca-tv-es.png?raw=true" ,Barça TV
+#EXTINF:-1 group-title="Peliculas" tvg-id="axnwhite.es" tvg-name="3" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/axn-white-es.png?raw=true" ,AXN White
+http://149.62.183.208:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-id="BARCA TV" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/barca-tv-es.png?raw=true" ,Barça TV
 http://149.62.183.208:8000/play/a00h/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-id="BARCA TV" tvg-name="3" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/barca-tv-es.png?raw=true" ,Barça TV
+#EXTINF:0 group-title="Deportes" tvg-id="BARCA TV" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/barca-tv-es.png?raw=true" ,Barça TV
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/293
-#EXTINF:0 group-title="Deportes" tvg-id="BARCA TV" tvg-name="3" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/barca-tv-es.png?raw=true" ,Barça TV
+#EXTINF:0 group-title="Deportes" tvg-id="BARCA TV" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/barca-tv-es.png?raw=true" ,Barça TV
 http://ultra-premium-pro.xyz:8080/Userxcambioxplay2022@@/mpkS6CTPCw/38102
-#EXTINF:-1 group-title="Peliculas" tvg-id="60dafb9a0df1ba000758d37b" tvg-name="9" audio-track="Español" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png" ,BBC Drama
+#EXTINF:-1 group-title="Peliculas" tvg-id="60dafb9a0df1ba000758d37b" tvg-name="9" audio-track="es" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png" ,BBC Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="BEIN2HD.beIN.Sports.En.Español.HD(ñ).us" tvg-name="1" audio-track="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/320px-BeIN_Sports_En_Espa%C3%B1ol.png" ,beIN Sports en Español USA
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="BEIN2HD.beIN.Sports.En.Español.HD(ñ).us" tvg-name="1" audio-track="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/320px-BeIN_Sports_En_Espa%C3%B1ol.png" ,beIN Sports en Español USA
 http://ipflix.click:8080/ToNi6319/txdw3p5mii/678747
-#EXTINF:-1 group-title="USA Sports" tvg-id="beIN.SPORTS.XTRA.us" tvg-name="1" audio-track="English" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/1290.png" ,beIN Sports USA
+#EXTINF:-1 group-title="USA Sports" tvg-id="beIN.SPORTS.XTRA.us" tvg-name="1" audio-track="en" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/1290.png" ,beIN Sports USA
 http://ipflix.click:8080/ToNi6319/txdw3p5mii/682942
-#EXTINF:125 group-title="Deportes Latino" tvg-id="beIN.SPORTS.XTRA.en.español.us" tvg-name="4" audio-track="Latino" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" ,beIN Sports XTRA ñ
+#EXTINF:125 group-title="Deportes Latino" tvg-id="beIN.SPORTS.XTRA.en.español.us" tvg-name="4" audio-track="lat" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" ,beIN Sports XTRA ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
-#EXTINF:-1 group-title="UK News" tvg-id="Bloomberg.HD.uk" tvg-name="1" audio-track="English" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/bloomberg.uk.png%20.png?raw=true" ,Bloomberg
+#EXTINF:-1 group-title="UK News" tvg-id="Bloomberg.HD.uk" tvg-name="1" audio-track="en" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/bloomberg.uk.png%20.png?raw=true" ,Bloomberg
 http://45.153.35.224:8000/play/a00y
-#EXTINF:-1 group-title="Peliculas" tvg-id="calle13.es" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/calle-13-es.png?raw=true" ,Calle 13
+#EXTINF:-1 group-title="Peliculas" tvg-id="calle13.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/calle-13-es.png?raw=true" ,Calle 13
 http://149.62.183.208:8000/play/a023/index.m3u8
-#EXTINF:0 group-title="Peliculas" tvg-id="calle13.es" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/calle-13-es.png?raw=true" ,Calle 13
+#EXTINF:0 group-title="Peliculas" tvg-id="calle13.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/calle-13-es.png?raw=true" ,Calle 13
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/330
-#EXTINF:0 group-title="Peliculas" tvg-id="calle13.es" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/calle-13-es.png?raw=true" ,Calle 13
+#EXTINF:0 group-title="Peliculas" tvg-id="calle13.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/calle-13-es.png?raw=true" ,Calle 13
 http://hz01.oknirvana.club:8880/AA6M0485/535355353/52394
-#EXTINF:-1 group-title="Peliculas" tvg-id="hollywood.es" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true" ,Canal Hollywood
+#EXTINF:-1 group-title="Peliculas" tvg-id="hollywood.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true" ,Canal Hollywood
 http://149.62.183.208:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-id="hollywood.es" tvg-name="3" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true" ,Canal Hollywood
-http://149.62.183.208:8000/play/a02f/index.m3u8
-#EXTINF:0 group-title="Peliculas" tvg-id="hollywood.es" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true" ,Canal Hollywood
+#EXTINF:0 group-title="Peliculas" tvg-id="hollywood.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true" ,Canal Hollywood
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/350
-#EXTINF:0 group-title="Peliculas" tvg-id="hollywood.es" tvg-name="3" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true" ,Canal Hollywood
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/351
-#EXTINF:0 group-title="Peliculas" tvg-id="hollywood.es" tvg-name="2" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true" ,Canal Hollywood
+#EXTINF:0 group-title="Peliculas" tvg-id="hollywood.es" tvg-name="2" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true" ,Canal Hollywood
 http://hz01.oknirvana.club:8880/AA6M0485/535355353/29284?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Infantil Latino" tvg-id="Cartoon.Network.(Cartoon.Network.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Cartoon%20Network.png?raw=true" ,Cartoon Network
+#EXTINF:-1 group-title="Peliculas" tvg-id="hollywood.es" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true" ,Canal Hollywood
+http://149.62.183.208:8000/play/a02f/index.m3u8
+#EXTINF:0 group-title="Peliculas" tvg-id="hollywood.es" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true" ,Canal Hollywood
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/351
+#EXTINF:-1 group-title="Infantil Latino" tvg-id="Cartoon.Network.(Cartoon.Network.HD).co" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Cartoon%20Network.png?raw=true" ,Cartoon Network
 http://190.61.102.67:2000/play/a03k/index.m3u8
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="60ed5fb9c4716d0007d180c5" tvg-name="9" audio-track="Latino" tvg-logo="https://images.pluto.tv/channels/60ed5fb9c4716d0007d180c5/colorLogoPNG.png" ,Cazador de Homicidas
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="60ed5fb9c4716d0007d180c5" tvg-name="9" audio-track="lat" tvg-logo="https://images.pluto.tv/channels/60ed5fb9c4716d0007d180c5/colorLogoPNG.png" ,Cazador de Homicidas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60ed5fb9c4716d0007d180c5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="UK" tvg-id="Channel.4.uk" tvg-name="1" audio-track="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/188px-Channel_4_logo_2015.svg.png" ,Channel 4
+#EXTINF:-1 group-title="UK" tvg-id="Channel.4.uk" tvg-name="1" audio-track="en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/188px-Channel_4_logo_2015.svg.png" ,Channel 4
 http://45.153.35.224:8000/play/a01m
-#EXTINF:-1 group-title="Peliculas Latino" tvg-id="5f984c1dc54853000797a5e8" tvg-name="9" audio-track="Latino" tvg-logo="https://images.pluto.tv/channels/5f984c1dc54853000797a5e8/colorLogoPNG.png" ,Cine Latino
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="5f984c1dc54853000797a5e8" tvg-name="9" audio-track="lat" tvg-logo="https://images.pluto.tv/channels/5f984c1dc54853000797a5e8/colorLogoPNG.png" ,Cine Latino
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Deportes Latino" tvg-id="Claro.Sports.HDTV.(CSPORTHD)..ec" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/ClaroSportsLogo.png?raw=true" ,Claro Sport
+#EXTINF:-1 group-title="Deportes Latino" tvg-id="Claro.Sports.HDTV.(CSPORTHD)..ec" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/ClaroSportsLogo.png?raw=true" ,Claro Sport
 http://190.61.102.67:2000/play/a053/index.m3u8
-#EXTINF:-1 group-title="Deportes Latino" tvg-id="Claro.Sports.HDTV.(CSPORTHD)..ec" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/ClaroSportsLogo.png?raw=true" ,Claro Sports
+#EXTINF:-1 group-title="Deportes Latino" tvg-id="Claro.Sports.HDTV.(CSPORTHD)..ec" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/ClaroSportsLogo.png?raw=true" ,Claro Sports
 http://190.187.200.69:8000/play/a02a
-#EXTINF:-1 group-title="Deportes Latino" tvg-id="Claro.Sports.HDTV.(CSPORTHD)..ec" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/ClaroSportsLogo.png?raw=true" ,Claro Sports
+#EXTINF:-1 group-title="Deportes Latino" tvg-id="Claro.Sports.HDTV.(CSPORTHD)..ec" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/ClaroSportsLogo.png?raw=true" ,Claro Sports
 http://45.179.140.242:8000/play/a0ht
-#EXTINF:-1 group-title="Deportes Latino" tvg-id="Claro.Sports.HDTV.(CSPORTHD)..ec" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/ClaroSportsLogo.png?raw=true" ,Claro Sports
+#EXTINF:-1 group-title="Deportes Latino" tvg-id="Claro.Sports.HDTV.(CSPORTHD)..ec" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/ClaroSportsLogo.png?raw=true" ,Claro Sports
 http://45.225.93.154:8000/play/a030
-#EXTINF:-1 group-title="UK News" tvg-id="CNBC.uk" tvg-name="1" audio-track="English" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/cnbc.uk.png?raw=true" ,CNBC
+#EXTINF:-1 group-title="UK News" tvg-id="CNBC.uk" tvg-name="1" audio-track="en" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/cnbc.uk.png?raw=true" ,CNBC
 http://45.153.35.224:8000/play/a00b
-#EXTINF:-1 group-title="Documentales" tvg-id="crimeinvestigation.es" tvg-name="3" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Crimen__Investigacion_2017.png?raw=true" ,CRIMEN+INVES
+#EXTINF:-1 group-title="Documentales" tvg-id="crimeinvestigation.es" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Crimen__Investigacion_2017.png?raw=true" ,CRIMEN+INVES
 http://149.62.183.208:8000/play/a03z/index.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="DAYSTAR.HD.uk" tvg-name="1" audio-track="English" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/daystar.network.us.png?raw=true" ,Daystar
+#EXTINF:-1 group-title="UK" tvg-id="DAYSTAR.HD.uk" tvg-name="1" audio-track="en" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/daystar.network.us.png?raw=true" ,Daystar
 http://45.153.35.224:8000/play/a00v
-#EXTINF:-1 group-title="UK" tvg-id="DAYSTAR.HD.uk" tvg-name="1" audio-track="English" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/daystar.network.us.png?raw=true" ,Daystar
+#EXTINF:-1 group-title="UK" tvg-id="DAYSTAR.HD.uk" tvg-name="1" audio-track="en" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/daystar.network.us.png?raw=true" ,Daystar
 http://45.153.35.224:8000/play/a00v
-#EXTINF:-1 group-title="Deportes" tvg-id="DAZN 1" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true" ,DAZN 1
+#EXTINF:-1 group-title="Deportes" tvg-id="DAZN 1" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true" ,DAZN 1
 http://149.62.183.208:8000/play/a004/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-id="DAZN 1" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true" ,DAZN 1
+#EXTINF:0 group-title="Deportes" tvg-id="DAZN 1" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true" ,DAZN 1
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1990
-#EXTINF:0 group-title="Deportes" tvg-id="DAZN 1" tvg-name="6 No se ve" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true" ,DAZN 1
+#EXTINF:0 group-title="Deportes" tvg-id="DAZN 1" tvg-name="6 No se ve" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true" ,DAZN 1
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1995
-#EXTINF:-1 group-title="Deportes" tvg-id="DAZN 2" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-2-es.png?raw=true" ,DAZN 2
+#EXTINF:-1 group-title="Deportes" tvg-id="DAZN 2" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-2-es.png?raw=true" ,DAZN 2
 http://149.62.183.208:8000/play/a008/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-id="DAZN 2" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-2-es.png?raw=true" ,DAZN 2
+#EXTINF:0 group-title="Deportes" tvg-id="DAZN 2" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-2-es.png?raw=true" ,DAZN 2
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1991
-#EXTINF:0 group-title="Deportes" tvg-id="DAZN 2" tvg-name="6 No se ve" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-2-es.png?raw=true" ,DAZN 2
+#EXTINF:0 group-title="Deportes" tvg-id="DAZN 2" tvg-name="6 No se ve" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-2-es.png?raw=true" ,DAZN 2
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2020
-#EXTINF:-1 group-title="Deportes" tvg-id="DAZN.3.es" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/dazn-3-es.png?raw=true" ,DAZN 3
+#EXTINF:-1 group-title="Deportes" tvg-id="DAZN.3.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/dazn-3-es.png?raw=true" ,DAZN 3
 http://149.62.183.208:8000/play/a04x/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-id="DAZN.3.es" tvg-name="2" audio-track="LAT" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/dazn-3-es.png?raw=true" ,DAZN 3
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2022
-#EXTINF:-1 group-title="Deportes" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/dazn-4-es.png?raw=true" ,DAZN 4
+#EXTINF:-1 group-title="Deportes" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/dazn-4-es.png?raw=true" ,DAZN 4
 http://149.62.183.208:8000/play/a04w/index.m3u8
 #EXTINF:0 group-title="Deportes" tvg-name="6 No se ve" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/dazn-4-es.png?raw=true" ,DAZN 4
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2023
-#EXTINF:-1 group-title="Deportes" tvg-id="DAZN.F1.4K.es" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-f1-es.png?raw=true" ,DAZN F1
+#EXTINF:-1 group-title="Deportes" tvg-id="DAZN.F1.4K.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-f1-es.png?raw=true" ,DAZN F1
 http://149.62.183.208:8000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="DAZN F1 HD" tvg-name="6 No se ve" audio-track="ES" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/dazn-f1-es.png?raw=true" ,DAZN F1
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1992
-#EXTINF:0 group-title="Deportes" tvg-id="DAZN F1 HD" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/dazn-f1-es.png?raw=true" ,DAZN F1
+#EXTINF:0 group-title="Deportes" tvg-id="DAZN F1 HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/dazn-f1-es.png?raw=true" ,DAZN F1
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2002
-#EXTINF:0 group-title="Deportes" tvg-id="DAZN.F1.4K.es" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-f1-es.png?raw=true" ,DAZN F1
+#EXTINF:0 group-title="Deportes" tvg-id="DAZN.F1.4K.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-f1-es.png?raw=true" ,DAZN F1
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/288
-#EXTINF:-1 group-title="Deportes" tvg-id="DAZN F1 HD" tvg-name="4" audio-track="ES" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/dazn-f1-es.png?raw=true" ,DAZN F1
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/289
-#EXTINF:0 group-title="Deportes" tvg-id="DAZN.F1.4K.es" tvg-name="2" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-f1-es.png?raw=true" ,DAZN F1
+#EXTINF:0 group-title="Deportes" tvg-id="DAZN.F1.4K.es" tvg-name="2" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-f1-es.png?raw=true" ,DAZN F1
 http://hz01.oknirvana.club:8880/AA6M0485/535355353/52345?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Documentales" tvg-id="discoverychannel.es" tvg-name="3" audio-track="Español" tvg-logo="https://raw.githubusercontent.com/ZMIPTV/Tivimate/main/Logos/discovery-channel-es.png?raw=true" ,Discovery Channel
-http://149.62.183.208:8000/play/a03w/index.m3u8
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="3" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
-http://181.176.148.142:8000/play/a013
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
-http://181.78.22.214:8000/play/a00u
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
-http://190.187.200.69:8000/play/a018
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
-http://190.61.102.67:2000/play/a03x/index.m3u8
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="6 No se ve" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
-http://200.24.159.179:8500/play/a018
-#EXTINF:0 group-title="Documentales" tvg-id="discoverychannel.es" tvg-name="3" audio-track="ES" tvg-logo="https://raw.githubusercontent.com/ZMIPTV/Tivimate/main/Logos/discovery-channel-es.png?raw=true" ,Discovery channel
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/279
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
-http://45.179.140.242:8000/play/a0i8
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="1" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
+#EXTINF:-1 group-title="Deportes" tvg-id="DAZN F1 HD" tvg-name="4" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/dazn-f1-es.png?raw=true" ,DAZN F1
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/289
+#EXTINF:-1 group-title="Deportes" tvg-id="DAZN F1 HD" tvg-name="6 No se ve" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/dazn-f1-es.png?raw=true" ,DAZN F1
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1992
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="1" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
 http://45.225.93.154:4000/play/a0e1
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
+#EXTINF:-1 group-title="Documentales" tvg-id="discoverychannel.es" tvg-name="3" audio-track="es" tvg-logo="https://raw.githubusercontent.com/ZMIPTV/Tivimate/main/Logos/discovery-channel-es.png?raw=true" ,Discovery Channel
+http://149.62.183.208:8000/play/a03w/index.m3u8
+#EXTINF:0 group-title="Documentales" tvg-id="discoverychannel.es" tvg-name="3" audio-track="es" tvg-logo="https://raw.githubusercontent.com/ZMIPTV/Tivimate/main/Logos/discovery-channel-es.png?raw=true" ,Discovery channel
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/279
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="3" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
+http://181.176.148.142:8000/play/a013
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
+http://181.78.22.214:8000/play/a00u
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
+http://190.187.200.69:8000/play/a018
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
+http://190.61.102.67:2000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
+http://45.179.140.242:8000/play/a0i8
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
 http://45.225.93.154:8000/play/a022
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
 http://45.236.175.117:9600/play/a00r
-#EXTINF:0 group-title="UK Documentaries" tvg-id="Disc.History.uk" tvg-name="3" audio-track="EN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Discovery_History_logo.svg/1920px-Discovery_History_logo.svg.png" ,Discovery History
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.cl" tvg-name="6 No se ve" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-channel-icon-2-us.png?raw=true" ,Discovery Channel
+http://200.24.159.179:8500/play/a018
+#EXTINF:0 group-title="UK Documentaries" tvg-id="Disc.History.uk" tvg-name="3" audio-track="en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Discovery_History_logo.svg/1920px-Discovery_History_logo.svg.png" ,Discovery History
 http://mlsh1.com:2086/malcolm1/malcolm/86
-#EXTINF:0 group-title="Documentales Latino" tvg-id="Discovery.H.and.H.(Home.Health.HD).co" tvg-name="1" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-home-and-health-logo-4.png?raw=true" ,Discovery Home & Health
+#EXTINF:0 group-title="Documentales Latino" tvg-id="Discovery.H.and.H.(Home.Health.HD).co" tvg-name="1" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/discovery-home-and-health-logo-4.png?raw=true" ,Discovery Home & Health
 http://45.225.93.154:4000/play/a0al
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="ID.-.Investigation.Discovery.(Invest.DiscoveryHD).co" tvg-name="3" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true" ,Discovery ID
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="ID.-.Investigation.Discovery.(Invest.DiscoveryHD).co" tvg-name="3" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true" ,Discovery ID
 http://181.176.148.142:8000/play/a014
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="ID.-.Investigation.Discovery.(Invest.DiscoveryHD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true" ,Discovery ID
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="ID.-.Investigation.Discovery.(Invest.DiscoveryHD).co" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true" ,Discovery ID
 http://181.78.22.214:8000/play/a013
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="ID.-.Investigation.Discovery.(Invest.DiscoveryHD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true" ,Discovery ID
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="ID.-.Investigation.Discovery.(Invest.DiscoveryHD).co" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Investigation%20Discovery.png?raw=true" ,Discovery ID
 http://45.236.175.117:9600/play/a028
-#EXTINF:-1 group-title="Infantil Latino" tvg-id="Discovery.Kids.(Discovery.Kids.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://1.bp.blogspot.com/-Cg7FtO2_bKI/YJV18OSGSlI/AAAAAAAA8pw/jRk9MZLrzM8UV3dyCKFrd_aq_6BTtZNtwCLcBGAsYHQ/s267/dk-2021.png" ,Discovery kids
+#EXTINF:-1 group-title="Infantil Latino" tvg-id="Discovery.Kids.(Discovery.Kids.HD).co" tvg-name="4" audio-track="lat" tvg-logo="https://1.bp.blogspot.com/-Cg7FtO2_bKI/YJV18OSGSlI/AAAAAAAA8pw/jRk9MZLrzM8UV3dyCKFrd_aq_6BTtZNtwCLcBGAsYHQ/s267/dk-2021.png" ,Discovery kids
 http://190.61.102.67:2000/play/a015/index.m3u8
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.Theater.(Theater).co" tvg-name="1" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTheater.mx.png?raw=true" ,Discovery Theater
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.Theater.(Theater).co" tvg-name="1" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTheater.mx.png?raw=true" ,Discovery Theater
 http://45.225.93.154:4000/play/a0am
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.Turbo.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true" ,Discovery Turbo
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.Turbo.cl" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true" ,Discovery Turbo
 http://181.176.148.142:8000/play/a015
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.Turbo.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true" ,Discovery Turbo
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.Turbo.cl" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true" ,Discovery Turbo
 http://181.78.22.214:8000/play/a01r
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.Turbo.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true" ,Discovery Turbo
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.Turbo.cl" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true" ,Discovery Turbo
 http://190.187.200.69:8000/play/a027
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.Turbo.cl" tvg-name="6 No se ve" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true" ,Discovery Turbo
-http://200.24.159.179:8500/play/a039
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.Turbo.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true" ,Discovery Turbo
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.Turbo.cl" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true" ,Discovery Turbo
 http://45.179.140.242:8000/play/a0hi
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.Turbo.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true" ,Discovery Turbo
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.Turbo.cl" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true" ,Discovery Turbo
 http://45.225.93.154:8000/play/a03e
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.Turbo.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true" ,Discovery Turbo
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.Turbo.cl" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true" ,Discovery Turbo
 http://45.236.175.117:9600/play/a02r
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="DISCOVERY.WORLD.HD.(Discovery.World.HD).co" tvg-name="1" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryWorld.br.png?raw=true" ,Discovery World
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="Discovery.Turbo.cl" tvg-name="6 No se ve" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryTurbo.uk.png?raw=true" ,Discovery Turbo
+http://200.24.159.179:8500/play/a039
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="DISCOVERY.WORLD.HD.(Discovery.World.HD).co" tvg-name="1" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/DiscoveryWorld.br.png?raw=true" ,Discovery World
 http://45.225.93.154:4000/play/a05b
-#EXTINF:-1 group-title="Infantil" tvg-id="DreamWorks HD" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/dreamworks-channel-es.png?raw=true" ,DreamWorks
+#EXTINF:-1 group-title="Infantil" tvg-id="DreamWorks HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/dreamworks-channel-es.png?raw=true" ,DreamWorks
 http://149.62.183.208:8000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="Infantil" tvg-id="DreamWorks HD" tvg-name="3" audio-track="ES" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/dreamworks-channel-es.png?raw=true" ,DreamWorks
+#EXTINF:-1 group-title="Infantil" tvg-id="DreamWorks HD" tvg-name="3" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/dreamworks-channel-es.png?raw=true" ,DreamWorks
 http://149.62.183.208:8000/play/a02k/index.m3u8
-#EXTINF:-1 group-title="Documentales" tvg-id="61922be835f3910007fc58f6" tvg-name="9" audio-track="Español" tvg-logo="https://images.pluto.tv/channels/61922be835f3910007fc58f6/colorLogoPNG.png" ,En el punto de mira
+#EXTINF:-1 group-title="Documentales" tvg-id="61922be835f3910007fc58f6" tvg-name="9" audio-track="es" tvg-logo="https://images.pluto.tv/channels/61922be835f3910007fc58f6/colorLogoPNG.png" ,En el punto de mira
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61922be835f3910007fc58f6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Deportes Latino" tvg-id="ESPN.(ESPN.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" ,ESPN
+#EXTINF:-1 group-title="Deportes Latino" tvg-id="ESPN.(ESPN.HD).co" tvg-name="4" audio-track="lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" ,ESPN
 http://190.61.102.67:2000/play/a064/index.m3u8
-#EXTINF:-1 group-title="Deportes Latino" tvg-id="ESPN.2.(ESPN.2).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" ,ESPN 2
+#EXTINF:-1 group-title="Deportes Latino" tvg-id="ESPN.2.(ESPN.2).co" tvg-name="4" audio-track="lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" ,ESPN 2
 http://190.61.102.67:2000/play/a063/index.m3u8
-#EXTINF:-1 group-title="Deportes Latino" tvg-id="ESPN.3.(ESPN.3.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" ,ESPN 3
+#EXTINF:-1 group-title="Deportes Latino" tvg-id="ESPN.3.(ESPN.3.HD).co" tvg-name="4" audio-track="lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" ,ESPN 3
 http://190.61.102.67:2000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="Noticias" tvg-id="60d3583ef310610007fb02b1" tvg-name="9" audio-track="Español" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" ,Euronews
+#EXTINF:-1 group-title="Noticias" tvg-id="60d3583ef310610007fb02b1" tvg-name="9" audio-track="es" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" ,Euronews
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Deportes" tvg-id="EUROSPORT1HD" tvg-name="3" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true" ,EuroSport 1
-http://149.62.183.208:8000/play/a00i/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="EUROSPORT1HD" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true" ,EuroSport 1
+#EXTINF:-1 group-title="Deportes" tvg-id="EUROSPORT1HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true" ,EuroSport 1
 http://149.62.183.208:8000/play/a025/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="EUROSPORT1HD" tvg-name="3" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true" ,EuroSport 1
-http://185.41.244.69:80/eurosport1/tracks-v2a1a2/mono.m3u8
-#EXTINF:0 group-title="Deportes" tvg-id="EUROSPORT1HD" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true" ,Eurosport 1
+#EXTINF:0 group-title="Deportes" tvg-id="EUROSPORT1HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true" ,Eurosport 1
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/295
-#EXTINF:0 group-title="Deportes" tvg-id="EUROSPORT1HD" tvg-name="3" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true" ,Eurosport 1
+#EXTINF:-1 group-title="Deportes" tvg-id="EUROSPORT1HD" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true" ,EuroSport 1
+http://149.62.183.208:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-id="EUROSPORT1HD" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true" ,EuroSport 1
+http://185.41.244.69:80/eurosport1/tracks-v2a1a2/mono.m3u8
+#EXTINF:0 group-title="Deportes" tvg-id="EUROSPORT1HD" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true" ,Eurosport 1
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/296
-#EXTINF:-1 group-title="Deportes" tvg-id="EUROSPORT2HD" tvg-name="3" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-2-es.png?raw=true" ,EuroSport 2
+#EXTINF:-1 group-title="Deportes" tvg-id="EUROSPORT2HD" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-2-es.png?raw=true" ,EuroSport 2
 http://149.62.183.208:8000/play/a00n/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-id="EUROSPORT2HD" tvg-name="3" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-2-es.png?raw=true" ,EuroSport 2
+#EXTINF:0 group-title="Deportes" tvg-id="EUROSPORT2HD" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-2-es.png?raw=true" ,EuroSport 2
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/294
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="5f1abf5fafb5ee0007d4d0ca" tvg-name="9" audio-track="Español" tvg-logo="https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png" ,FailArmy
+#EXTINF:-1 group-title="Entretenimiento" tvg-id="5f1abf5fafb5ee0007d4d0ca" tvg-name="9" audio-track="es" tvg-logo="https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png" ,FailArmy
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1abf5fafb5ee0007d4d0ca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Peliculas" tvg-id="fox.es" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/fox-es.png?raw=true" ,FOX
+#EXTINF:-1 group-title="Peliculas" tvg-id="fox.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/fox-es.png?raw=true" ,FOX
 http://149.62.183.208:8000/play/a015/index.m3u8
-#EXTINF:-1 group-title="Deportes Latino" tvg-id="FOX.SPORTS.HD.(FOX.SPORTS.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" ,Fox Sports
+#EXTINF:-1 group-title="Deportes Latino" tvg-id="FOX.SPORTS.HD.(FOX.SPORTS.HD).co" tvg-name="4" audio-track="lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" ,Fox Sports
 http://190.61.102.67:2000/play/a061/index.m3u8
-#EXTINF:-1 group-title="Deportes Latino" tvg-id="Fox.Sports.3.(Fox.Sports.3.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1920px-Fox_sports_3_logo.svg.png" ,Fox Sports 3
+#EXTINF:-1 group-title="Deportes Latino" tvg-id="Fox.Sports.3.(Fox.Sports.3.HD).co" tvg-name="4" audio-track="lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1920px-Fox_sports_3_logo.svg.png" ,Fox Sports 3
 http://190.61.102.67:2000/play/a00w/index.m3u8
-#EXTINF:-1 group-title="UK News" tvg-id="FRANCE.24.HD.uk" tvg-name="1" audio-track="English" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/france/france-24-fr.png?raw=true" ,FRANCE 24
+#EXTINF:-1 group-title="UK News" tvg-id="FRANCE.24.HD.uk" tvg-name="1" audio-track="en" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/france/france-24-fr.png?raw=true" ,FRANCE 24
 http://45.153.35.224:8000/play/a00w
-#EXTINF:-1 group-title="UK Sports" tvg-id="FreeSports.HD.uk" tvg-name="1" audio-track="English" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/free-sports-uk.png?raw=true" ,FreeSports
+#EXTINF:-1 group-title="UK Sports" tvg-id="FreeSports.HD.uk" tvg-name="1" audio-track="en" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/free-sports-uk.png?raw=true" ,FreeSports
 http://45.153.35.224:8000/play/a00r
-#EXTINF:-1 group-title="Deportes" tvg-id="60f1673d0e4370000784dc61" tvg-name="9" audio-track="Español" tvg-logo="https://images.pluto.tv/channels/60f1673d0e4370000784dc61/colorLogoPNG.png" ,FUEL TV
+#EXTINF:-1 group-title="Deportes" tvg-id="60f1673d0e4370000784dc61" tvg-name="9" audio-track="es" tvg-logo="https://images.pluto.tv/channels/60f1673d0e4370000784dc61/colorLogoPNG.png" ,FUEL TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f1673d0e4370000784dc61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Deportes" tvg-id="gol.es" tvg-name="3" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/gol-es.png?raw=true" ,Gol TV
-http://149.62.183.208:8000/play/a00k/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="gol.es" tvg-name="2" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/gol-es.png?raw=true" ,Gol TV
+#EXTINF:-1 group-title="Deportes" tvg-id="gol.es" tvg-name="2" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/gol-es.png?raw=true" ,Gol TV
 http://154.62.74.29:1935/live/gol/playlist.m3u8
-#EXTINF:-1 group-title="Documentales" tvg-id="HISTORIA" tvg-name="3" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,Historia
+#EXTINF:-1 group-title="Deportes" tvg-id="gol.es" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/gol-es.png?raw=true" ,Gol TV
+http://149.62.183.208:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-id="HISTORIA" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,Historia
 http://149.62.183.208:8000/play/a03y/index.m3u8
-#EXTINF:-1 group-title="Documentales" tvg-id="HISTORIA" tvg-name="4" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,Historia
-http://185.41.244.69/historia/tracks-v1a1a1/mono.m3u8
-#EXTINF:0 group-title="Documentales" tvg-id="HISTORIA" tvg-name="3" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,Historia
+#EXTINF:0 group-title="Documentales" tvg-id="HISTORIA" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,Historia
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/274
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="3" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
-http://181.176.148.142:8000/play/a01p
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
-http://181.78.22.214:8000/play/a004
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
-http://190.187.200.69:8000/play/a00c
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
-http://190.61.102.67:2000/play/a017/index.m3u8
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="6 No se ve" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
-http://200.24.159.179:8500/play/a004
-#EXTINF:0 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
-http://45.179.140.242:8000/play/a0ju
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="1" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
+#EXTINF:-1 group-title="Documentales" tvg-id="HISTORIA" tvg-name="4" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,Historia
+http://185.41.244.69/historia/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="1" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
 http://45.225.93.154:4000/play/a06b
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
-http://45.225.93.154:8000/play/a02n
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
-http://45.236.175.117:9600/play/a01p
-#EXTINF:0 group-title="USA Documentaries" tvg-id="History.HDTV.(East).(HISHD).us" tvg-name="2" audio-track="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png" ,History
+#EXTINF:0 group-title="USA Documentaries" tvg-id="History.HDTV.(East).(HISHD).us" tvg-name="2" audio-track="en" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png" ,History
 http://mlsh1.com:2086/malcolm1/malcolm/218313
-#EXTINF:0 group-title="USA Documentaries" tvg-id="History.HDTV.(East).(HISHD).us" tvg-name="2" audio-track="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png" ,History
+#EXTINF:0 group-title="USA Documentaries" tvg-id="History.HDTV.(East).(HISHD).us" tvg-name="2" audio-track="en" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png" ,History
 http://mlsh1.com:2086/malcolm1/malcolm/2299
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.2.HD.(H2.HD).pe" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/H2.us.png?raw=true" ,History 2
-http://190.61.102.67:2000/play/a00v/index.m3u8
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.2.HD.(H2.HD).pe" tvg-name="1" audio-track="Latino" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/H2.us.png?raw=true" ,History 2
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="3" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
+http://181.176.148.142:8000/play/a01p
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
+http://181.78.22.214:8000/play/a004
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
+http://190.187.200.69:8000/play/a00c
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
+http://190.61.102.67:2000/play/a017/index.m3u8
+#EXTINF:0 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
+http://45.179.140.242:8000/play/a0ju
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
+http://45.225.93.154:8000/play/a02n
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
+http://45.236.175.117:9600/play/a01p
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.CHANNEL.(History.Channel).co" tvg-name="6 No se ve" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,History
+http://200.24.159.179:8500/play/a004
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.2.HD.(H2.HD).pe" tvg-name="1" audio-track="lat" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/H2.us.png?raw=true" ,History 2
 http://45.225.93.154:4000/play/a0e4
-#EXTINF:0 group-title="UK Documentaries" tvg-id="History2.uk" tvg-name="2" audio-track="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Sky_History_2_2020.png" ,History 2
+#EXTINF:0 group-title="UK Documentaries" tvg-id="History2.uk" tvg-name="2" audio-track="en" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Sky_History_2_2020.png" ,History 2
 http://mlsh1.com:2086/malcolm1/malcolm/61
-#EXTINF:-1 group-title="UK" tvg-id="ITV.HD.uk" tvg-name="1" audio-track="English" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/itv-uk.png?raw=true" ,ITV
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="HISTORY.2.HD.(H2.HD).pe" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/H2.us.png?raw=true" ,History 2
+http://190.61.102.67:2000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="ITV.HD.uk" tvg-name="1" audio-track="en" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/itv-uk.png?raw=true" ,ITV
 http://45.153.35.224:8000/play/a00c
-#EXTINF:-1 group-title="UK" tvg-id="ITV.HD.uk" tvg-name="1" audio-track="English" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/itv-uk.png?raw=true" ,ITV
+#EXTINF:-1 group-title="UK" tvg-id="ITV.HD.uk" tvg-name="1" audio-track="en" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/itv-uk.png?raw=true" ,ITV
 http://45.153.35.224:8000/play/a00n
-#EXTINF:-1 group-title="UK" tvg-id="ITV.HD.uk" tvg-name="1" audio-track="English" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/u-tv-uk.png?raw=true" ,ITV
+#EXTINF:-1 group-title="UK" tvg-id="ITV.HD.uk" tvg-name="1" audio-track="en" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/u-tv-uk.png?raw=true" ,ITV
 http://45.153.35.224:8000/play/a018
-#EXTINF:-1 group-title="UK" tvg-id="ITV.HD.uk" tvg-name="1" audio-track="English" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/itv-uk.png?raw=true" ,ITV Anglia West
+#EXTINF:-1 group-title="UK" tvg-id="ITV.HD.uk" tvg-name="1" audio-track="en" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/itv-uk.png?raw=true" ,ITV Anglia West
 http://45.153.35.224:8000/play/a01f
-#EXTINF:-1 group-title="UK" tvg-id="ITV.HD.uk" tvg-name="1" audio-track="English" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/itv-uk.png?raw=true" ,ITV C East
+#EXTINF:-1 group-title="UK" tvg-id="ITV.HD.uk" tvg-name="1" audio-track="en" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/itv-uk.png?raw=true" ,ITV C East
 http://45.153.35.224:8000/play/a01g
-#EXTINF:-1 group-title="UK" tvg-id="ITV.HD.uk" tvg-name="1" audio-track="English" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/itv-uk.png?raw=true" ,ITV Med South
+#EXTINF:-1 group-title="UK" tvg-id="ITV.HD.uk" tvg-name="1" audio-track="en" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/itv-uk.png?raw=true" ,ITV Med South
 http://45.153.35.224:8000/play/a01b
-#EXTINF:-1 group-title="Entretenimiento" tvg-id="60a286daf888610007669801" tvg-name="9" audio-track="Español" tvg-logo="https://images.pluto.tv/channels/60a286daf888610007669801/colorLogoPNG.png" ,Just for Laughs
+#EXTINF:-1 group-title="Entretenimiento" tvg-id="60a286daf888610007669801" tvg-name="9" audio-track="es" tvg-logo="https://images.pluto.tv/channels/60a286daf888610007669801/colorLogoPNG.png" ,Just for Laughs
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga" tvg-name="3" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true" ,LaLiga
-http://149.62.183.208:8000/play/a01p/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-id="M. LaLiga" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true" ,LaLiga
+#EXTINF:0 group-title="Deportes" tvg-id="M. LaLiga" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true" ,LaLiga
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/309
-#EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga" tvg-name="2" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true" ,LaLiga
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/310
-#EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true" ,LaLiga
+#EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true" ,LaLiga
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/311
-#EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga 1 HD" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-1-es.png?raw=true" ,LaLiga 1
+#EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga" tvg-name="2" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true" ,LaLiga
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/310
+#EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true" ,LaLiga
+http://149.62.183.208:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga 1 HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-1-es.png?raw=true" ,LaLiga 1
 http://149.62.183.208:8000/play/a002/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-id="M. LaLiga 1 HD" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-1-es.png?raw=true" ,LaLiga 1
+#EXTINF:0 group-title="Deportes" tvg-id="M. LaLiga 1 HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-1-es.png?raw=true" ,LaLiga 1
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/308
-#EXTINF:0 group-title="Deportes" tvg-id="M. LaLiga 2 HD" tvg-name="2" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-2-es.png?raw=true" ,LaLiga 2
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/306
-#EXTINF:0 group-title="Deportes" tvg-id="M. LaLiga 2 HD" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-2-es.png?raw=true" ,LaLiga 2
+#EXTINF:0 group-title="Deportes" tvg-id="M. LaLiga 2 HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-2-es.png?raw=true" ,LaLiga 2
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/307
-#EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga 3 HD" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-3-es.png?raw=true" ,LaLiga 3
+#EXTINF:0 group-title="Deportes" tvg-id="M. LaLiga 2 HD" tvg-name="2" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-2-es.png?raw=true" ,LaLiga 2
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/306
+#EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga 3 HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-3-es.png?raw=true" ,LaLiga 3
 http://149.62.183.208:8000/play/a04t/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga 3 HD" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-3-es.png?raw=true" ,LaLiga 3
+#EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga 3 HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-3-es.png?raw=true" ,LaLiga 3
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2025
-#EXTINF:0 group-title="Deportes" tvg-id="M. LaLiga 3 HD" tvg-name="6 No se ve" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-3-es.png?raw=true" ,LaLiga 3
+#EXTINF:0 group-title="Deportes" tvg-id="M. LaLiga 3 HD" tvg-name="6 No se ve" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-3-es.png?raw=true" ,LaLiga 3
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/305
-#EXTINF:-1 group-title="Deportes" tvg-id="movistarcampeones.es" tvg-name="3" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true" ,Liga de Campeones
-http://149.62.183.208:8000/play/a02h/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-id="movistarcampeones.es" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true" ,Liga de Campeones
+#EXTINF:0 group-title="Deportes" tvg-id="movistarcampeones.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true" ,Liga de Campeones
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2009
-#EXTINF:0 group-title="Deportes" tvg-id="movistarcampeones.es" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true" ,Liga de Campeones
+#EXTINF:0 group-title="Deportes" tvg-id="movistarcampeones.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true" ,Liga de Campeones
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/285
-#EXTINF:-1 group-title="Deportes" tvg-id="M..Liga.de.Campeones.es" tvg-name="2" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true" ,Liga de Campeones
-http://hz01.oknirvana.club:8880/AA6M0485/535355353/2594
-#EXTINF:-1 group-title="Deportes" tvg-id="M..Liga.de.Campeones.es" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true" ,Liga de Campeones
+#EXTINF:-1 group-title="Deportes" tvg-id="M..Liga.de.Campeones.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true" ,Liga de Campeones
 http://hz01.oknirvana.club:8880/AA6M0485/535355353/52422
-#EXTINF:0 group-title="Deportes" tvg-id="LIGA CAMPEONES 1 FHD" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-1-es.png?raw=true" ,Liga de Campeones 1
+#EXTINF:-1 group-title="Deportes" tvg-id="M..Liga.de.Campeones.es" tvg-name="2" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true" ,Liga de Campeones
+http://hz01.oknirvana.club:8880/AA6M0485/535355353/2594
+#EXTINF:-1 group-title="Deportes" tvg-id="movistarcampeones.es" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true" ,Liga de Campeones
+http://149.62.183.208:8000/play/a02h/index.m3u8
+#EXTINF:0 group-title="Deportes" tvg-id="LIGA CAMPEONES 1 FHD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-1-es.png?raw=true" ,Liga de Campeones 1
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2024
-#EXTINF:0 group-title="Deportes" tvg-id="M.LCAMPEON2 FHD" tvg-name="6 No se ve" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-2-es.png?raw=true" ,Liga de Campeones 2
+#EXTINF:0 group-title="Deportes" tvg-id="M.LCAMPEON2 FHD" tvg-name="6 No se ve" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-2-es.png?raw=true" ,Liga de Campeones 2
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1997
-#EXTINF:0 group-title="Deportes" tvg-id="M.LCAMPEON5" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-5-es.png?raw=true" ,Liga de Campeones 5
+#EXTINF:0 group-title="Deportes" tvg-id="M.LCAMPEON5" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-5-es.png?raw=true" ,Liga de Campeones 5
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2007
-#EXTINF:0 group-title="Deportes" tvg-id="M.LCAMPEON7" tvg-name="6 No se ve" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-7-es.png?raw=true" ,Liga de Campeones 7
+#EXTINF:0 group-title="Deportes" tvg-id="M.LCAMPEON7" tvg-name="6 No se ve" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-7-es.png?raw=true" ,Liga de Campeones 7
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1998
-#EXTINF:0 group-title="Deportes" tvg-name="6 No se ve" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-8-es.png?raw=true" ,Liga de Campeones 8
+#EXTINF:0 group-title="Deportes" tvg-name="6 No se ve" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-8-es.png?raw=true" ,Liga de Campeones 8
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2012
-#EXTINF:0 group-title="Deportes" tvg-id="M.LCAMPEON6" tvg-name="6 No se ve" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-6-es.png?raw=true" ,Liga de Campeones6
+#EXTINF:0 group-title="Deportes" tvg-id="M.LCAMPEON6" tvg-name="6 No se ve" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-6-es.png?raw=true" ,Liga de Campeones6
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2008
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="5f1acbed25948a0007ffbe65" tvg-name="9" audio-track="Latino" tvg-logo="https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/colorLogoPNG.png" ,Los archivos del FBI
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="5f1acbed25948a0007ffbe65" tvg-name="9" audio-track="lat" tvg-logo="https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/colorLogoPNG.png" ,Los archivos del FBI
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acbed25948a0007ffbe65/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Documentales Latino" tvg-id="5f1acba0d1f6340007db8843" tvg-name="9" tvg-logo="https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png" ,Los nuevos detectives
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acba0d1f6340007db8843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Documentales" tvg-id="600ae6a78d801e0007117d21" tvg-name="9" audio-track="Español" tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png" ,Love Nature
+#EXTINF:-1 group-title="Documentales" tvg-id="600ae6a78d801e0007117d21" tvg-name="9" audio-track="es" tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png" ,Love Nature
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600ae6a78d801e0007117d21/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Documentales" tvg-id="60dd6b1da79e4d0007309455" tvg-name="9" audio-track="Español" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" ,Love Nature
+#EXTINF:-1 group-title="Documentales" tvg-id="60dd6b1da79e4d0007309455" tvg-name="9" audio-track="es" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" ,Love Nature
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga 2 HD" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-2-es.png?raw=true" ,M+ LaLiga 2 HD
+#EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga 2 HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-2-es.png?raw=true" ,M+ LaLiga 2 HD
 http://149.62.183.208:8000/play/a04s/index.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-id="movistaraccion.es" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-accion-es.png?raw=true" ,M. Accion
+#EXTINF:-1 group-title="Peliculas" tvg-id="movistaraccion.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-accion-es.png?raw=true" ,M. Accion
 http://149.62.183.208:8000/play/a017/index.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-id="movistaraccion.es" tvg-name="3" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-accion-es.png?raw=true" ,M. Accion
+#EXTINF:-1 group-title="Peliculas" tvg-id="movistaraccion.es" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-accion-es.png?raw=true" ,M. Accion
 http://149.62.183.208:8000/play/a04h/index.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-id="movistarespanol.es" tvg-name="3" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-cine-espanol-es.png?raw=true" ,M. Cine Ñ
+#EXTINF:-1 group-title="Peliculas" tvg-id="movistarespanol.es" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-cine-espanol-es.png?raw=true" ,M. Cine Ñ
 http://149.62.183.208:8000/play/a042/index.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-id="M. CLÁSICOS HD" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/movistar-clasicos-es.png?raw=true" ,M. Clasicos
+#EXTINF:-1 group-title="Peliculas" tvg-id="M. CLÁSICOS HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/movistar-clasicos-es.png?raw=true" ,M. Clasicos
 http://149.62.183.208:8000/play/a04b/index.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-id="movistarcomedia.es" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-comedia-es.png?raw=true" ,M. Comedia
+#EXTINF:-1 group-title="Peliculas" tvg-id="movistarcomedia.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-comedia-es.png?raw=true" ,M. Comedia
 http://149.62.183.208:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-id="mdrama.es" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-drama-es.png?raw=true" ,M. Drama
+#EXTINF:-1 group-title="Peliculas" tvg-id="mdrama.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-drama-es.png?raw=true" ,M. Drama
 http://149.62.183.208:8000/play/a019/index.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-id="mdrama.es" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-drama-es.png?raw=true" ,M. Drama
+#EXTINF:-1 group-title="Peliculas" tvg-id="mdrama.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-drama-es.png?raw=true" ,M. Drama
 http://149.62.183.208:8000/play/a04j/index.m3u8
-#EXTINF:0 group-title="Peliculas" tvg-id="mdrama.es" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-drama-es.png?raw=true" ,M. Drama
+#EXTINF:0 group-title="Peliculas" tvg-id="mdrama.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-drama-es.png?raw=true" ,M. Drama
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/356
-#EXTINF:0 group-title="Peliculas" tvg-id="mdrama.es" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-drama-es.png?raw=true" ,M. Drama
+#EXTINF:0 group-title="Peliculas" tvg-id="mdrama.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-drama-es.png?raw=true" ,M. Drama
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/358
-#EXTINF:0 group-title="Peliculas" tvg-id="movistarestrenos.es" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-estrenos-es.png?raw=true" ,M. Estrenos
+#EXTINF:0 group-title="Peliculas" tvg-id="movistarestrenos.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-estrenos-es.png?raw=true" ,M. Estrenos
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/363
-#EXTINF:0 group-title="Peliculas" tvg-id="movistarestrenos.es" tvg-name="2" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-estrenos-es.png?raw=true" ,M. Estrenos
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/364
-#EXTINF:0 group-title="Peliculas" tvg-id="movistarestrenos.es" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-estrenos-es.png?raw=true" ,M. Estrenos
+#EXTINF:0 group-title="Peliculas" tvg-id="movistarestrenos.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-estrenos-es.png?raw=true" ,M. Estrenos
 http://hz01.oknirvana.club:8880/AA6M0485/535355353/52346
-#EXTINF:-1 group-title="Peliculas" tvg-id="M. ESTRENOS 2 HD" tvg-name="3" audio-track="Español" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/movistar-estrenos-2-es.png?raw=true" ,M. Estrenos 2
-http://149.62.183.208:8000/play/a03g/index.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-id="M. ESTRENOS 2 HD" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/movistar-estrenos-2-es.png?raw=true" ,M. Estrenos 2
+#EXTINF:0 group-title="Peliculas" tvg-id="movistarestrenos.es" tvg-name="2" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-estrenos-es.png?raw=true" ,M. Estrenos
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/364
+#EXTINF:-1 group-title="Peliculas" tvg-id="M. ESTRENOS 2 HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/movistar-estrenos-2-es.png?raw=true" ,M. Estrenos 2
 http://149.62.183.208:8000/play/a04u/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="*" tvg-name="3" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-multideporte-es.png?raw=true" ,Multideporte
+#EXTINF:-1 group-title="Peliculas" tvg-id="M. ESTRENOS 2 HD" tvg-name="3" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/movistar-estrenos-2-es.png?raw=true" ,M. Estrenos 2
+http://149.62.183.208:8000/play/a03g/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-id="*" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-multideporte-es.png?raw=true" ,Multideporte
 http://149.62.183.208:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="*" tvg-name="3" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-multideporte-es.png?raw=true" ,Multideporte
+#EXTINF:-1 group-title="Deportes" tvg-id="*" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-multideporte-es.png?raw=true" ,Multideporte
 http://149.62.183.208:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="Documentales" tvg-id="NAT GEO HD" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+#EXTINF:-1 group-title="Documentales" tvg-id="NAT GEO HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
 http://149.62.183.208:8000/play/a027/index.m3u8
-#EXTINF:0 group-title="Documentales Latino" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
-http://181.78.22.214:8000/play/a003
-#EXTINF:0 group-title="Documentales Latino" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
-http://190.187.200.69:8000/play/a00b
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
-http://190.61.102.67:2000/play/a01l/index.m3u8
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="6 No se ve" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
-http://200.24.159.179:8500/play/a003
-#EXTINF:0 group-title="Documentales" tvg-id="NAT GEO HD" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+#EXTINF:0 group-title="Documentales" tvg-id="NAT GEO HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/282
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="1" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="1" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
 http://45.225.93.154:4000/play/a05a
-#EXTINF:0 group-title="Documentales Latino" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
-http://45.225.93.154:8000/play/a02m
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
-http://45.236.175.117:9600/play/a01o
-#EXTINF:0 group-title="Documentales" tvg-id="NAT GEO HD" tvg-name="3" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
-http://goodtv2.nicexpress.xyz:80/live/MMJ5LRWWJW/4105795601/275479.m3u8
-#EXTINF:0 group-title="Documentales" tvg-id="NAT GEO HD" tvg-name="2" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+#EXTINF:0 group-title="Documentales" tvg-id="NAT GEO HD" tvg-name="2" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
 http://hz01.oknirvana.club:8880/AA6M0485/535355353/2547
-#EXTINF:-1 group-title="Documentales" tvg-id="natgeowild.es" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
+#EXTINF:0 group-title="Documentales" tvg-id="NAT GEO HD" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://goodtv2.nicexpress.xyz:80/live/MMJ5LRWWJW/4105795601/275479.m3u8
+#EXTINF:0 group-title="Documentales Latino" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://181.78.22.214:8000/play/a003
+#EXTINF:0 group-title="Documentales Latino" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://190.187.200.69:8000/play/a00b
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://190.61.102.67:2000/play/a01l/index.m3u8
+#EXTINF:0 group-title="Documentales Latino" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://45.225.93.154:8000/play/a02m
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://45.236.175.117:9600/play/a01o
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="6 No se ve" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
+http://200.24.159.179:8500/play/a003
+#EXTINF:-1 group-title="Documentales" tvg-id="natgeowild.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
 http://149.62.183.208:8000/play/a03l/index.m3u8
-#EXTINF:-1 group-title="Documentales" tvg-id="natgeowild.es" tvg-name="4" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
-http://149.62.183.208:8000/play/a04m/index.m3u8d
-#EXTINF:0 group-title="Documentales Latino" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="3" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
-http://190.61.102.67:2000/play/a03m/index.m3u8
-#EXTINF:-1 group-title="Documentales" tvg-id="natgeowild.es" tvg-name="1" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
+#EXTINF:-1 group-title="Documentales" tvg-id="natgeowild.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/280
-#EXTINF:0 group-title="Documentales" tvg-id="natgeowild.es" tvg-name="6 No se ve" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/281
-#EXTINF:-1 group-title="Documentales" tvg-id="natgeowild.es" tvg-name="2" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
+#EXTINF:-1 group-title="Documentales" tvg-id="natgeowild.es" tvg-name="2" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
 http://hz01.oknirvana.club:8880/AA6M0485/535355353/2548
-#EXTINF:-1 group-title="Documentales" tvg-id="natgeowild.es" tvg-name="2" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
+#EXTINF:-1 group-title="Documentales" tvg-id="natgeowild.es" tvg-name="2" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
 http://hz01.oknirvana.club:8880/AA6M0485/535355353/52378
-#EXTINF:-1 group-title="Documentales" tvg-id="odisea.es" tvg-name="3" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/odisea-es.png?raw=true" ,Odisea
+#EXTINF:0 group-title="Documentales Latino" tvg-id="NAT.GEO.(Nat.Geo).co" tvg-name="3" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
+http://190.61.102.67:2000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-id="natgeowild.es" tvg-name="4" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
+http://149.62.183.208:8000/play/a04m/index.m3u8d
+#EXTINF:0 group-title="Documentales" tvg-id="natgeowild.es" tvg-name="6 No se ve" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/281
+#EXTINF:-1 group-title="Documentales" tvg-id="odisea.es" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/odisea-es.png?raw=true" ,Odisea
 http://149.62.183.208:8000/play/a01f/index.m3u8
-#EXTINF:0 group-title="Documentales" tvg-id="odisea.es" tvg-name="3" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/odisea-es.png?raw=true" ,Odisea
+#EXTINF:0 group-title="Documentales" tvg-id="odisea.es" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/odisea-es.png?raw=true" ,Odisea
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/273
-#EXTINF:-1 group-title="Documentales" tvg-id="odisea.es" tvg-name="3" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/odisea-es.png?raw=true" ,Odisea
+#EXTINF:-1 group-title="Documentales" tvg-id="odisea.es" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/odisea-es.png?raw=true" ,Odisea
 http://hz01.oknirvana.club:8880/AA6M0485/535355353/2541
-#EXTINF:0 group-title="Peliculas Latino" tvg-id="PARAMOUNT.(Paramount).co" tvg-name="1" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/paramount-network-es.png?raw=true" ,Paramount
+#EXTINF:0 group-title="Peliculas Latino" tvg-id="PARAMOUNT.(Paramount).co" tvg-name="1" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/paramount-network-es.png?raw=true" ,Paramount
 http://45.225.93.154:4000/play/a05j
-#EXTINF:-1 group-title="Peliculas" tvg-id="paramountchannel.es" tvg-name="3" audio-track="Español" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/paramount-network-es.png?raw=true" ,Paramount Channel
+#EXTINF:-1 group-title="Peliculas" tvg-id="paramountchannel.es" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/paramount-network-es.png?raw=true" ,Paramount Channel
 http://149.62.183.208:8000/play/a033/index.m3u8
-#EXTINF:-1 group-title="Telenovelas" tvg-id="Pasiones.Hd.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" ,Pasiones
+#EXTINF:-1 group-title="Telenovelas" tvg-id="Pasiones.Hd.cl" tvg-name="4" audio-track="lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" ,Pasiones
 http://45.225.93.154:4000/play/pasioneshd
-#EXTINF:-1 group-title="UK" tvg-id="Pick.uk" tvg-name="3" audio-track="English" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/pick-uk.png?raw=true" ,Pick
+#EXTINF:-1 group-title="UK" tvg-id="Pick.uk" tvg-name="3" audio-track="en" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/pick-uk.png?raw=true" ,Pick
 http://45.153.35.224:8000/play/a00j
-#EXTINF:-1 group-title="UK" tvg-id="Pick+1.uk" tvg-name="3" audio-track="English" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/pick-plus-uk.png?raw=true" ,Pick +1
+#EXTINF:-1 group-title="UK" tvg-id="Pick+1.uk" tvg-name="3" audio-track="en" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/pick-plus-uk.png?raw=true" ,Pick +1
 http://45.153.35.224:8000/play/a00k
-#EXTINF:-1 group-title="Deportes" tvg-id="5f1ac8588734f8000823b7de" tvg-name="9" audio-track="Español" tvg-logo="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png" ,Pluto TV Action Sports
+#EXTINF:-1 group-title="Deportes" tvg-id="5f1ac8588734f8000823b7de" tvg-name="9" audio-track="es" tvg-logo="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png" ,Pluto TV Action Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8588734f8000823b7de/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Peliculas" tvg-id="5f1ac2591dd8880007bb7d6d" tvg-name="9" audio-track="Español" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" ,Pluto TV Cine Acción
+#EXTINF:-1 group-title="Peliculas" tvg-id="5f1ac2591dd8880007bb7d6d" tvg-name="9" audio-track="es" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" ,Pluto TV Cine Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Peliculas" tvg-id="61373bb45168fe000773eecd" tvg-name="9" audio-track="Español" tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" ,Pluto TV Cine Clásico
+#EXTINF:-1 group-title="Peliculas" tvg-id="61373bb45168fe000773eecd" tvg-name="9" audio-track="es" tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" ,Pluto TV Cine Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Peliculas" tvg-id="5f1ac8099c49f600076579b2" tvg-name="9" audio-track="Español" tvg-logo="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG.png" ,Pluto TV Cine Comedia
+#EXTINF:-1 group-title="Peliculas" tvg-id="5f1ac8099c49f600076579b2" tvg-name="9" audio-track="es" tvg-logo="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG.png" ,Pluto TV Cine Comedia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Peliculas" tvg-id="5f1ac947dcd00d0007937c08" tvg-name="9" audio-track="Español" tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png" ,Pluto TV Cine Drama
+#EXTINF:-1 group-title="Peliculas" tvg-id="5f1ac947dcd00d0007937c08" tvg-name="9" audio-track="es" tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png" ,Pluto TV Cine Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Peliculas" tvg-id="5f1ac1f1b66c76000790ef27" tvg-name="9" audio-track="Español" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" ,Pluto TV Cine Estelar
+#EXTINF:-1 group-title="Peliculas" tvg-id="5f1ac1f1b66c76000790ef27" tvg-name="9" audio-track="es" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" ,Pluto TV Cine Estelar
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Peliculas" tvg-id="5f1ac9a2d3611d0007a844bb" tvg-name="9" audio-track="Español" tvg-logo="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG.png" ,Pluto TV Cine Romántico
+#EXTINF:-1 group-title="Peliculas" tvg-id="5f1ac9a2d3611d0007a844bb" tvg-name="9" audio-track="es" tvg-logo="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG.png" ,Pluto TV Cine Romántico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Documentales" tvg-id="61cd78920b90cb0007e28231" tvg-name="9" audio-track="Español" tvg-logo="https://images.pluto.tv/channels/61cd78920b90cb0007e28231/colorLogoPNG.png" ,Pluto TV Documentales
+#EXTINF:-1 group-title="Documentales" tvg-id="61cd78920b90cb0007e28231" tvg-name="9" audio-track="es" tvg-logo="https://images.pluto.tv/channels/61cd78920b90cb0007e28231/colorLogoPNG.png" ,Pluto TV Documentales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61cd78920b90cb0007e28231/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Deportes" tvg-id="6140a074a99e79000738162a" tvg-name="9" audio-track="Español" tvg-logo="https://images.pluto.tv/channels/6140a074a99e79000738162a/colorLogoPNG.png" ,Pluto TV Fitness
+#EXTINF:-1 group-title="Deportes" tvg-id="6140a074a99e79000738162a" tvg-name="9" audio-track="es" tvg-logo="https://images.pluto.tv/channels/6140a074a99e79000738162a/colorLogoPNG.png" ,Pluto TV Fitness
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6140a074a99e79000738162a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Peliculas" tvg-id="60cc807324d60a0007708dc8" tvg-name="9" audio-track="Español" tvg-logo="https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" ,Pluto TV Indies
+#EXTINF:-1 group-title="Peliculas" tvg-id="60cc807324d60a0007708dc8" tvg-name="9" audio-track="es" tvg-logo="https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" ,Pluto TV Indies
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60cc807324d60a0007708dc8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Documentales" tvg-id="602ba1cfb386d30007aecbbe" tvg-name="9" audio-track="Español" tvg-logo="https://images.pluto.tv/channels/602ba1cfb386d30007aecbbe/colorLogoPNG.png" ,Pluto TV Investiga
+#EXTINF:-1 group-title="Documentales" tvg-id="602ba1cfb386d30007aecbbe" tvg-name="9" audio-track="es" tvg-logo="https://images.pluto.tv/channels/602ba1cfb386d30007aecbbe/colorLogoPNG.png" ,Pluto TV Investiga
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602ba1cfb386d30007aecbbe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Peliculas" tvg-id="5f6a38eaa5b68b0007a00e7a" tvg-name="9" audio-track="Español" tvg-logo="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png" ,Pluto TV Sci-Fi
+#EXTINF:-1 group-title="Peliculas" tvg-id="5f6a38eaa5b68b0007a00e7a" tvg-name="9" audio-track="es" tvg-logo="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png" ,Pluto TV Sci-Fi
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Telenovelas" tvg-id="60b4c06717da110007ee1af6" tvg-name="9" audio-track="Latino" tvg-logo="https://images.pluto.tv/channels/60b4c06717da110007ee1af6/colorLogoPNG.png" ,Pluto TV Telenovelas
+#EXTINF:-1 group-title="Telenovelas" tvg-id="60b4c06717da110007ee1af6" tvg-name="9" audio-track="lat" tvg-logo="https://images.pluto.tv/channels/60b4c06717da110007ee1af6/colorLogoPNG.png" ,Pluto TV Telenovelas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Peliculas" tvg-id="5f1ac8a87cd38d000745d7cf" tvg-name="9" audio-track="Español" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" ,Pluto TV Thrillers
+#EXTINF:-1 group-title="Peliculas" tvg-id="5f1ac8a87cd38d000745d7cf" tvg-name="9" audio-track="es" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" ,Pluto TV Thrillers
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Documentales" tvg-id="60c343ad476ec00007c2ec1a" tvg-name="9" audio-track="Español" tvg-logo="https://images.pluto.tv/channels/60c343ad476ec00007c2ec1a/colorLogoPNG.png" ,Pluto TV Viajes
+#EXTINF:-1 group-title="Documentales" tvg-id="60c343ad476ec00007c2ec1a" tvg-name="9" audio-track="es" tvg-logo="https://images.pluto.tv/channels/60c343ad476ec00007c2ec1a/colorLogoPNG.png" ,Pluto TV Viajes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c343ad476ec00007c2ec1a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="UK Documentaries" tvg-id="QUEST.uk" tvg-name="1" audio-track="English" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/quest-uk.png?raw=true" ,QUEST
+#EXTINF:-1 group-title="UK Documentaries" tvg-id="QUEST.uk" tvg-name="1" audio-track="en" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/quest-uk.png?raw=true" ,QUEST
 http://45.153.35.224:8000/play/a00s
-#EXTINF:-1 group-title="Deportes" tvg-id="R. MADRID TV" tvg-name="3" audio-track="ES" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/real-madrid-tv-es.png?raw=true" ,Real Madrid TV
-http://149.62.183.208:8000/play/a01q/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="R. MADRID TV" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/real-madrid-tv-es.png?raw=true" ,Real Madrid TV
+#EXTINF:-1 group-title="Deportes" tvg-id="R. MADRID TV" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/real-madrid-tv-es.png?raw=true" ,Real Madrid TV
 http://185.41.244.69:80/realmadridtvhd/tracks-v3a1a2/mono.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="S4C.uk" tvg-name="1" audio-track="English" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/s4c-uk.png?raw=true" ,S4C
+#EXTINF:-1 group-title="Deportes" tvg-id="R. MADRID TV" tvg-name="3" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/real-madrid-tv-es.png?raw=true" ,Real Madrid TV
+http://149.62.183.208:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="S4C.uk" tvg-name="1" audio-track="en" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/s4c-uk.png?raw=true" ,S4C
 http://45.153.35.224:8000/play/a00p
-#EXTINF:0 group-title="UK Documentaries" tvg-id="History.HD.uk" tvg-name="3" audio-track="EN" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Sky_History_2020.png?raw=true" ,Sky History
-http://mlsh1.com:2086/malcolm1/malcolm/62
-#EXTINF:0 group-title="UK Documentaries" tvg-id="History.HD.uk" tvg-name="3" audio-track="EN" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Sky_History_2020.png?raw=true" ,Sky History
-http://mlsh1.com:2086/malcolm1/malcolm/647
-#EXTINF:0 group-title="UK Documentaries" tvg-id="History.HD.uk" tvg-name="1" audio-track="EN" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Sky_History_2020.png?raw=true" ,Sky History
+#EXTINF:0 group-title="UK Documentaries" tvg-id="History.HD.uk" tvg-name="1" audio-track="en" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Sky_History_2020.png?raw=true" ,Sky History
 http://mlsh1.com:2086/malcolm1/malcolm/6770
-#EXTINF:-1 group-title="UK News" tvg-id="Sky.News.HD.uk" tvg-name="3" audio-track="English" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-news-uk.png?raw=true" ,Sky News
+#EXTINF:0 group-title="UK Documentaries" tvg-id="History.HD.uk" tvg-name="3" audio-track="en" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Sky_History_2020.png?raw=true" ,Sky History
+http://mlsh1.com:2086/malcolm1/malcolm/62
+#EXTINF:0 group-title="UK Documentaries" tvg-id="History.HD.uk" tvg-name="3" audio-track="en" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Sky_History_2020.png?raw=true" ,Sky History
+http://mlsh1.com:2086/malcolm1/malcolm/647
+#EXTINF:-1 group-title="UK News" tvg-id="Sky.News.HD.uk" tvg-name="3" audio-track="en" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-news-uk.png?raw=true" ,Sky News
 http://45.153.35.224:8000/play/a00l
-#EXTINF:-1 group-title="UK" tvg-id="Smithsonian.HD.uk" tvg-name="1" audio-track="English" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/smithsonian-channel-uk.png?raw=true" ,Smithsonian Channel
+#EXTINF:-1 group-title="UK" tvg-id="Smithsonian.HD.uk" tvg-name="1" audio-track="en" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/smithsonian-channel-uk.png?raw=true" ,Smithsonian Channel
 http://45.153.35.224:8000/play/a00e
-#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Sony.(Sony.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony Channel
-http://181.78.22.214:8000/play/a01j
-#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Sony.(Sony.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony Channel
-http://190.187.200.69:8000/play/a022
-#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Sony.(Sony.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony Channel
-http://190.61.102.67:2000/play/a002/index.m3u8
-#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Sony.(Sony.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony Channel
-http://45.179.140.242:8000/play/a0j8
-#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Sony.(Sony.HD).co" tvg-name="1" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony Channel
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Sony.(Sony.HD).co" tvg-name="1" audio-track="lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony Channel
 http://45.225.93.154:4000/play/a06d
-#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Sony.(Sony.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony Channel
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Sony.(Sony.HD).co" tvg-name="4" audio-track="lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony Channel
+http://181.78.22.214:8000/play/a01j
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Sony.(Sony.HD).co" tvg-name="4" audio-track="lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony Channel
+http://190.187.200.69:8000/play/a022
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Sony.(Sony.HD).co" tvg-name="4" audio-track="lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony Channel
+http://190.61.102.67:2000/play/a002/index.m3u8
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Sony.(Sony.HD).co" tvg-name="4" audio-track="lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony Channel
+http://45.179.140.242:8000/play/a0j8
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Sony.(Sony.HD).co" tvg-name="4" audio-track="lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony Channel
 http://45.225.93.154:8000/play/a038
-#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Sony.(Sony.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony Channel
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Sony.(Sony.HD).co" tvg-name="4" audio-track="lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony Channel
 http://45.236.175.117:9600/play/a02f
-#EXTINF:-1 group-title="Peliculas Latino" tvg-id="STUDIO.UNIVERSAL.(Studio.Universal).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" ,Studio Universal
-http://190.61.102.67:2000/play/a04o/index.m3u8
-#EXTINF:-1 group-title="Peliculas Latino" tvg-id="STUDIO.UNIVERSAL.(Studio.Universal).co" tvg-name="1" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" ,Studio Universal
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="STUDIO.UNIVERSAL.(Studio.Universal).co" tvg-name="1" audio-track="lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" ,Studio Universal
 http://45.225.93.154:4000/play/studiouniversalhd
-#EXTINF:-1 group-title="UK" tvg-id="CHSTV.uk" tvg-name="1" audio-track="English" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/stv-uk.png?raw=true" ,STV
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="STUDIO.UNIVERSAL.(Studio.Universal).co" tvg-name="4" audio-track="lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" ,Studio Universal
+http://190.61.102.67:2000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="CHSTV.uk" tvg-name="1" audio-track="en" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/stv-uk.png?raw=true" ,STV
 http://45.153.35.224:8000/play/a017
-#EXTINF:-1 group-title="Documentales Latino" tvg-id="Sun.Channel.cl" tvg-name="1" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/sun-Channel.png?raw=true" ,Sun Channel
+#EXTINF:-1 group-title="Documentales Latino" tvg-id="Sun.Channel.cl" tvg-name="1" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/sun-Channel.png?raw=true" ,Sun Channel
 http://45.225.93.154:4000/play/a0aj
-#EXTINF:-1 group-title="Peliculas" tvg-id="sundance.es" tvg-name="3" audio-track="ES" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/SundanceTV.es.png?raw=true" ,Sundance TV
+#EXTINF:-1 group-title="Peliculas" tvg-id="sundance.es" tvg-name="3" audio-track="es" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/SundanceTV.es.png?raw=true" ,Sundance TV
 http://149.62.183.208:8000/play/a012/index.m3u8
-#EXTINF:0 group-title="Peliculas" tvg-id="sundance.es" tvg-name="3" audio-track="ES" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/SundanceTV.es.png?raw=true" ,Sundance TV
+#EXTINF:0 group-title="Peliculas" tvg-id="sundance.es" tvg-name="3" audio-track="es" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/SundanceTV.es.png?raw=true" ,Sundance TV
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/371
-#EXTINF:-1 group-title="Peliculas" tvg-id="tcm.es" tvg-name="4" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tcm-es.png?raw=true" ,TCM
-http://149.62.183.208:8000/play/a02v/index.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-id="tcm.es" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tcm-es.png?raw=true" ,TCM
+#EXTINF:-1 group-title="Peliculas" tvg-id="tcm.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tcm-es.png?raw=true" ,TCM
 http://149.62.183.208:8000/play/a03j/index.m3u8
-#EXTINF:-1 group-title="Peliculas Latino" tvg-id="TCM.(TCM).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/TCM%20Latin_America.png?raw=true" ,TCM
-http://181.78.22.214:8000/play/a00b
-#EXTINF:0 group-title="Peliculas" tvg-id="tcm.es" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/tcm-es.png?raw=true" ,TCM
+#EXTINF:0 group-title="Peliculas" tvg-id="tcm.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/tcm-es.png?raw=true" ,TCM
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/347
-#EXTINF:-1 group-title="Peliculas" tvg-id="tcm.es" tvg-name="6 No se ve" audio-track="ES" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tcm-es.png?raw=true" ,TCM
-http://38.131.11.9:1080/play/a010
-#EXTINF:-1 group-title="Peliculas Latino" tvg-id="TCM.(TCM).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/TCM%20Latin_America.png?raw=true" ,TCM
+#EXTINF:-1 group-title="Peliculas" tvg-id="tcm.es" tvg-name="4" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tcm-es.png?raw=true" ,TCM
+http://149.62.183.208:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="TCM.(TCM).co" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/TCM%20Latin_America.png?raw=true" ,TCM
+http://181.78.22.214:8000/play/a00b
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="TCM.(TCM).co" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/TCM%20Latin_America.png?raw=true" ,TCM
 http://45.225.93.154:8000/play/a02w
-#EXTINF:-1 group-title="Peliculas Latino" tvg-id="TCM.(TCM).co" tvg-name="4" audio-track="Latino" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/TCM%20Latin_America.png?raw=true" ,TCM
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="TCM.(TCM).co" tvg-name="4" audio-track="lat" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/TCM%20Latin_America.png?raw=true" ,TCM
 http://45.236.175.117:9600/play/a01y
-#EXTINF:0 group-title="Peliculas" tvg-id="tcm.es" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/tcm-es.png?raw=true" ,TCM HD
+#EXTINF:-1 group-title="Peliculas" tvg-id="tcm.es" tvg-name="6 No se ve" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tcm-es.png?raw=true" ,TCM
+http://38.131.11.9:1080/play/a010
+#EXTINF:0 group-title="Peliculas" tvg-id="tcm.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/tcm-es.png?raw=true" ,TCM HD
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/346
-#EXTINF:-1 group-title="Deportes" tvg-id="TELEDEPORTE" tvg-name="3" audio-track="ES" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/tdp-es.png?raw=true" ,Teledeporte
-http://149.62.183.208:8000/play/a02z/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-id="TELEDEPORTE" tvg-name="2" audio-track="ES" tvg-logo-small="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/tdp-es.png?raw=true" ,Teledeporte
+#EXTINF:0 group-title="Deportes" tvg-id="TELEDEPORTE" tvg-name="2" audio-track="es" tvg-logo-small="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/tdp-es.png?raw=true" ,Teledeporte
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/313
-#EXTINF:-1 group-title="USA Sports" tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="2" audio-track="English" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1504784285/pbiwodhpixmuavkknwnw.png" ,Tennis Channel
+#EXTINF:-1 group-title="Deportes" tvg-id="TELEDEPORTE" tvg-name="3" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/tdp-es.png?raw=true" ,Teledeporte
+http://149.62.183.208:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="USA Sports" tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="2" audio-track="en" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1504784285/pbiwodhpixmuavkknwnw.png" ,Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Telenovelas" tvg-id="Tlnovelas.cl" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" ,Tlnovelas
+#EXTINF:-1 group-title="Telenovelas" tvg-id="Tlnovelas.cl" tvg-name="4" audio-track="lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" ,Tlnovelas
 http://181.176.148.142:8000/play/a00e
-#EXTINF:-1 group-title="Peliculas" tvg-id="tnt.es" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/tnt-es.png?raw=true" ,TNT
+#EXTINF:-1 group-title="Peliculas" tvg-id="tnt.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/tnt-es.png?raw=true" ,TNT
 http://149.62.183.208:8000/play/a03k/index.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-id="tnt.es" tvg-name="1" audio-track="ES" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/tnt-es.png?raw=true" ,TNT
+#EXTINF:-1 group-title="Peliculas" tvg-id="tnt.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/tnt-es.png?raw=true" ,TNT
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/344
-#EXTINF:0 group-title="Peliculas" tvg-id="tnt.es" tvg-name="2" audio-track="ES" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/tnt-es.png?raw=true" ,TNT
+#EXTINF:0 group-title="Peliculas" tvg-id="tnt.es" tvg-name="2" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/tnt-es.png?raw=true" ,TNT
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/345
 #EXTINF:-1 group-title="UK News" tvg-id="TRT.World.HD.uk" tvg-name="1" audio-track="Englilsh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/320px-TRT_World.svg.png" ,TRT World
 http://45.153.35.224:8000/play/a00g
-#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Universal.TV.(Universal.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" ,Universal TV
-http://181.78.22.214:8000/play/a006
-#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Universal.TV.(Universal.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" ,Universal TV
-http://190.187.200.69:8000/play/a00e
-#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Universal.TV.(Universal.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" ,Universal TV
-http://190.61.102.67:2000/play/a03d/index.m3u8
-#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Universal.TV.(Universal.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" ,Universal TV
-http://45.179.140.242:8000/play/a0jw
-#EXTINF:0 group-title="Peliculas Latino" tvg-id="Universal.TV.(Universal.HD).co" tvg-name="1" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" ,Universal TV
+#EXTINF:0 group-title="Peliculas Latino" tvg-id="Universal.TV.(Universal.HD).co" tvg-name="1" audio-track="lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" ,Universal TV
 http://45.225.93.154:4000/play/a0ap
-#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Universal.TV.(Universal.HD).co" tvg-name="4" audio-track="Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" ,Universal TV
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Universal.TV.(Universal.HD).co" tvg-name="4" audio-track="lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" ,Universal TV
+http://181.78.22.214:8000/play/a006
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Universal.TV.(Universal.HD).co" tvg-name="4" audio-track="lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" ,Universal TV
+http://190.187.200.69:8000/play/a00e
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Universal.TV.(Universal.HD).co" tvg-name="4" audio-track="lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" ,Universal TV
+http://190.61.102.67:2000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Universal.TV.(Universal.HD).co" tvg-name="4" audio-track="lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" ,Universal TV
+http://45.179.140.242:8000/play/a0jw
+#EXTINF:-1 group-title="Peliculas Latino" tvg-id="Universal.TV.(Universal.HD).co" tvg-name="4" audio-track="lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" ,Universal TV
 http://45.225.93.154:8000/play/a02p
-#EXTINF:-1 group-title="USA Documentaries" tvg-id="Viasat.History.ru" tvg-name="3" audio-track="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png" ,Viasat History
+#EXTINF:-1 group-title="USA Documentaries" tvg-id="Viasat.History.ru" tvg-name="3" audio-track="en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png" ,Viasat History
 http://141.94.253.116:8000/play/a00b
-#EXTINF:-1 group-title="USA Documentaries" tvg-id="Viasat.History.ru" tvg-name="3" audio-track="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png" ,Viasat History
+#EXTINF:-1 group-title="USA Documentaries" tvg-id="Viasat.History.ru" tvg-name="3" audio-track="en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png" ,Viasat History
 http://91.185.3.218:4000/play/323
-#EXTINF:-1 group-title="UK" tvg-id="Zee.TV.uk" tvg-name="1" audio-track="English" tvg-logo="https://cdn.wionews.com/images/wion-logo.png" ,WION
+#EXTINF:-1 group-title="UK" tvg-id="Zee.TV.uk" tvg-name="1" audio-track="en" tvg-logo="https://cdn.wionews.com/images/wion-logo.png" ,WION
 http://45.153.35.224:8000/play/a01j
-#EXTINF:-1 group-title="UK" tvg-id="Zee.TV.uk" tvg-name="1" audio-track="English" tvg-logo="https://cdn.wionews.com/images/wion-logo.png" ,WION
+#EXTINF:-1 group-title="UK" tvg-id="Zee.TV.uk" tvg-name="1" audio-track="en" tvg-logo="https://cdn.wionews.com/images/wion-logo.png" ,WION
 http://45.153.35.224:8000/play/a01j
-#EXTINF:-1 group-title="Deportes" tvg-id="6080381ab7c9ea00074ec64c" tvg-name="9" audio-track="Español" tvg-logo="https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/colorLogoPNG.png" ,World Poker Tour
+#EXTINF:-1 group-title="Deportes" tvg-id="6080381ab7c9ea00074ec64c" tvg-name="9" audio-track="es" tvg-logo="https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/colorLogoPNG.png" ,World Poker Tour
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6080381ab7c9ea00074ec64c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
