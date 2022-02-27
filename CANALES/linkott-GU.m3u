@@ -1,259 +1,221 @@
 ﻿#EXTM3U
 #EXTINF:-1 group-title="Entretenimiento" tvg-id="#0.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/0_por_Movistar_Plus+.png?raw=true" ,#0 HEVC
-http://plus.linkott.com:80/50513041283809/97304261488292/180293
+http://plus.linkott.com:80/50766795442021/18528828456785/180293
 #EXTINF:-1 group-title="Deportes" tvg-id="vamos.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/vamos-es.png?raw=true" ,#Vamos
-http://plus.linkott.com:80/50513041283809/97304261488292/103173
+http://plus.linkott.com:80/50766795442021/18528828456785/103173
 #EXTINF:-1 group-title="Deportes" tvg-id="vamos.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/vamos-es.png?raw=true" ,#Vamos
-http://plus.linkott.com:80/50513041283809/97304261488292/180276
+http://plus.linkott.com:80/50766795442021/18528828456785/180276
 #EXTINF:-1 group-title="Deportes" tvg-id="vamos.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/vamos-es.png?raw=true" ,#Vamos
-http://plus.linkott.com:80/50513041283809/97304261488292/30007
+http://plus.linkott.com:80/50766795442021/18528828456785/30007
 #EXTINF:-1 group-title="Deportes" tvg-id="vamos.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/vamos-es.png?raw=true" ,#Vamos
-http://plus.linkott.com:80/50513041283809/97304261488292/30087
+http://plus.linkott.com:80/50766795442021/18528828456785/30087
 #EXTINF:-1 group-title="Deportes" tvg-id="vamos.es" tvg-name="2" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/vamos-es.png?raw=true" ,#Vamos
-http://plus.linkott.com:80/50513041283809/97304261488292/30108
+http://plus.linkott.com:80/50766795442021/18528828456785/30108
 #EXTINF:-1 group-title="Noticias" tvg-id="24 HORAS" tvg-name="3" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/24h-es.png?raw=true" ,24 Horas
-http://plus.linkott.com:80/50513041283809/97304261488292/30197
-#EXTINF:-1 group-title="UK" tvg-id="4Seven.uk" tvg-name="1" audio-track="en" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/4seven.uk.png?raw=true" ,4seven
-http://plus.linkott.com:80/50513041283809/97304261488292/47408
+http://plus.linkott.com:80/50766795442021/18528828456785/30197
 #EXTINF:-1 group-title="Peliculas" tvg-id="amc.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/AMC.es.png?raw=true" ,AMC
-http://plus.linkott.com:80/50513041283809/97304261488292/30193
-#EXTINF:-1 group-title="UK" tvg-id="AMC.uk" tvg-name="1" audio-track="en" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgYsdQbbiaXBNwcck8bI73IGNzNvdXhPS7vBzD3VjlR8kT7pct" ,AMC
-http://plus.linkott.com:80/50513041283809/97304261488292/47415
+http://plus.linkott.com:80/50766795442021/18528828456785/30193
 #EXTINF:-1 group-title="Peliculas" tvg-id="amc.es" tvg-name="3" audio-track="es" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/AMC.es.png?raw=true" ,AMC
-http://plus.linkott.com:80/50513041283809/97304261488292/30194
+http://plus.linkott.com:80/50766795442021/18528828456785/30194
 #EXTINF:-1 group-title="Peliculas" tvg-id="axn.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/axn-es.png?raw=true" ,AXN
-http://plus.linkott.com:80/50513041283809/97304261488292/30187
+http://plus.linkott.com:80/50766795442021/18528828456785/30187
 #EXTINF:-1 group-title="Peliculas" tvg-id="axn.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/axn-es.png?raw=true" ,AXN
-http://plus.linkott.com:80/50513041283809/97304261488292/30190
+http://plus.linkott.com:80/50766795442021/18528828456785/30190
 #EXTINF:-1 group-title="Peliculas" tvg-id="axnwhite.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/axn-white-es.png?raw=true" ,AXN White
-http://plus.linkott.com:80/50513041283809/97304261488292/30188
+http://plus.linkott.com:80/50766795442021/18528828456785/30188
 #EXTINF:-1 group-title="Deportes" tvg-id="BARCA TV" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/barca-tv-es.png?raw=true" ,Barça TV
-http://plus.linkott.com:80/50513041283809/97304261488292/30185
-#EXTINF:-1 group-title="UK" tvg-id="BBC.ALBA.uk" tvg-name="3" audio-track="en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/BBC_Alba_2021.svg/1920px-BBC_Alba_2021.svg.png" ,BBC ALBA
-http://plus.linkott.com:80/50513041283809/97304261488292/47436
-#EXTINF:-1 group-title="UK" tvg-id="BBC.One.Wales.uk" tvg-name="1" audio-track="en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1280px-BBC_One_logo_2021.svg.png" ,BBC One
-http://plus.linkott.com:80/50513041283809/97304261488292/47447
-#EXTINF:-1 group-title="UK" tvg-id="BBC.One.HD.uk" tvg-name="3" audio-track="en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1280px-BBC_One_logo_2021.svg.png" ,BBC One
-http://plus.linkott.com:80/50513041283809/97304261488292/47444
-#EXTINF:-1 group-title="UK" tvg-id="BBC.One.ScotHD.uk" tvg-name="2" audio-track="en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1280px-BBC_One_logo_2021.svg.png" ,BBC One [Scotland]
-http://plus.linkott.com:80/50513041283809/97304261488292/47443
-#EXTINF:-1 group-title="UK" tvg-id="BBC.One.Yorks.uk" tvg-name="3" audio-track="en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1280px-BBC_One_logo_2021.svg.png" ,BBC ONE [Yorkshire]
-http://plus.linkott.com:80/50513041283809/97304261488292/47446
-#EXTINF:-1 group-title="UK" tvg-id="BBC.Parliament.uk" tvg-name="3" audio-track="en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/1280px-BBC_Parliament_Logo.svg.png" ,BBC Parliamente
-http://plus.linkott.com:80/50513041283809/97304261488292/47435
-#EXTINF:-1 group-title="UK" tvg-id="BBC.Two.uk" tvg-name="1" audio-track="en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/360px-BBC_Two_logo_2021.svg.png" ,BBC Two
-http://plus.linkott.com:80/50513041283809/97304261488292/47442
-#EXTINF:-1 group-title="UK" tvg-id="BBC2NI.uk" tvg-name="1" audio-track="en" tvg-logo="https://www.bitcni.org.uk/wp-content/uploads/2018/09/BBC-logo.png" ,BBC Two B2
-http://plus.linkott.com:80/50513041283809/97304261488292/47440
-#EXTINF:-1 group-title="UK" tvg-id="BlackEntTv.uk" tvg-name="5" audio-track="en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/BET-2021Logo.svg/290px-BET-2021Logo.svg.png" ,BET
-http://plus.linkott.com:80/50513041283809/97304261488292/47407
+http://plus.linkott.com:80/50766795442021/18528828456785/30185
 #EXTINF:-1 group-title="Peliculas" tvg-id="calle13.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/calle-13-es.png?raw=true" ,Calle 13
-http://plus.linkott.com:80/50513041283809/97304261488292/30181
+http://plus.linkott.com:80/50766795442021/18528828456785/30181
 #EXTINF:-1 group-title="Peliculas" tvg-id="hollywood.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true" ,Canal Hollywood
-http://plus.linkott.com:80/50513041283809/97304261488292/103168
+http://plus.linkott.com:80/50766795442021/18528828456785/103168
 #EXTINF:-1 group-title="Peliculas" tvg-id="hollywood.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true" ,Canal Hollywood
-http://plus.linkott.com:80/50513041283809/97304261488292/180287
+http://plus.linkott.com:80/50766795442021/18528828456785/180287
 #EXTINF:-1 group-title="Peliculas" tvg-id="hollywood.es" tvg-name="2" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true" ,Canal Hollywood
-http://plus.linkott.com:80/50513041283809/97304261488292/30140
+http://plus.linkott.com:80/50766795442021/18528828456785/30140
 #EXTINF:-1 group-title="Peliculas" tvg-id="hollywood.es" tvg-name="2" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/canal-hollywood-es.png?raw=true" ,Canal Hollywood
-http://plus.linkott.com:80/50513041283809/97304261488292/30200
-#EXTINF:-1 group-title="UK" tvg-id="Challenge.uk" tvg-name="3" audio-track="en" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Challenge_2016_%28flat%29.svg/375px-Challenge_2016_%28flat%29.svg.png" ,Challenge
-http://plus.linkott.com:80/50513041283809/97304261488292/47405
+http://plus.linkott.com:80/50766795442021/18528828456785/30200
 #EXTINF:-1 group-title="Documentales" tvg-id="crimeinvestigation.es" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Crimen__Investigacion_2017.png?raw=true" ,CRIMEN+INVES
-http://plus.linkott.com:80/50513041283809/97304261488292/101598
+http://plus.linkott.com:80/50766795442021/18528828456785/101598
 #EXTINF:-1 group-title="Deportes" tvg-id="DAZN 1" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true" ,DAZN 1
-http://plus.linkott.com:80/50513041283809/97304261488292/149065
+http://plus.linkott.com:80/50766795442021/18528828456785/149065
 #EXTINF:-1 group-title="Deportes" tvg-id="DAZN 1" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true" ,DAZN 1
-http://plus.linkott.com:80/50513041283809/97304261488292/149066
+http://plus.linkott.com:80/50766795442021/18528828456785/149066
 #EXTINF:-1 group-title="Deportes" tvg-id="DAZN 1" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true" ,DAZN 1
-http://plus.linkott.com:80/50513041283809/97304261488292/149067
+http://plus.linkott.com:80/50766795442021/18528828456785/149067
 #EXTINF:-1 group-title="Deportes" tvg-id="DAZN 1" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true" ,DAZN 1
-http://plus.linkott.com:80/50513041283809/97304261488292/149068
+http://plus.linkott.com:80/50766795442021/18528828456785/149068
 #EXTINF:-1 group-title="Deportes" tvg-id="DAZN 1" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true" ,DAZN 1
-http://plus.linkott.com:80/50513041283809/97304261488292/149069
+http://plus.linkott.com:80/50766795442021/18528828456785/149069
 #EXTINF:-1 group-title="Deportes" tvg-id="DAZN 1" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true" ,DAZN 1
-http://plus.linkott.com:80/50513041283809/97304261488292/149072
+http://plus.linkott.com:80/50766795442021/18528828456785/149072
 #EXTINF:-1 group-title="Deportes" tvg-id="DAZN 1" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true" ,DAZN 1
-http://plus.linkott.com:80/50513041283809/97304261488292/149073
+http://plus.linkott.com:80/50766795442021/18528828456785/149073
 #EXTINF:-1 group-title="Deportes" tvg-id="DAZN 1" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true" ,DAZN 1
-http://plus.linkott.com:80/50513041283809/97304261488292/149074
+http://plus.linkott.com:80/50766795442021/18528828456785/149074
 #EXTINF:-1 group-title="Deportes" tvg-id="DAZN 1" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true" ,DAZN 1
-http://plus.linkott.com:80/50513041283809/97304261488292/149075
+http://plus.linkott.com:80/50766795442021/18528828456785/149075
 #EXTINF:-1 group-title="Deportes" tvg-id="DAZN 1" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true" ,DAZN 1
-http://plus.linkott.com:80/50513041283809/97304261488292/180271
+http://plus.linkott.com:80/50766795442021/18528828456785/180271
 #EXTINF:-1 group-title="Deportes" tvg-id="DAZN 1" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true" ,DAZN 1
-http://plus.linkott.com:80/50513041283809/97304261488292/86823
+http://plus.linkott.com:80/50766795442021/18528828456785/86823
 #EXTINF:-1 group-title="Deportes" tvg-id="DAZN 2" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-2-es.png?raw=true" ,DAZN 2
-http://plus.linkott.com:80/50513041283809/97304261488292/86822
+http://plus.linkott.com:80/50766795442021/18528828456785/86822
 #EXTINF:-1 group-title="Deportes" tvg-id="DAZN.F1.4K.es" tvg-name="0" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-f1-es.png?raw=true" ,DAZN F1
-http://plus.linkott.com:80/50513041283809/97304261488292/78674
+http://plus.linkott.com:80/50766795442021/18528828456785/78674
 #EXTINF:-1 group-title="Deportes" tvg-id="DAZN.F1.4K.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-f1-es.png?raw=true" ,DAZN F1
-http://plus.linkott.com:80/50513041283809/97304261488292/180274
+http://plus.linkott.com:80/50766795442021/18528828456785/180274
 #EXTINF:-1 group-title="Deportes" tvg-id="DAZN.F1.4K.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-f1-es.png?raw=true" ,DAZN F1
-http://plus.linkott.com:80/50513041283809/97304261488292/30013
+http://plus.linkott.com:80/50766795442021/18528828456785/30013
 #EXTINF:-1 group-title="Deportes" tvg-id="DAZN.F1.4K.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-f1-es.png?raw=true" ,DAZN F1
-http://plus.linkott.com:80/50513041283809/97304261488292/30112
+http://plus.linkott.com:80/50766795442021/18528828456785/30112
 #EXTINF:-1 group-title="Deportes" tvg-id="DAZN.F1.4K.es" tvg-name="2" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-f1-es.png?raw=true" ,DAZN F1
-http://plus.linkott.com:80/50513041283809/97304261488292/30096
+http://plus.linkott.com:80/50766795442021/18528828456785/30096
 #EXTINF:-1 group-title="Documentales" tvg-id="discoverychannel.es" tvg-name="3" audio-track="es" tvg-logo="https://raw.githubusercontent.com/ZMIPTV/Tivimate/main/Logos/discovery-channel-es.png?raw=true" ,Discovery Channel
-http://plus.linkott.com:80/50513041283809/97304261488292/30165
+http://plus.linkott.com:80/50766795442021/18528828456785/30165
 #EXTINF:-1 group-title="Documentales" tvg-id="discoverymax.es" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dmax-es.png?raw=true" ,DMAX
-http://plus.linkott.com:80/50513041283809/97304261488292/30158
+http://plus.linkott.com:80/50766795442021/18528828456785/30158
 #EXTINF:-1 group-title="Deportes" tvg-id="EUROSPORT1HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true" ,EuroSport 1
-http://plus.linkott.com:80/50513041283809/97304261488292/103169
+http://plus.linkott.com:80/50766795442021/18528828456785/103169
 #EXTINF:-1 group-title="Deportes" tvg-id="EUROSPORT1HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true" ,EuroSport 1
-http://plus.linkott.com:80/50513041283809/97304261488292/180279
+http://plus.linkott.com:80/50766795442021/18528828456785/180279
 #EXTINF:-1 group-title="Deportes" tvg-id="EUROSPORT1HD" tvg-name="2" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true" ,EuroSport 1
-http://plus.linkott.com:80/50513041283809/97304261488292/103296
+http://plus.linkott.com:80/50766795442021/18528828456785/103296
 #EXTINF:-1 group-title="Deportes" tvg-id="EUROSPORT1HD" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true" ,EuroSport 1
-http://plus.linkott.com:80/50513041283809/97304261488292/30153
+http://plus.linkott.com:80/50766795442021/18528828456785/30153
 #EXTINF:-1 group-title="Deportes" tvg-id="EUROSPORT2HD" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-2-es.png?raw=true" ,EuroSport 2
-http://plus.linkott.com:80/50513041283809/97304261488292/30154
+http://plus.linkott.com:80/50766795442021/18528828456785/30154
 #EXTINF:-1 group-title="Peliculas" tvg-id="fox.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/fox-es.png?raw=true" ,FOX
-http://plus.linkott.com:80/50513041283809/97304261488292/30028
+http://plus.linkott.com:80/50766795442021/18528828456785/30028
 #EXTINF:-1 group-title="Peliculas" tvg-id="fox.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/fox-es.png?raw=true" ,FOX
-http://plus.linkott.com:80/50513041283809/97304261488292/30147
+http://plus.linkott.com:80/50766795442021/18528828456785/30147
 #EXTINF:-1 group-title="Peliculas" tvg-id="fox.es" tvg-name="2" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/fox-es.png?raw=true" ,FOX
-http://plus.linkott.com:80/50513041283809/97304261488292/30148
+http://plus.linkott.com:80/50766795442021/18528828456785/30148
 #EXTINF:-1 group-title="Deportes" tvg-id="gol.es" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/gol-es.png?raw=true" ,Gol TV
-http://plus.linkott.com:80/50513041283809/97304261488292/30144
+http://plus.linkott.com:80/50766795442021/18528828456785/30144
 #EXTINF:-1 group-title="Documentales" tvg-id="HISTORIA" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/historia-es.png?raw=true" ,Historia
-http://plus.linkott.com:80/50513041283809/97304261488292/30143
+http://plus.linkott.com:80/50766795442021/18528828456785/30143
 #EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga" tvg-name="0" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true" ,LaLiga
-http://plus.linkott.com:80/50513041283809/97304261488292/78675
+http://plus.linkott.com:80/50766795442021/18528828456785/78675
 #EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true" ,LaLiga
-http://plus.linkott.com:80/50513041283809/97304261488292/149070
+http://plus.linkott.com:80/50766795442021/18528828456785/149070
 #EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true" ,LaLiga
-http://plus.linkott.com:80/50513041283809/97304261488292/180283
+http://plus.linkott.com:80/50766795442021/18528828456785/180283
 #EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true" ,LaLiga
-http://plus.linkott.com:80/50513041283809/97304261488292/30202
+http://plus.linkott.com:80/50766795442021/18528828456785/30202
 #EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga" tvg-name="2" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true" ,LaLiga
-http://plus.linkott.com:80/50513041283809/97304261488292/103304
+http://plus.linkott.com:80/50766795442021/18528828456785/103304
 #EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga" tvg-name="2" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true" ,LaLiga
-http://plus.linkott.com:80/50513041283809/97304261488292/103305
+http://plus.linkott.com:80/50766795442021/18528828456785/103305
 #EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga" tvg-name="2" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true" ,LaLiga
-http://plus.linkott.com:80/50513041283809/97304261488292/30029
+http://plus.linkott.com:80/50766795442021/18528828456785/30029
 #EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true" ,LaLiga
-http://plus.linkott.com:80/50513041283809/97304261488292/103244
+http://plus.linkott.com:80/50766795442021/18528828456785/103244
 #EXTINF:-1 group-title="Deportes" tvg-id="LALIGATV BAR" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga%20TV%20BAR-es.png?raw=true" ,LaLiga TV BAR
-http://plus.linkott.com:80/50513041283809/97304261488292/103306
+http://plus.linkott.com:80/50766795442021/18528828456785/103306
 #EXTINF:-1 group-title="Deportes" tvg-id="LALIGATV BAR" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga%20TV%20BAR-es.png?raw=true" ,LaLiga TV BAR
-http://plus.linkott.com:80/50513041283809/97304261488292/30024
+http://plus.linkott.com:80/50766795442021/18528828456785/30024
 #EXTINF:-1 group-title="Deportes" tvg-id="LALIGATV BAR" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga%20TV%20BAR-es.png?raw=true" ,LaLiga TV BAR
-http://plus.linkott.com:80/50513041283809/97304261488292/30119
+http://plus.linkott.com:80/50766795442021/18528828456785/30119
 #EXTINF:-1 group-title="Deportes" tvg-id="movistarcampeones.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true" ,Liga de Campeones
-http://plus.linkott.com:80/50513041283809/97304261488292/103174
+http://plus.linkott.com:80/50766795442021/18528828456785/103174
 #EXTINF:-1 group-title="Deportes" tvg-id="movistarcampeones.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true" ,Liga de Campeones
-http://plus.linkott.com:80/50513041283809/97304261488292/103307
+http://plus.linkott.com:80/50766795442021/18528828456785/103307
 #EXTINF:-1 group-title="Deportes" tvg-id="movistarcampeones.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true" ,Liga de Campeones
-http://plus.linkott.com:80/50513041283809/97304261488292/180277
+http://plus.linkott.com:80/50766795442021/18528828456785/180277
 #EXTINF:-1 group-title="Deportes" tvg-id="movistarcampeones.es" tvg-name="2" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true" ,Liga de Campeones
-http://plus.linkott.com:80/50513041283809/97304261488292/30130
+http://plus.linkott.com:80/50766795442021/18528828456785/30130
 #EXTINF:-1 group-title="Peliculas" tvg-id="movistaraccion.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-accion-es.png?raw=true" ,M. Accion
-http://plus.linkott.com:80/50513041283809/97304261488292/103163
+http://plus.linkott.com:80/50766795442021/18528828456785/103163
 #EXTINF:-1 group-title="Peliculas" tvg-id="movistaraccion.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-accion-es.png?raw=true" ,M. Accion
-http://plus.linkott.com:80/50513041283809/97304261488292/180292
+http://plus.linkott.com:80/50766795442021/18528828456785/180292
 #EXTINF:-1 group-title="Peliculas" tvg-id="movistaraccion.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-accion-es.png?raw=true" ,M. Accion
-http://plus.linkott.com:80/50513041283809/97304261488292/30019
+http://plus.linkott.com:80/50766795442021/18528828456785/30019
 #EXTINF:-1 group-title="Peliculas" tvg-id="movistaraccion.es" tvg-name="2" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-accion-es.png?raw=true" ,M. Accion
-http://plus.linkott.com:80/50513041283809/97304261488292/30106
+http://plus.linkott.com:80/50766795442021/18528828456785/30106
 #EXTINF:-1 group-title="Peliculas" tvg-id="movistaraccion.es" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-accion-es.png?raw=true" ,M. Accion
-http://plus.linkott.com:80/50513041283809/97304261488292/30115
+http://plus.linkott.com:80/50766795442021/18528828456785/30115
 #EXTINF:-1 group-title="Peliculas" tvg-id="movistarespanol.es" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-cine-espanol-es.png?raw=true" ,M. Cine Ñ
-http://plus.linkott.com:80/50513041283809/97304261488292/30017
+http://plus.linkott.com:80/50766795442021/18528828456785/30017
 #EXTINF:-1 group-title="Peliculas" tvg-id="movistarespanol.es" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-cine-espanol-es.png?raw=true" ,M. Cine Ñ
-http://plus.linkott.com:80/50513041283809/97304261488292/30018
+http://plus.linkott.com:80/50766795442021/18528828456785/30018
 #EXTINF:-1 group-title="Peliculas" tvg-id="movistarcomedia.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-comedia-es.png?raw=true" ,M. Comedia
-http://plus.linkott.com:80/50513041283809/97304261488292/103164
+http://plus.linkott.com:80/50766795442021/18528828456785/103164
 #EXTINF:-1 group-title="Peliculas" tvg-id="movistarcomedia.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-comedia-es.png?raw=true" ,M. Comedia
-http://plus.linkott.com:80/50513041283809/97304261488292/180291
+http://plus.linkott.com:80/50766795442021/18528828456785/180291
 #EXTINF:-1 group-title="Peliculas" tvg-id="movistarcomedia.es" tvg-name="2" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-comedia-es.png?raw=true" ,M. Comedia
-http://plus.linkott.com:80/50513041283809/97304261488292/30103
+http://plus.linkott.com:80/50766795442021/18528828456785/30103
 #EXTINF:-1 group-title="Deportes" tvg-id="movistardeportes.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-deportes-es.png?raw=true" ,M. Deportes
-http://plus.linkott.com:80/50513041283809/97304261488292/103172
+http://plus.linkott.com:80/50766795442021/18528828456785/103172
 #EXTINF:-1 group-title="Deportes" tvg-id="movistardeportes.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-deportes-es.png?raw=true" ,M. Deportes
-http://plus.linkott.com:80/50513041283809/97304261488292/180275
+http://plus.linkott.com:80/50766795442021/18528828456785/180275
 #EXTINF:-1 group-title="Deportes" tvg-id="movistardeportes.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-deportes-es.png?raw=true" ,M. Deportes
-http://plus.linkott.com:80/50513041283809/97304261488292/30016
+http://plus.linkott.com:80/50766795442021/18528828456785/30016
 #EXTINF:-1 group-title="Deportes" tvg-id="movistardeportes.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-deportes-es.png?raw=true" ,M. Deportes
-http://plus.linkott.com:80/50513041283809/97304261488292/30102
+http://plus.linkott.com:80/50766795442021/18528828456785/30102
 #EXTINF:-1 group-title="Deportes" tvg-id="movistardeportes.es" tvg-name="4" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-deportes-es.png?raw=true" ,M. Deportes
-http://plus.linkott.com:80/50513041283809/97304261488292/30023
+http://plus.linkott.com:80/50766795442021/18528828456785/30023
 #EXTINF:-1 group-title="Deportes" tvg-id="movistardeportes.es" tvg-name="4" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-deportes-es.png?raw=true" ,M. Deportes
-http://plus.linkott.com:80/50513041283809/97304261488292/30114
+http://plus.linkott.com:80/50766795442021/18528828456785/30114
 #EXTINF:-1 group-title="Peliculas" tvg-id="mdrama.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-drama-es.png?raw=true" ,M. Drama
-http://plus.linkott.com:80/50513041283809/97304261488292/103166
+http://plus.linkott.com:80/50766795442021/18528828456785/103166
 #EXTINF:-1 group-title="Peliculas" tvg-id="mdrama.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-drama-es.png?raw=true" ,M. Drama
-http://plus.linkott.com:80/50513041283809/97304261488292/180289
+http://plus.linkott.com:80/50766795442021/18528828456785/180289
 #EXTINF:-1 group-title="Peliculas" tvg-id="mdrama.es" tvg-name="2" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-drama-es.png?raw=true" ,M. Drama
-http://plus.linkott.com:80/50513041283809/97304261488292/30100
+http://plus.linkott.com:80/50766795442021/18528828456785/30100
 #EXTINF:-1 group-title="Peliculas" tvg-id="mdrama.es" tvg-name="2" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-drama-es.png?raw=true" ,M. Drama
-http://plus.linkott.com:80/50513041283809/97304261488292/30101
+http://plus.linkott.com:80/50766795442021/18528828456785/30101
 #EXTINF:-1 group-title="Peliculas" tvg-id="movistarestrenos.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-estrenos-es.png?raw=true" ,M. Estrenos
-http://plus.linkott.com:80/50513041283809/97304261488292/103167
+http://plus.linkott.com:80/50766795442021/18528828456785/103167
 #EXTINF:-1 group-title="Peliculas" tvg-id="movistarestrenos.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-estrenos-es.png?raw=true" ,M. Estrenos
-http://plus.linkott.com:80/50513041283809/97304261488292/180288
+http://plus.linkott.com:80/50766795442021/18528828456785/180288
 #EXTINF:-1 group-title="Peliculas" tvg-id="movistarestrenos.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-estrenos-es.png?raw=true" ,M. Estrenos
-http://plus.linkott.com:80/50513041283809/97304261488292/30098
+http://plus.linkott.com:80/50766795442021/18528828456785/30098
 #EXTINF:-1 group-title="Peliculas" tvg-id="movistarestrenos.es" tvg-name="2" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-estrenos-es.png?raw=true" ,M. Estrenos
-http://plus.linkott.com:80/50513041283809/97304261488292/30015
+http://plus.linkott.com:80/50766795442021/18528828456785/30015
 #EXTINF:-1 group-title="Peliculas" tvg-id="movistarestrenos.es" tvg-name="2" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-estrenos-es.png?raw=true" ,M. Estrenos
-http://plus.linkott.com:80/50513041283809/97304261488292/30097
+http://plus.linkott.com:80/50766795442021/18528828456785/30097
 #EXTINF:-1 group-title="Deportes" tvg-id="*" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-multideporte-es.png?raw=true" ,Multideporte
-http://plus.linkott.com:80/50513041283809/97304261488292/30084
+http://plus.linkott.com:80/50766795442021/18528828456785/30084
 #EXTINF:-1 group-title="Documentales" tvg-id="NAT GEO HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
-http://plus.linkott.com:80/50513041283809/97304261488292/103176
+http://plus.linkott.com:80/50766795442021/18528828456785/103176
 #EXTINF:-1 group-title="Documentales" tvg-id="NAT GEO HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
-http://plus.linkott.com:80/50513041283809/97304261488292/180285
+http://plus.linkott.com:80/50766795442021/18528828456785/180285
 #EXTINF:-1 group-title="Documentales" tvg-id="NAT GEO HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
-http://plus.linkott.com:80/50513041283809/97304261488292/30073
+http://plus.linkott.com:80/50766795442021/18528828456785/30073
 #EXTINF:-1 group-title="Documentales" tvg-id="NAT GEO HD" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-hd-es.png?raw=true" ,Nat Geo
-http://plus.linkott.com:80/50513041283809/97304261488292/30075
+http://plus.linkott.com:80/50766795442021/18528828456785/30075
 #EXTINF:-1 group-title="Documentales" tvg-id="natgeowild.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
-http://plus.linkott.com:80/50513041283809/97304261488292/103175
+http://plus.linkott.com:80/50766795442021/18528828456785/103175
 #EXTINF:-1 group-title="Documentales" tvg-id="natgeowild.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
-http://plus.linkott.com:80/50513041283809/97304261488292/180286
+http://plus.linkott.com:80/50766795442021/18528828456785/180286
 #EXTINF:-1 group-title="Documentales" tvg-id="natgeowild.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
-http://plus.linkott.com:80/50513041283809/97304261488292/30072
+http://plus.linkott.com:80/50766795442021/18528828456785/30072
 #EXTINF:-1 group-title="Documentales" tvg-id="natgeowild.es" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/national-geographic-wild-es.png?raw=true" ,Nat Geo Wild
-http://plus.linkott.com:80/50513041283809/97304261488292/30074
+http://plus.linkott.com:80/50766795442021/18528828456785/30074
 #EXTINF:-1 group-title="Documentales" tvg-id="odisea.es" tvg-name="0" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/odisea-es.png?raw=true" ,Odisea
-http://plus.linkott.com:80/50513041283809/97304261488292/78677
+http://plus.linkott.com:80/50766795442021/18528828456785/78677
 #EXTINF:-1 group-title="Documentales" tvg-id="odisea.es" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/odisea-es.png?raw=true" ,Odisea
-http://plus.linkott.com:80/50513041283809/97304261488292/101603
+http://plus.linkott.com:80/50766795442021/18528828456785/101603
 #EXTINF:-1 group-title="Documentales" tvg-id="odisea.es" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/odisea-es.png?raw=true" ,Odisea
-http://plus.linkott.com:80/50513041283809/97304261488292/30067
+http://plus.linkott.com:80/50766795442021/18528828456785/30067
 #EXTINF:-1 group-title="Peliculas" tvg-id="paramountchannel.es" tvg-name="3" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/paramount-network-es.png?raw=true" ,Paramount Channel
-http://plus.linkott.com:80/50513041283809/97304261488292/30065
-#EXTINF:-1 group-title="UK" tvg-id="100NLTV.nl" tvg-name="2" audio-track="en" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/rte-one-uk.png?raw=true" ,Rte 1
-http://plus.linkott.com:80/50513041283809/97304261488292/48816
-#EXTINF:-1 group-title="UK" tvg-id="100NLTV.nl" tvg-name="2" audio-track="en" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/rte-2-uk.png?raw=true" ,Rte 2
-http://plus.linkott.com:80/50513041283809/97304261488292/48815
-#EXTINF:-1 group-title="UK News" tvg-id="Rte News" tvg-name="3" audio-track="en" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/rte-news-now-uk.png?raw=true" ,Rte News
-http://plus.linkott.com:80/50513041283809/97304261488292/48814
-#EXTINF:-1 group-title="UK News" tvg-id="Rte News" tvg-name="3" audio-track="en" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/rte-news-now-uk.png?raw=true" ,Rte News
-http://plus.linkott.com:80/50513041283809/97304261488292/48817
+http://plus.linkott.com:80/50766795442021/18528828456785/30065
 #EXTINF:-1 group-title="Peliculas" tvg-id="sundance.es" tvg-name="3" audio-track="es" tvg-logo="https://github.com/skydrome/tvg-logos/blob/master/es/SundanceTV.es.png?raw=true" ,Sundance TV
-http://plus.linkott.com:80/50513041283809/97304261488292/30061
+http://plus.linkott.com:80/50766795442021/18528828456785/30061
 #EXTINF:-1 group-title="Peliculas" tvg-id="syfy.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Syfy.png?raw=true" ,SyFy
-http://plus.linkott.com:80/50513041283809/97304261488292/30058
+http://plus.linkott.com:80/50766795442021/18528828456785/30058
 #EXTINF:-1 group-title="Peliculas" tvg-id="syfy.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/Syfy.png?raw=true" ,SyFy
-http://plus.linkott.com:80/50513041283809/97304261488292/30059
+http://plus.linkott.com:80/50766795442021/18528828456785/30059
 #EXTINF:-1 group-title="Peliculas" tvg-id="tcm.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tcm-es.png?raw=true" ,TCM
-http://plus.linkott.com:80/50513041283809/97304261488292/30056
+http://plus.linkott.com:80/50766795442021/18528828456785/30056
 #EXTINF:-1 group-title="Peliculas" tvg-id="tcm.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tcm-es.png?raw=true" ,TCM
-http://plus.linkott.com:80/50513041283809/97304261488292/30057
+http://plus.linkott.com:80/50766795442021/18528828456785/30057
 #EXTINF:-1 group-title="Deportes" tvg-id="TELEDEPORTE" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/tdp-es.png?raw=true" ,Teledeporte
-http://plus.linkott.com:80/50513041283809/97304261488292/180272
+http://plus.linkott.com:80/50766795442021/18528828456785/180272
 #EXTINF:-1 group-title="Deportes" tvg-id="TELEDEPORTE" tvg-name="3" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/tdp-es.png?raw=true" ,Teledeporte
-http://plus.linkott.com:80/50513041283809/97304261488292/30055
-#EXTINF:-1 group-title="Telenovelas" tvg-id="Tlnovelas.cl" tvg-name="5" audio-track="lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" ,Tlnovelas
-http://plus.linkott.com:80/50513041283809/97304261488292/101601
+http://plus.linkott.com:80/50766795442021/18528828456785/30055
 #EXTINF:-1 group-title="Peliculas" tvg-id="tnt.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/tnt-es.png?raw=true" ,TNT
-http://plus.linkott.com:80/50513041283809/97304261488292/30050
+http://plus.linkott.com:80/50766795442021/18528828456785/30050
 #EXTINF:-1 group-title="Peliculas" tvg-id="tnt.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/tnt-es.png?raw=true" ,TNT
-http://plus.linkott.com:80/50513041283809/97304261488292/30051
-#EXTINF:-1 group-title="UK" tvg-id="BBC.Two.uk" tvg-name="2" audio-track="en" tvg-logo="https://jvtea44x1mh3gctjp1q2nymo-wpengine.netdna-ssl.com/wp-content/uploads/2012/08/BBC-Logo-drsign-Evolution-Story-marketing-facts-1200x630.jpg" ,UK: BBC TWO B1
-http://plus.linkott.com:80/50513041283809/97304261488292/47441
-#EXTINF:-1 group-title="UK" tvg-id="Channel.4.uk" tvg-name="3" audio-track="en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/188px-Channel_4_logo_2015.svg.png" ,UK: CHANNEL 4 B1
-http://plus.linkott.com:80/50513041283809/97304261488292/47433
+http://plus.linkott.com:80/50766795442021/18528828456785/30051
