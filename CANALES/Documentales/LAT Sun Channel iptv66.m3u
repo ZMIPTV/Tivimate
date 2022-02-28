@@ -1,8 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-name="Sun Channel 1080" tvg-id="Sun.Channel.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/sun-Channel.png?raw=true",Sun Channel
-http://38.131.11.9:1080/play/a0de
-#EXTINF:-1 tvg-name="Sun Channel 1080" tvg-id="Sun.Channel.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/sun-Channel.png?raw=true",Sun Channel
-http://45.225.93.154:4000/play/a0aj
-#EXTINF:-1 tvg-name="Sun Channel 1080" tvg-id="Sun.Channel.cl" group-title="Documentales" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/sun-Channel.png?raw=true",Sun Channel
-http://190.108.93.62:8001/udp/224.2.2.2:10068

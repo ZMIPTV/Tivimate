@@ -1,8 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-name="N/A" tvg-id="TeleNovelas.mx" group-title="Telenovelas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tln.png?raw=true",tln SD
-http://plus.linkott.com:80/50513041283809/97304261488292/101601
-#EXTINF:-1 tvg-name="N/A" tvg-id="TLNovelas.ng" group-title="Telenovelas" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/tln.png?raw=true",tln SD
-http://181.176.148.142:8000/play/a00e
-
-

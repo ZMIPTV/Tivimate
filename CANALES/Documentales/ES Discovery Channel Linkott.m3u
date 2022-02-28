@@ -1,6 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="Discovery 576" tvg-id="DISCOVERY" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/ZMIPTV/Tivimate/main/Logos/discovery-channel-es.png?raw=true",Discovery Channel
-http://plus.linkott.com:80/50513041283809/97304261488292/30165
-#EXTINF:-1 tvg-name="Discovery 576" tvg-id="DISCOVERY" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/ZMIPTV/Tivimate/main/Logos/discovery-channel-es.png?raw=true",Discovery Channel
-http://149.62.183.208:8000/play/a03w/index.m3u8
-
