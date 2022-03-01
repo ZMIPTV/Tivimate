@@ -1,51 +1,117 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="Deportes" tvg-id="vamos.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/vamos-es.png?raw=true" ,#Vamos
-http://149.62.183.208:8000/play/a016/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="vamos.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/vamos-es.png?raw=true" ,#Vamos
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2018
-#EXTINF:-1 group-title="Deportes" tvg-id="vamos.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/vamos-es.png?raw=true" ,#Vamos
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/315
-#EXTINF:-1 group-title="Deportes" tvg-id="vamos.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/vamos-es.png?raw=true" ,#Vamos
-http://stariptv.org:8080/wael2021/123456/12074?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Deportes" tvg-id="DAZN 1" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true" ,DAZN 1
-http://149.62.183.208:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="DAZN 1" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true" ,DAZN 1
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1990
-#EXTINF:-1 group-title="Deportes" tvg-id="DAZN 2" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-2-es.png?raw=true" ,DAZN 2
-http://149.62.183.208:8000/play/a008/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="DAZN 2" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-2-es.png?raw=true" ,DAZN 2
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1991
-#EXTINF:-1 group-title="Deportes" tvg-id="DAZN.3.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/dazn-3-es.png?raw=true" ,DAZN 3
-http://149.62.183.208:8000/play/a04x/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="DAZN 4" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/dazn-4-es.png?raw=true" ,DAZN 4
-http://149.62.183.208:8000/play/a04w/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="DAZN.F1.4K.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-f1-es.png?raw=true" ,DAZN F1
-http://149.62.183.208:8000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="DAZN.F1.4K.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/dazn-f1-es.png?raw=true" ,DAZN F1
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2002
-#EXTINF:-1 group-title="Deportes" tvg-id="DAZN.F1.4K.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-f1-es.png?raw=true" ,DAZN F1
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/288
-#EXTINF:-1 group-title="Deportes" tvg-id="EUROSPORT1HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true" ,EuroSport 1
-http://149.62.183.208:8000/play/a025/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="EUROSPORT1HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true" ,Eurosport 1
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/295
-#EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true" ,LaLiga
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/309
-#EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true" ,LaLiga
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/311
-#EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga 1 HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-1-es.png?raw=true" ,LaLiga 1
-http://149.62.183.208:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga 1 HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-1-es.png?raw=true" ,LaLiga 1
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/308
-#EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga 2 HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-2-es.png?raw=true" ,LaLiga 2
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/307
-#EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga 3 HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-3-es.png?raw=true" ,LaLiga 3
-http://149.62.183.208:8000/play/a04t/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga 3 HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-3-es.png?raw=true" ,LaLiga 3
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2025
-#EXTINF:-1 group-title="Deportes" tvg-id="movistarcampeones.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true" ,Liga de Campeones
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2009
-#EXTINF:-1 group-title="Deportes" tvg-id="movistarcampeones.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true" ,Liga de Campeones
-http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/285
-#EXTINF:-1 group-title="Deportes" tvg-id="movistarcampeones.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true" ,Liga de Campeones
-http://hz01.oknirvana.club:8880/AA6M0485/535355353/52422
+#EXTINF:-1,AE Mundo
+http://45.189.108.58:10000/play/a00j/index.m3u8
+#EXTINF:-1,AMC HD
+http://45.189.108.58:10000/play/a020/index.m3u8
+#EXTINF:-1,AMERICAHD
+http://45.189.108.58:10000/play/a00r/index.m3u8
+#EXTINF:-1,ATV NOTICIASHD
+http://45.189.108.58:10000/play/a00w/index.m3u8
+#EXTINF:-1,ATVHD
+http://45.189.108.58:10000/play/a00v/index.m3u8
+#EXTINF:-1,AZ click HD
+http://45.189.108.58:10000/play/a021/index.m3u8
+#EXTINF:-1,Animal Planet
+http://45.189.108.58:10000/play/a00a/index.m3u8
+#EXTINF:-1,CNN Chile
+http://45.189.108.58:10000/play/a01g/index.m3u8
+#EXTINF:-1,CUBAVISION INTERNACIONAL
+http://45.189.108.58:10000/play/a00y/index.m3u8
+#EXTINF:-1,Canal Estrellas
+http://45.189.108.58:10000/play/a00n/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://45.189.108.58:10000/play/a01k/index.m3u8
+#EXTINF:-1,Cinecanal
+http://45.189.108.58:10000/play/a01a/index.m3u8
+#EXTINF:-1,Claro Sports
+http://45.189.108.58:10000/play/a01m/index.m3u8
+#EXTINF:-1,Comedy Central HD
+http://45.189.108.58:10000/play/a01u/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://45.189.108.58:10000/play/a009/index.m3u8
+#EXTINF:-1,Disney Channel
+http://45.189.108.58:10000/play/a008/index.m3u8
+#EXTINF:-1,Disney 😆
+http://45.189.108.58:10000/play/a017/index.m3u8
+#EXTINF:-1,E Entertainment
+http://45.189.108.58:10000/play/a00c/index.m3u8
+#EXTINF:-1,ESPN
+http://45.189.108.58:10000/play/a00f/index.m3u8
+#EXTINF:-1,ESPN 2 Latin
+http://45.189.108.58:10000/play/a00e/index.m3u8
+#EXTINF:-1,EXITOSAHD
+http://45.189.108.58:10000/play/a00z/index.m3u8
+#EXTINF:-1,Enlace
+http://45.189.108.58:10000/play/a01p/index.m3u8
+#EXTINF:-1,Fox Sports 2
+http://45.189.108.58:10000/play/a00o/index.m3u8
+#EXTINF:-1,Fox Sports 3
+http://45.189.108.58:10000/play/a00p/index.m3u8
+#EXTINF:-1,HOLA! TV HD
+http://45.189.108.58:10000/play/a01t/index.m3u8
+#EXTINF:-1,History Channel
+http://45.189.108.58:10000/play/a019/index.m3u8
+#EXTINF:-1,I-Sat
+http://45.189.108.58:10000/play/a01c/index.m3u8
+#EXTINF:-1,IPEHD
+http://45.189.108.58:10000/play/a013/index.m3u8
+#EXTINF:-1,KARIBENAHD
+http://45.189.108.58:10000/play/a010/index.m3u8
+#EXTINF:-1,LATINAHD
+http://45.189.108.58:10000/play/a006/index.m3u8
+#EXTINF:-1,MTV
+http://45.189.108.58:10000/play/a01d/index.m3u8
+#EXTINF:-1,MULTIVISION
+http://45.189.108.58:10000/play/a001/index.m3u8
+#EXTINF:-1,Nat Geo
+http://45.189.108.58:10000/play/a018/index.m3u8
+#EXTINF:-1,NatGeo Kids
+http://45.189.108.58:10000/play/a01j/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://45.189.108.58:10000/play/a016/index.m3u8
+#EXTINF:-1,PANAMERICANAHD
+http://45.189.108.58:10000/play/a002/index.m3u8
+#EXTINF:-1,RADIOZ
+http://45.189.108.58:10000/play/a011/index.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://45.189.108.58:10000/play/a01h/index.m3u8
+#EXTINF:-1,STAR LIFE
+http://45.189.108.58:10000/play/a01f/index.m3u8
+#EXTINF:-1,TCM
+http://45.189.108.58:10000/play/a01i/index.m3u8
+#EXTINF:-1,TLC
+http://45.189.108.58:10000/play/a00l/index.m3u8
+#EXTINF:-1,TNT
+http://45.189.108.58:10000/play/a01l/index.m3u8
+#EXTINF:-1,TNT HD
+http://45.189.108.58:10000/play/a01r/index.m3u8
+#EXTINF:-1,TVE
+http://45.189.108.58:10000/play/a01q/index.m3u8
+#EXTINF:-1,TVPERUHD
+http://45.189.108.58:10000/play/a00t/index.m3u8
+#EXTINF:-1,TVPERUNOTICIASHD
+http://45.189.108.58:10000/play/a012/index.m3u8
+#EXTINF:-1,Telemundo
+http://45.189.108.58:10000/play/a00q/index.m3u8
+#EXTINF:-1,TyC
+http://45.189.108.58:10000/play/a00h/index.m3u8
+#EXTINF:-1,UNIVERSAL CRIME HD
+http://45.189.108.58:10000/play/a01y/index.m3u8
+#EXTINF:-1,UNIVERSAL PREMIERE HD
+http://45.189.108.58:10000/play/a01v/index.m3u8
+#EXTINF:-1,UNIVERSAL PREMIERE O HD
+http://45.189.108.58:10000/play/a01w/index.m3u8
+#EXTINF:-1,UNIVERSAL REALITY HD
+http://45.189.108.58:10000/play/a01x/index.m3u8
+#EXTINF:-1,Universal
+http://45.189.108.58:10000/play/a01b/index.m3u8
+#EXTINF:-1,Venus
+http://45.189.108.58:10000/play/a00k/index.m3u8
+#EXTINF:-1,ViaX
+http://45.189.108.58:10000/play/a00m/index.m3u8
+#EXTINF:-1,WILLAXHD
+http://45.189.108.58:10000/play/a005/index.m3u8
+#EXTINF:-1,Warner
+http://45.189.108.58:10000/play/a00b/index.m3u8
+#EXTINF:-1,Zona Latina
+http://45.189.108.58:10000/play/a01e/index.m3u8
