@@ -1,0 +1,51 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Deportes" tvg-id="vamos.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/vamos-es.png?raw=true" ,#Vamos
+http://149.62.183.208:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-id="vamos.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/vamos-es.png?raw=true" ,#Vamos
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2018
+#EXTINF:-1 group-title="Deportes" tvg-id="vamos.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/vamos-es.png?raw=true" ,#Vamos
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/315
+#EXTINF:-1 group-title="Deportes" tvg-id="vamos.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/vamos-es.png?raw=true" ,#Vamos
+http://stariptv.org:8080/wael2021/123456/12074?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Deportes" tvg-id="DAZN 1" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true" ,DAZN 1
+http://149.62.183.208:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-id="DAZN 1" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-1-es.png?raw=true" ,DAZN 1
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1990
+#EXTINF:-1 group-title="Deportes" tvg-id="DAZN 2" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-2-es.png?raw=true" ,DAZN 2
+http://149.62.183.208:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-id="DAZN 2" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-2-es.png?raw=true" ,DAZN 2
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/1991
+#EXTINF:-1 group-title="Deportes" tvg-id="DAZN.3.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/dazn-3-es.png?raw=true" ,DAZN 3
+http://149.62.183.208:8000/play/a04x/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-id="DAZN 4" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/dazn-4-es.png?raw=true" ,DAZN 4
+http://149.62.183.208:8000/play/a04w/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-id="DAZN.F1.4K.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-f1-es.png?raw=true" ,DAZN F1
+http://149.62.183.208:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-id="DAZN.F1.4K.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/dazn-f1-es.png?raw=true" ,DAZN F1
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2002
+#EXTINF:-1 group-title="Deportes" tvg-id="DAZN.F1.4K.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/dazn-f1-es.png?raw=true" ,DAZN F1
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/288
+#EXTINF:-1 group-title="Deportes" tvg-id="EUROSPORT1HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true" ,EuroSport 1
+http://149.62.183.208:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-id="EUROSPORT1HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/eurosport-1-es.png?raw=true" ,Eurosport 1
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/295
+#EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true" ,LaLiga
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/309
+#EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-es.png?raw=true" ,LaLiga
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/311
+#EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga 1 HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-1-es.png?raw=true" ,LaLiga 1
+http://149.62.183.208:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga 1 HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-1-es.png?raw=true" ,LaLiga 1
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/308
+#EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga 2 HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-2-es.png?raw=true" ,LaLiga 2
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/307
+#EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga 3 HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-3-es.png?raw=true" ,LaLiga 3
+http://149.62.183.208:8000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-id="M. LaLiga 3 HD" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-laliga-3-es.png?raw=true" ,LaLiga 3
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2025
+#EXTINF:-1 group-title="Deportes" tvg-id="movistarcampeones.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true" ,Liga de Campeones
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/2009
+#EXTINF:-1 group-title="Deportes" tvg-id="movistarcampeones.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true" ,Liga de Campeones
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/285
+#EXTINF:-1 group-title="Deportes" tvg-id="movistarcampeones.es" tvg-name="1" audio-track="es" tvg-logo="https://github.com/ZMIPTV/Tivimate/blob/main/Logos/movistar-liga-de-campeones-es.png?raw=true" ,Liga de Campeones
+http://hz01.oknirvana.club:8880/AA6M0485/535355353/52422
